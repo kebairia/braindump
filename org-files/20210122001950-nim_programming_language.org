@@ -1,0 +1,8 @@
+#+title: nim programming language
+#+roam_tags: speed compile c
+nim is an imperative programming language designed and developed by Andreas Rumpf.
+it's primary goals is to be  efficient, elegant, and fast. 
+it had nearly the same syntax as python.
+[[https://howistart.org/posts/nim/1/][howtostart]]
+[[https://en.wikipedia.org/wiki/Nim_(programming_language)][source]]
+

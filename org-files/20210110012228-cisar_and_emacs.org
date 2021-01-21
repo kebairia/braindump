@@ -1,0 +1,12 @@
+#+title: cisar and emacs
+#+roam_tags: elisp cisar cryptography emacs
+
+you can use the following trick with your email for example or any text you want to hide in emacs
+#+begin_src emacs-lisp
+(rot13 "4.xronvevn@tznvy.pbz")
+
+#+end_src
+#+RESULTS:
+: 4.kebairia@gmail.com
+
+- I got this trick from [[https://www.masteringemacs.org/about][mastering emacs blog]]

@@ -1,0 +1,10 @@
+#+title: counsel-package
+#+roam_tags: elisp emacs counsel package
+we can use now ~counsel-package~ to install/delete packages with the new version of[[file:20210112104228-counsel.org][ counsel]] 
+M-x counsel-package, then precede the name of the package with ~-~ for deleting and ~+~ for installing
+when you first type ~-~, ~counsel-package~ will show you only the packages that are already installed.
+same with ~+~, it will show you only the packages that are'nt installed
+
+it will update/fetch your package repositories infos every 4hours, like when we execute the ~package-refresh-contents~ .
+that was, somehow annoying, at least for me, because i have very slow internet.
+

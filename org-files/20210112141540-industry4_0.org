@@ -1,0 +1,4 @@
+#+title: industry4.0
+#+roam_tags: AI IOT "could computing" blockchain
+the [[file:20210112141824-internet_of_things.org][internet of things]] (IOT), [[file:20210112141847-cloud_computing.org][Cloud computing]], [[file:20210112141902-artificial_interlligence.org][Artificial interlligence]] and[[file:20210112141911-blockchain.org][ Blockchain]]  are the signature elements of the next[[file:20210112141741-industrial_revolution.org][industrial revolution]] commonly termed by Industry4.0
+

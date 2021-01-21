@@ -1,0 +1,9 @@
+#+title: input methods in emacs
+#+roam_tags: language input emacs Internationalization
+you can use ~M-x set-input-method~ to 'latin-1-prefix' or 'french-prefix' (which also TAB-completes)
+you will get all the letters you want in other languages.
+~'+e~ --> é 
+~`+e~ --> è 
+~,+c~ --> ç 
+~/+o~ --> œ
+..etc

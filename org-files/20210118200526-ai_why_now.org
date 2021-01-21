@@ -1,0 +1,5 @@
+#+title: AI-why now?
+#+roam_tags: AI "big data" "machine learning"
+Big Data  + Compute power + Machine learning algorithms + we learned how to advertise our AI products. 
+
+

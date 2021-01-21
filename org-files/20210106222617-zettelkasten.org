@@ -1,0 +1,2 @@
+#+title: zettelkasten
+zettelkasten is a note taking method that trys to mimic the brain neurons structure, invented by [[file:20210106222747-niklas_luhman.org][niklas luhman]]

@@ -1,0 +1,15 @@
+#+title: inline source blocks
+#+roam_tags: emacs code org-mode thesis
+we can use inline source blocks in [[file:20210118145124-org_mode.org][org-mode]] like the following example:
+#+begin_src org
+src_<language>[<header arguments>]{<body>}
+#+end_src
+
+_Example_:
+
+#+begin_src org
+src_python[:results output]{print("Hello World")} {{{results(=Hello World=)}}}
+#+end_src
+
+[[https://orgmode.org/manual/Structure-of-Code-Blocks.html][source]]
+
