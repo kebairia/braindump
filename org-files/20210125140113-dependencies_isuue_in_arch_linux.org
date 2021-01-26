@@ -1,0 +1,7 @@
+#+title: dependencies isuue in arch linux
+#+roam_tags: linux installing tricks
+
+you can use ~pacman -Rdd <package>~ to uninstall a package and overcome its complain about package dependencies.
+for example, i had an issue lately installing the ~libxft-bgra-git~ on archlinux, because there was a another package called ~libxft~, and that makes a conflict and i could'nt uninstall it.
+- the solution is to use ~pacman -Rdd libxft~ to uninstall the package and overcome the =error= message, than installing the ~libxft-bgra-git~ package using ~yaourt~.
+- [[https://github.com/LukeSmithxyz/voidrice/issues/690#issuecomment-639346394][LukeSmithxyz/voidrice#690 libxft and libxft-bgra conflict]]
