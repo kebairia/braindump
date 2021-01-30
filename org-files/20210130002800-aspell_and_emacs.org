@@ -1,0 +1,10 @@
+#+title: aspell and emacs
+#+roam_tags: emacs aspell "spell checker" spell
+
+to use flyspell in emacs you must install the following packages on your system
+- aspell
+- aspell-en
+On Arch Linux for example
+#+begin_src shell
+sudo pacman -S aspell aspell-en
+#+end_src
