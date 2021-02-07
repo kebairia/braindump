@@ -1,8 +1,8 @@
 #+title: git with ssh
 #+roam_tags: git security ssh
-we can use our ssh public-key to fetch and push our code from/to github repo
-so instead of linking your remote repo the traditional way, we can use our ssh public key instead.
-1) add your ssh public key to your github profile
+we can use our [[file:../../../org/notes/20210119230640-ssh.org][ssh]] public-key to fetch and push our code from/to github repo
+so instead of linking your remote repo the traditional way, we can use our [[file:../../../org/notes/20210119230640-ssh.org][ssh]] public key instead.
+1) add your [[file:../../../org/notes/20210119230640-ssh.org][ssh]] public key to your github profile
    - go to setting --> SSH and GPG keys --> New ssh key, then paste your public key there [ ~~/.ssh/id_rsa.pub~ content]
 2) then link your local repo with your remote repo/branch
    - ~git remote add git@github.com:<user>/<repo's name>~

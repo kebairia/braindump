@@ -1,2 +1,6 @@
 #+title: org-mode
 #+roam_tags: emacs "literate programing"
+org mode is a major mode in Gnu Emacs.
+# it's an enhanced version of the traditional inline mode that was in Emacs earlier. (needs checkup)
+also it's a very convenient markup language and much more
+[[https://orgmode.org/][Org mode for Emacs]]
