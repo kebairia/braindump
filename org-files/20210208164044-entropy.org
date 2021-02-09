@@ -1,0 +1,4 @@
+#+title: entropy
+#+roam_tags: data order
+the Entropy is the measurement of the disorder, impurity and the randomness in data
+
