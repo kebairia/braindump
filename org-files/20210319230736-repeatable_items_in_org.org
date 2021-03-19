@@ -1,0 +1,9 @@
+#+title: repeatable items in org
+#+roam_tags: org-mode emacs
+to make repeatable items in [[file:20210118145124-org_mode.org][org-mode]] you can use two methods: 
+- use org habits 
+- if you want to make it repeatable on specific days only:
+  - use the following scheduled item  /SCHEDULED: <%%(memq (calendar-day-of-week date) '(1 2 3 4 5))>/
+  - this means that the item above will will appear on your org-agenda only on day (1 2 3 4 5) of the week
+
+
