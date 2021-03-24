@@ -1,0 +1,5 @@
+#+title: metadata   
+#+roam_tags: metadata "computer science" 
+a set of data that describes and give information about other data
+data that provides information about other data.
+

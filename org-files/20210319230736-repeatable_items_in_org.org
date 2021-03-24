@@ -5,5 +5,15 @@ to make repeatable items in [[file:20210118145124-org_mode.org][org-mode]] you c
 - if you want to make it repeatable on specific days only:
   - use the following scheduled item  /SCHEDULED: <%%(memq (calendar-day-of-week date) '(1 2 3 4 5))>/
   - this means that the item above will will appear on your org-agenda only on day (1 2 3 4 5) of the week
-
-
+   
+  |--------+-----------|
+  | number | day       |
+  |--------+-----------|
+  | 7 or 0 | Sunday    |
+  |      1 | Monday    |
+  |      2 | Tuesday   |
+  |      3 | Wednesday |
+  |      4 | Thursday  |
+  |      5 | Friday    |
+  |      6 | Saturday  |
+  |--------+-----------|

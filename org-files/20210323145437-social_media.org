@@ -1,2 +1,3 @@
 #+title: social media
+#+roam_tags: "social media"
 
