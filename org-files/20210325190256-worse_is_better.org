@@ -1,0 +1,6 @@
+#+title: worse is better
+#+roam_tags: unix
+Worse is better (the New Jersey style): a term refers to the argument that software quality does not necessarily increase with functionality
+there is a point where less functionality ("worse") is a prefereable option ("better") in terms of practicality and usability.
+limited and simple software may be more appealing to the user and market than the reverse.
+the term conceived by [[file:20210325190825-richard_gabriel.org][Richard Gabriel]] in an essay of the same name.
