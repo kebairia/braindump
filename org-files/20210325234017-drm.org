@@ -1,0 +1,6 @@
+#+title: DRM
+#+roam_tags: unix linux "video card" kernel API
+
+the *Direct Redering Manager* or *DRM* for short, is a [[file:20210325234122-subsystem.org][subsystem]] of the linux kernel, responsible for interfacing with GPUs of modern [[file:20210325234205-video_card.org][video card]]s.
+DRM provides an [[file:20210325234240-api.org][API]] that [[file:20210325234309-user_space.org][user-space]] programs can use to send commands and data to the GPU and perform operations such as configuring the mode setting of the display ...etc 
+

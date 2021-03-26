@@ -1,0 +1,3 @@
+#+title: video card  
+#+roam_tags: "computer science"
+
