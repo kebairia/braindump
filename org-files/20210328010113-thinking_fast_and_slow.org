@@ -1,0 +1,31 @@
+#+title: Thinking, Fast and Slow
+#+roam_tags: "Building a Second Brain" brain
+
+*This is my summary for Daniel Kahneman's talk on Talk at Google*  
+[[https://www.youtube.com/channel/UCbmNph6atAoGfqLoCL_duAg][Talks at Google - YouTube]]
+
+[[file:20210328011147-daniel_kahneman.org][Daniel Kahneman]]: a Psychologist who won a noble prise for his work on ""
+there are 2 mode of thinking:
+when we see a picture of someone angry, we know immediatly that he is angry.
+that type of thinking (intuition) feels like somethingthat happen to us, not somethinkg that we do it.
+#+begin_example
+24 x 17 = .... 408
+#+end_example
+is an example of something we do it it's hard, need us to remember and recall things.
+this type of thinking, requires a lot of ressources and with more ressources taken away, less will remain to other tasks.
+so, this type of thinking need focus and we should'nt do it with other critical tasks.
+these 2 types of thinking,[[file:20210328011147-daniel_kahneman.org][Daniel Kahneman]]  calls them System 1 ( the fast one) and System 2
+#+begin_example
+x + y = 1.10
+x = y + 1
+---------------
+(y + 1) + y = 1.10
+2y + 1  = 1.10 
+2y = 0.1 => y = 0.05 and x = 1.05
+#+end_example
+[[file:20210328012520-herbert_simon.org][Herbert Simon]] who was a psychologist then an economist and a political scientist and [[file:20210328012604-nobel.org][Nobel]] laureate
+he gave a very good definition about what intuition is... it's simply "Recognition".
+there is no difference between a physician knowing or recognizing a disease and a little child learning and pointing to something and saying doggie.
+the little child has no idea what the clues are but he just said.
+- when you can trust intuition and when can't you?
+

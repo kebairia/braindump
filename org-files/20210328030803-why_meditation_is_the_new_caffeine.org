@@ -1,0 +1,9 @@
+#+title: Why meditation is the new Caffeine?
+#+roam_tags: google talks meditation Caffeine brain thoughts
+
+*This is my summary for "why [[file:20210328031851-meditation.org][meditation]] is the new Caffeine"'s talk on Talk at Google, by Emily Fletcher*  
+[[https://www.youtube.com/watch?v=zC7a_gQB9YQ][Why Meditation is the New Caffeine | Emily Fletcher | Talks at Google - YouTube]]
+* Emily Fletcher
+* the talk summarization
+** What does Caffeine do to our brains?
+
