@@ -23,7 +23,7 @@ x = y + 1
 2y + 1  = 1.10 
 2y = 0.1 => y = 0.05 and x = 1.05
 #+end_example
-[[file:20210328012520-herbert_simon.org][Herbert Simon]] who was a psychologist then an economist and a political scientist and [[file:20210328012604-nobel.org][Nobel]] laureate
+[[file:20210328012520-herbert_simon.org][Herbert Simon]] who was a psychologist then an economist and a political scientist and [[file:20210328020415-nobel_prize.org][Nobel Prize]] laureate
 he gave a very good definition about what intuition is... it's simply "Recognition".
 there is no difference between a physician knowing or recognizing a disease and a little child learning and pointing to something and saying doggie.
 the little child has no idea what the clues are but he just said.

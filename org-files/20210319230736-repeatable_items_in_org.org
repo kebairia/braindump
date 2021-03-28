@@ -17,3 +17,4 @@ to make repeatable items in [[file:20210118145124-org_mode.org][org-mode]] you c
   |      5 | Friday    |
   |      6 | Saturday  |
   |--------+-----------|
+

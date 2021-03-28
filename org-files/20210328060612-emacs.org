@@ -1,0 +1,3 @@
+#+title: emacs
+#+roam_tags: unix "text editor" elisp
+
