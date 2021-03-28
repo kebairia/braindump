@@ -1,10 +1,11 @@
 #+title: Thinking, Fast and Slow
-#+roam_tags: "Building a Second Brain" brain
+#+roam_tags: "Building a Second Brain" brain talk google
 
 *This is my summary for Daniel Kahneman's talk on Talk at Google*  
 [[https://www.youtube.com/channel/UCbmNph6atAoGfqLoCL_duAg][Talks at Google - YouTube]]
-
+* About the Author
 [[file:20210328011147-daniel_kahneman.org][Daniel Kahneman]]: a Psychologist who won a noble prize for his work on ""
+* Ideas
 there are 2 mode of thinking:
 when we see a picture of someone angry, we know immediately that he is angry.
 that type of thinking (intuition) feels like something that happen to us, not something that we do it.
@@ -121,3 +122,4 @@ but this may help you in creating personalities for these two systems, and this 
 - which type of links our mind use to link the ideas together.
 - is related ideas are located in the same region of the memory, so that when an action stimulus and idea, it effect its neighbors???
 - What's the woman's feeling during pregnancy and when she get birth to her child?.
+
