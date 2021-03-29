@@ -1,53 +1,52 @@
 #+title: Thinking, Fast and Slow
-#+roam_tags: "Building a Second Brain" brain talk google
+#+roam_tags: "Building a Second Brain" brain talk google rationality
 
-*This is my summary for Daniel Kahneman's talk on Talk at Google*  
+*Daniel Kahneman's talk on Talk at Google*  
 [[https://www.youtube.com/channel/UCbmNph6atAoGfqLoCL_duAg][Talks at Google - YouTube]]
 * About the Author
 [[file:20210328011147-daniel_kahneman.org][Daniel Kahneman]]: a Psychologist who won a noble prize for his work on ""
 * Ideas
-there are 2 mode of thinking:
-when we see a picture of someone angry, we know immediately that he is angry.
-that type of thinking (intuition) feels like something that happen to us, not something that we do it.
-#+begin_example
-24 x 17 = .... 408
-#+end_example
-is an example of something we do it it's hard, need us to remember and recall things.
-this type of thinking, requires a lot of ressources and with more ressources taken away, less will remain to other tasks.
-so, this type of thinking need focus and we shouldn't do it with other critical tasks.
-these 2 types of thinking, [[file:20210328011147-daniel_kahneman.org][Daniel Kahneman]] calls them System 1 ( the fast one) and System 2
-#+begin_example
-x + y = 1.10
-x = y + 1
----------------
-(y + 1) + y = 1.10
-2y + 1  = 1.10 
-2y = 0.1 => y = 0.05 and x = 1.05
-#+end_example
-[[file:20210328012520-herbert_simon.org][Herbert Simon]] who was a psychologist then an economist and a political scientist and [[file:20210328020415-nobel_prize.org][Nobel Prize]] laureate
-he gave a very good definition about what intuition is... it's simply "Recognition".
-there is no difference between a physician knowing or recognizing a disease and a little child learning and pointing to something and saying doggie.
-the little child has no idea what the clues are but he just said.
-- when you can trust intuition and when can't you?
-then come the issue of :
-is the world regular enough so that you can learn to recognize things?
-and then, did this particular individual one have an opportunity to learn the regulation of the world?.
-I can recognize my wife's mood from one word on the telephone for example ...etc, we are good intuition machines
+- there are 2 mode of thinking:
+  when we see a picture of someone angry, we know immediately that he is angry.
+  that type of thinking (intuition) feels like something that happen to us, not something that we do it.
+  #+begin_example
+  24 x 17 = .... 408
+  #+end_example
+  is an example of something we do it, it's hard, need us to remember and recall things.
+  this type of thinking, requires a lot of ressources and with more ressources taken away, less will remain to other tasks.
+  so, this type of thinking need focus and we shouldn't do it with other critical tasks.
+- these 2 types of thinking, [[file:20210328011147-daniel_kahneman.org][Daniel Kahneman]] calls them System 1 ( the fast one) and System 2
+  #+begin_example
+  x + y = 1.10
+  x = y + 1
+  ---------------
+  (y + 1) + y = 1.10
+  2y + 1  = 1.10 
+  2y = 0.1 => y = 0.05 and x = 1.05
+  #+end_example
+- [[file:20210328012520-herbert_simon.org][Herbert Simon]] who was a psychologist then an economist and a political scientist and [[file:20210328020415-nobel_prize.org][Nobel Prize]] laureate
+  he gave a very good definition about what intuition is... it's simply "Recognition".
+  there is no difference between a physician knowing or recognizing a disease and a little child learning and pointing to something and saying doggie.
+  the little child has no idea what the clues are but he just said.
+  - when you can trust intuition and when can't you?
+    then come the issue of :
+    is the world regular enough so that you can learn to recognize things?
+    and then, did this particular individual one have an opportunity to learn the regulation of the world?.
+- I can recognize my wife's mood from one word on the telephone for example ...etc, we are good intuition machines
 - an intuitive expertise is not going to develop in a chaotic universe or in a chaotic world.
-- for example you can't develop intuition in "the market or in poker game" (because they are not regular, don't have rules that helps us predict the next step/s)
-- is the world not predictable?
- *Intuition =(included)=> System 1*
-so: intuition come from practicing and experience, but there are other types of intuitions that aren't from experience
-- where did they come from ?
-- in the [[file:20210328131228-honesty_box.org][honesty box]], someone glued posters and he changed the poster every week.
-- the reaction decrease when there where eyes, big eyes looking at you, and increased when the poster contained flowers.
-- the eyes give us the indication of being watched.
- system 1 is what happen in an associative memory, and associative memory is a gigantic network of ideas, and the ideas are linked to each other in various way
-
- an action effect/stimulus some ideas because these actions (some words for example) effect our associative memory and bring back some related ideas.
- after that we deal with these ideas in lllllllllll
- this should give you a sense of one of the functions of System1
-** Psychological Demonstration
+  for example you can't develop intuition in "the market or in poker game" (because they are not regular, don't have rules that helps us predict the next step/s)
+  is the world not predictable?
+- *Intuition =(included)=> System 1*
+- so: intuition come from practicing and experience, but there are other types of intuitions that aren't from experience.
+  where did they come from ?
+  - in the [[file:20210328131228-honesty_box.org][honesty box]], someone glued posters and he changed the poster every week.
+    the reaction decrease when there where eyes, big eyes looking at you, and increased when the poster contained flowers.
+    the eyes give us the indication of being watched.
+- system 1 is what happen in an associative memory, and associative memory is a gigantic network of ideas, and the ideas are linked to each other in various way
+- an action effect/stimulus some ideas because these actions (some words for example) effect our associative memory and bring back some related ideas.
+  after that we deal with these ideas in lllllllllll
+  this should give you a sense of one of the functions of System1
+*** Psychological Demonstration
 photo for ABC and 12 13 14
 - althought 13 and 13 are the same but you read them differently, because of the context.
 2 things to consider here
@@ -56,8 +55,6 @@ photo for ABC and 12 13 14
 - here a system (computer algo) may detect an ambiguity to decide if 13 is a B or 13.
 "a male voice saying i believe i'm pregnant"
 after system1's work, system2 work while you get surprised from the contradiction of the sentence.
-
-**  
 - this system uses the world knowledge and use it to classify situations as normal or abnormal and it does that at top speed. updates very quickly.
 - it updates what consider normal "it personal experience"
 ** Causal thinking 
