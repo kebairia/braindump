@@ -1,0 +1,8 @@
+#+title: dirs,zsh
+#+roam_tags: unix shell zsh dirs
+you must enable AUTO_PUSHD enviroment variable
+It can be enabled with ~setopt autopushd~ or ~set -N~.
+That will be why ~cd~ is adding to the directory stack.
+after that you can see all the directories stack with ~dirs -v~ 
+the ~-v~ option for full stack overview -i think!!!-
+
