@@ -1,0 +1,4 @@
+#+title: chrome and microphone setting
+#+roam_tags: "chrome browser" solution fixing microphone 
+
+you can  visit the microphone settings on chrome with: ~chrome://settings/content/microphone~
