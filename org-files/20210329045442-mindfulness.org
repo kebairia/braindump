@@ -1,3 +1,11 @@
 #+title: mindfulness
 #+roam_tags: meditation
-
+- Mindfulness is the practice of purposely bringing one's attention in the present moment without judgment, a skill one develops through meditation or other training. [wikipedia]
+- We call mindfulness a Behavioral and Cognitive Therapy.
+- *CBT*: cognitive behavioral therapy
+#+begin_quote
+Wherever you go, there you are.
+---
+Mindfulness meditation in everyday life. New York: Hyperion, p.4.
+#+end_quote
+"Wherever you go" not only physically, but also, emotionally,thoughtfully 
