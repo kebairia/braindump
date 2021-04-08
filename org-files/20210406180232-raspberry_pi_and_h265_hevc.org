@@ -1,0 +1,11 @@
+#+title: raspberry pi and H265 (HEVC)
+#+roam_tags: pfe unix "raspberry pi" codecs H265 HEVC
+
+#+begin_quote
+What about H265 (HEVC)?
+
+H265 is currently being tested, but this would be entirely SW decoded, as there is no HW support.
+so will not be capable of much over 720p25, if that., without extensive optimisation that will take some time to do.
+
+[[https://www.raspberrypi.org/forums/viewtopic.php?p=683295#p683295][Raspberry Pi 2 - FAQ and collated answers - Raspberry Pi Forums]]
+#+end_quote
