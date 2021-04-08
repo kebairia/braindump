@@ -1,0 +1,11 @@
+#+title: how many kernels in you system?
+#+roam_tags: linux unix kernel
+
+Try to locate them in ~/lib/modules~ directory using the ls command:
+#+begin_src sh
+ls -l /lib/modules
+#+end_src
+or you can try:
+#+begin_src sh
+sudo find /boot/ -iname "*vmlinuz*"
+#+end_src
