@@ -10,3 +10,4 @@ so instead of linking your remote repo the traditional way, we can use our [[fil
 3) Now we can do ~git fetch~, ~git pull~ and ~git push~ without the strugle of typing our password everytime, but if you setup your ssh-keys with a passphrase, you have to type it everytime,
 
    any way, this is much better way dealing with your github account.
+

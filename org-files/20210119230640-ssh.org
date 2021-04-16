@@ -4,5 +4,3 @@ ssh or secure shell is a cryptographic network protocol for operating network se
 typicall applications is: remote command-line, login and remote command execution ..etc
 
 source: [[https://en.wikipedia.org/wiki/SSH_(Secure_Shell)][SSH (Secure Shell) - Wikipedia]]
-
-
