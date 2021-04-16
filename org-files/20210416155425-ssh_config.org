@@ -1,0 +1,29 @@
+#+title: ssh config
+#+roam_tags: unix linux ssh config
+for better [[file:20210119230640-ssh.org][ssh]] workflow, you can use a ~config~ file in the ~~/.ssh~ folder  (~~/.ssh/config~) with the following content:
+#+begin_src conf
+Host targaryen
+    HostName 192.168.1.10
+    User daenerys
+    Port 7654
+    IdentityFile ~/.ssh/targaryen.key
+
+Host tyrell
+    HostName 192.168.10.20
+
+Host martell
+    HostName 192.168.10.50
+
+Host *ell
+    user oberyn
+
+Host * !martell
+    LogLevel INFO
+
+Host *
+    User root
+    Compression yes
+#+end_src
+- of course when using a name with the *User* option, this name must be declared in the ~/etc/hosts~ file.
+- ~Host * !martell~ meaning all hosts except martell
+for better explanation: [[https://linuxize.com/post/using-the-ssh-config-file/][Using the SSH Config File | Linuxize]]
