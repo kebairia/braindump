@@ -1,0 +1,3 @@
+#+title: mime types
+#+roam_tags: unix linux media
+
