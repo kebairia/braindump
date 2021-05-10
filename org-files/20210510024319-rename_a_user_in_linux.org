@@ -1,0 +1,22 @@
+#+title: rename a user in linux
+#+roam_tags: linux unix sysadmin user
+
+Under Linux, the usermod command changes user names.
+It modifies the system account files to reflect the changes that are specified on the command line.
+
+To change just the username:
+#+begin_src sh
+usermod --login <new_username> <old_username>
+#+end_src
+
+To change the username and home directory name:
+#+begin_src sh
+usermod --login <new_username> --move-home --home <path_to_the_new_home_dir> <old_username>
+#+end_src
+
+You may also want to change the name of the group associated with the user:
+#+begin_src sh
+groupmod --new-name <new_username> <old_username>
+#+end_src
+
+source: [[https://serverfault.com/questions/437342/how-can-i-rename-an-unix-user][linux - How can I rename an unix user? - Server Fault]]
