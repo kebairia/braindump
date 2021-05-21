@@ -1,0 +1,31 @@
+#+title: macros in vim
+#+roam_tags: linux vim macros hack
+* Recording a macro
+Each register is identified by a letter ~a~ to ~z~.
+To enter a macro, type:
+#+begin_src conf
+q <letter> <command> q
+#+end_src
+To execute the macro <number> times (once by default), type:
+#+begin_src conf
+<number> @ <letter>
+#+end_src
+
+_Overview_
+
+~qd~	start recording to register d
+~...~	your complex series of commands
+~q~	stop recording
+~@d~	execute your macro
+~@@~	execute your macro again
+
+* Viewing a macro
+You can use the ~:registers~ commands to view the current contents of any or all register values in [[file:20210521114450-vim.org][vim]] 
+use ~:reg~ to view all registers, or ~:reg a~ to view only what have recorded into register ~a~.
+Typing ~:reg abx~ will show the contents of registers a,b and x.
+
+* COMMENT Saving a macro
+add to your ~vimrc~ file:
+#+begin_src conf
+let @a='0fa'
+#+end_src
