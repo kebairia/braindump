@@ -7,5 +7,6 @@
   #+end_src
 - To move between the misspelled words, use ~[s~ to move to the next word, and ~]s~ to the previous.
 - ~z=~ will suggest a list of alternatives that it thinks may be correct.
--  ~zg~ will add the word to vim's dictionary
-
+- ~zg~ will add the word to vim's dictionary
+- ~zw~ Woops! Undo and remove the word from the dictionary
+for more information : [[https://vimtricks.com/p/vimtrick-spell-checking-in-vim/][Spell checking in Vim - VimTricks]]
