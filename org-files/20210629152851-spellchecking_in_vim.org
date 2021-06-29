@@ -1,0 +1,11 @@
+#+title: spellchecking in vim 
+#+roam_tags: vim unix spell
+- add this to your vimrc/init.vim
+  #+begin_src conf
+    # this will set the spellchecking to use the us-english words
+    set spell spelllang=en_us
+  #+end_src
+- To move between the misspelled words, use ~[s~ to move to the next word, and ~]s~ to the previous.
+- ~z=~ will suggest a list of alternatives that it thinks may be correct.
+-  ~zg~ will add the word to vim's dictionary
+
