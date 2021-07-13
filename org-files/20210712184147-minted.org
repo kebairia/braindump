@@ -1,5 +1,9 @@
 #+title: minted
-#+roam_tags: latex pdf minted 'code blocks'
+#+roam_tags: latex PDF minted 'code blocks'
+Tips on how install/use the minted package with latex
+i faced problems using it on arch Linux and with Emacs using org-mode
+the problem is that until now i didn't understand the weird results i get using it with org-mode
+ 
 - install minted package
 #+begin_src sh 
   # Arch
@@ -12,5 +16,5 @@
   # Arch
   sudo pacman -S python-pygments
 #+end_src
-*NOTE*: until now, i did'nt find the root fo the problem, what i did is that i just reinstalled the python-pygments
+*NOTE*: until now, i didn't find the root of the problem, what i did is that i just reinstalled the python-pygments
 and i compiled the ~.tex~ file with the command line using src_sh[:exports both]{xelatex -shell-escape <filename>.tex}
