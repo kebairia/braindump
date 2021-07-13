@@ -1,0 +1,16 @@
+#+title: minted
+#+roam_tags: latex pdf minted 'code blocks'
+- install minted package
+#+begin_src sh 
+  # Arch
+  sudo pacman -S minted
+  # Ubuntu
+  sudo apt install minted
+#+end_src
+- install the python-pygments package
+#+begin_src sh 
+  # Arch
+  sudo pacman -S python-pygments
+#+end_src
+*NOTE*: until now, i did'nt find the root fo the problem, what i did is that i just reinstalled the python-pygments
+and i compiled the ~.tex~ file with the command line using src_sh[:exports both]{xelatex -shell-escape <filename>.tex}
