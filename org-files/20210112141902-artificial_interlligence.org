@@ -1,2 +1,5 @@
+:PROPERTIES:
+:ID:       5a26fcad-74a6-4255-a246-9b0c0c3b10a1
+:END:
 #+title: artificial interlligence
 

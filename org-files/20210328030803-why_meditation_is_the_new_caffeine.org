@@ -1,7 +1,10 @@
+:PROPERTIES:
+:ID:       5476e9ea-4729-40dc-bc52-5b27498dc0a0
+:END:
 #+title: Why meditation is the new Caffeine?
-#+roam_tags: google talks meditation Caffeine brain thoughts
+#+filetags: google talks meditation Caffeine brain thoughts
 
-*This is my summary for "why [[file:20210328031851-meditation.org][meditation]] is the new Caffeine"'s talk on Talk at Google, by Emily Fletcher*  
+*This is my summary for "why [[id:739605b3-cf90-450e-9d54-e14bfb09912e][meditation]] is the new Caffeine"'s talk on Talk at Google, by Emily Fletcher*  
 [[https://www.youtube.com/watch?v=zC7a_gQB9YQ][Why Meditation is the New Caffeine | Emily Fletcher | Talks at Google - YouTube]]
 * Emily Fletcher
 * the talk summarization

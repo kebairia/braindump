@@ -1,5 +1,8 @@
+:PROPERTIES:
+:ID:       67afac5c-9516-4d1f-a232-f2124d233a7d
+:END:
 #+title: input methods in emacs
-#+roam_tags: language input emacs Internationalization
+#+filetags: language input emacs Internationalization
 you can use ~M-x set-input-method~ to 'latin-1-prefix' or 'french-prefix' (which also TAB-completes)
 you will get all the letters you want in other languages.
 ~'+e~ --> é 

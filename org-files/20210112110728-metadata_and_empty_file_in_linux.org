@@ -1,6 +1,9 @@
+:PROPERTIES:
+:ID:       821d6ae7-fc2e-4e89-9748-512a866efa35
+:END:
 #+title: metadata and empty file in linux
-#+roam_tags: linux metadata inode size
-when you create a file without any data in it by [[file:20210112111033-touch_command.org][touch command]] for example.
+#+filetags: linux metadata inode size
+when you create a file without any data in it by [[id:a091e385-459b-4cd5-a00c-e01e516fddb2][touch command]] for example.
 ~touch myfile~
 ~ls -l /tmp/myfile~
 you'll get a file with a size == ~0 bytes~.
@@ -9,7 +12,7 @@ but why?, is'nt there a name and some data related to this file, so the size of 
 
 actually these data are called ~metadata~ and are not saved on the file itself, but it depends on the filesystem you use.
 
-so for example, if you are using [[file:20210112111835-ext4_filesystem.org][ext4 filesystem]] for example, these metadata will be stored in the [[file:20210112111942-inode.org][Inode]] of the file.
+so for example, if you are using [[id:bcc7c896-6189-4bab-8f91-bd0ce599b6a4][ext4 filesystem]] for example, these metadata will be stored in the [[id:532b6b8d-cc16-4544-bccd-880eb0110e89][Inode]] of the file.
 
 you can see all the inodes availlable and used on each partition in your system, by invoking the following command:
 ~df -i~ 
@@ -29,4 +32,4 @@ or for more human readable format use the ~-h~ option:
   /dev/sda4         42M   34K   42M    1% /media/Works
   /dev/sda3         11M  2.8K   11M    1% /media/FUN
 #+end_example
-and the number of the [[file:20210112111942-inode.org][Inodes]] you have left will decide how many files you can create in future on this perticular partition.
+and the number of the [[id:532b6b8d-cc16-4544-bccd-880eb0110e89][Inodes]] you have left will decide how many files you can create in future on this perticular partition.

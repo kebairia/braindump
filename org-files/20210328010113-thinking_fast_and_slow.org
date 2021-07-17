@@ -1,10 +1,13 @@
+:PROPERTIES:
+:ID:       3aa45c4d-a30d-49d9-823b-95f8ab31f1cc
+:END:
 #+title: Thinking, Fast and Slow
-#+roam_tags: "Building a Second Brain" brain talk google rationality
+#+filetags: Building_a_Second_Brain brain talk google rationality
 
 * Daniel Kahneman's talk on Talk at Google* 
 [[https://www.youtube.com/channel/UCbmNph6atAoGfqLoCL_duAg][Talks at Google - YouTube]]
 ** About the Author
-[[file:20210328011147-daniel_kahneman.org][Daniel Kahneman]]: a Psychologist who won a noble prize for his work on ""
+[[id:7ca2a718-95bf-4659-939f-b16eb5f45251][Daniel Kahneman]]: a Psychologist who won a noble prize for his work on ""
 ** Ideas
 - there are 2 mode of thinking:
   when we see a picture of someone angry, we know immediately that he is angry.
@@ -15,7 +18,7 @@
   is an example of something we do it, it's hard, need us to remember and recall things.
   this type of thinking, requires a lot of ressources and with more ressources taken away, less will remain to other tasks.
   so, this type of thinking need focus and we shouldn't do it with other critical tasks.
-- these 2 types of thinking, [[file:20210328011147-daniel_kahneman.org][Daniel Kahneman]] calls them System 1 ( the fast one) and System 2
+- these 2 types of thinking, [[id:7ca2a718-95bf-4659-939f-b16eb5f45251][Daniel Kahneman]] calls them System 1 ( the fast one) and System 2
   #+begin_example
   x + y = 1.10
   x = y + 1
@@ -24,7 +27,7 @@
   2y + 1  = 1.10 
   2y = 0.1 => y = 0.05 and x = 1.05
   #+end_example
-- [[file:20210328012520-herbert_simon.org][Herbert Simon]] who was a psychologist then an economist and a political scientist and [[file:20210328020415-nobel_prize.org][Nobel Prize]] laureate
+- [[id:53cf335c-6454-4193-9913-9b0595f77029][Herbert Simon]] who was a psychologist then an economist and a political scientist and [[id:c17b039b-8d30-4061-900a-85e5ba676818][Nobel Prize]] laureate
   he gave a very good definition about what intuition is... it's simply "Recognition".
   there is no difference between a physician knowing or recognizing a disease and a little child learning and pointing to something and saying doggie.
   the little child has no idea what the clues are but he just said.
@@ -39,7 +42,7 @@
 - *Intuition =(included)=> System 1*
 - so: intuition come from practicing and experience, but there are other types of intuitions that aren't from experience.
   where did they come from ?
-  - in the [[file:20210328131228-honesty_box.org][honesty box]], someone glued posters and he changed the poster every week.
+  - in the [[id:51d0e033-d5fc-4785-abf5-843fb36f1557][honesty box]], someone glued posters and he changed the poster every week.
     the reaction decrease when there where eyes, big eyes looking at you, and increased when the poster contained flowers.
     the eyes give us the indication of being watched.
 - system 1 is what happen in an associative memory, and associative memory is a gigantic network of ideas, and the ideas are linked to each other in various way
@@ -99,19 +102,19 @@ we can ma intensities across different dimensions.
  this is one of the mechanisms that leads to intuitive errors, this mechanism of substitution.
 
 a lot of our mental life is conducted in just this way.
-[[file:20210328011147-daniel_kahneman.org][Daniel Kahneman]] said: let me complete the circle and talk a little bit about _subjective confidence_, (the probability of being correct)
+[[id:7ca2a718-95bf-4659-939f-b16eb5f45251][Daniel Kahneman]] said: let me complete the circle and talk a little bit about _subjective confidence_, (the probability of being correct)
 it's actually not a judgment at all, it is a feeling that people have.
 and the origin of this feeling (decision) is system1 assessing the fluency of its own processing.
 assessing the story it has created to deal with current situation, and if the story is coherent, confidence is high.
 but our brain can create coherent stories from very little information, and the coherence of the story depends very little on the quality and the quantity of the information, so people can be very confident with very little reason
 confidence therefore is not a good diagnostic for when you can trust either yourself or somebody else.
-*PS*: those 2 systems, they don't actually exist, but [[file:20210328011147-daniel_kahneman.org][Daniel Kahneman]] used them for the sake of explanation.
+*PS*: those 2 systems, they don't actually exist, but [[id:7ca2a718-95bf-4659-939f-b16eb5f45251][Daniel Kahneman]] used them for the sake of explanation.
 but this may help you in creating personalities for these two systems, and this may help you or enable you to think better about psychological events, than if you were just had a long list of unrelated phenomena.
 
 ** Books to read(recommended from the author)
 - moonwalking with einstein
   - a book of Joshua foer: How did he become a memory champianship of the USA
-  - a fact knowen even for the Greeks, memory is terrible at remembering lists, but memory is superb at remembering routes through space -> use this with your [[file:20210328130950-basb.org][BASB]]
+  - a fact knowen even for the Greeks, memory is terrible at remembering lists, but memory is superb at remembering routes through space -> use this with your [[id:b9045381-5ac6-468e-afe1-41abea75767a][BASB]]
   - evolution did that
   - so to remember lists, list the list items in a mental routes.
 ** Questions and Thoughts  

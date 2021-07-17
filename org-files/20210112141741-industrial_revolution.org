@@ -1,2 +1,5 @@
+:PROPERTIES:
+:ID:       8ff6d723-ea79-43ba-81c3-8d59989bb51b
+:END:
 #+title: industrial revolution
 

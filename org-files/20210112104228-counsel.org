@@ -1,2 +1,5 @@
+:PROPERTIES:
+:ID:       9a01fa89-958b-4eb7-a368-59644f24f849
+:END:
 #+title: counsel
 

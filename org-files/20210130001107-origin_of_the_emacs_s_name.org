@@ -1,6 +1,9 @@
+:PROPERTIES:
+:ID:       ece6ac73-ea3d-4674-87cb-b7f2a7e6a612
+:END:
 #+title: origin of the emacs's name
-#+roam_tags: emacs macro
-[[file:20210328060612-emacs.org][emacs]] starts when Richard stallmann added the ability to run macro to the TECO editor (Text Editor and Corrector).
+#+filetags: emacs macro
+[[id:4c72a4b7-ee23-473d-a50d-39060c7cbb9e][emacs]] starts when Richard stallmann added the ability to run macro to the TECO editor (Text Editor and Corrector).
 with a Guy named "Guy Steele", Richard create a large collection of custom macros, and when these macros accumulated, they created a environment haundling them and they named it "EMACS", which means "Editing MACroS"
 after that, and on 1979, emacs became the main editor used in MIT AI Lab.
 

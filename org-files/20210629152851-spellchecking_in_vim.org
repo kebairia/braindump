@@ -1,5 +1,8 @@
+:PROPERTIES:
+:ID:       9d971699-852f-4692-a4e9-c63c29b2c5fd
+:END:
 #+title: spellchecking in vim 
-#+roam_tags: vim unix spell
+#+filetags: vim unix spell
 - add this to your vimrc/init.vim
   #+begin_src conf
     # this will set the spellchecking to use the us-english words

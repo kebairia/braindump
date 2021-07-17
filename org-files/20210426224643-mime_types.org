@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       0ff2391f-4a41-423f-a261-f6c97fe6dc4d
+:END:
 #+title: mime types
-#+roam_tags: unix linux media
+#+filetags: unix linux media
 

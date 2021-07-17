@@ -1,4 +1,7 @@
+:PROPERTIES:
+:ID:       b9045381-5ac6-468e-afe1-41abea75767a
+:END:
 #+title: BASB
-#+roam_tags: "Building a Second Brain" brain
+#+filetags: Building_a_Second_Brain brain
 
 

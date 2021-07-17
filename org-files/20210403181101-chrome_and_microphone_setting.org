@@ -1,4 +1,7 @@
+:PROPERTIES:
+:ID:       bb3b76fd-9cad-4dee-b0e3-77cc717c3fa6
+:END:
 #+title: chrome and microphone setting
-#+roam_tags: "chrome browser" solution fixing microphone 
+#+filetags: chrome_browser solution fixing microphone
 
 you can  visit the microphone settings on chrome with: ~chrome://settings/content/microphone~

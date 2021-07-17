@@ -1,5 +1,8 @@
+:PROPERTIES:
+:ID:       b468f164-7da8-4bdf-ae2e-3b0450d4256d
+:END:
 #+title: love and unconsciousness
-#+roam_tags: love consciousness unconsciousness
+#+filetags: love consciousness unconsciousness
 i think that when we love someone, we love it unconsciousnessly due some qualities/small behavior this person might have, 
 and then all the excuses that we provides is only our way to rationalize this choice.
 

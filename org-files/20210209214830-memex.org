@@ -1,5 +1,8 @@
+:PROPERTIES:
+:ID:       774c601f-cf35-45f1-829d-4ad2912aadc2
+:END:
 #+title: memex
-#+roam_tags: knowledge records hypertext "knowledge base" "As We May Think" org-roam roam-research BASB "Building a Second Brain" notes
+#+filetags: knowledge records hypertext knowledge_base As_We_May_Think org_roam roam_research BASB Building_a_Second_Brain notes
 the memex is a hypothetical electromechanical device described by Vannevar Bush in his essay "As We May Think" 1945.
 the memex is like a parallel memory that helps the user to store knowledge.
 the user can store all of his books, records ...etc, so that the memex can help him later to extract this records(knowledge) easily.

@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       4c72a4b7-ee23-473d-a50d-39060c7cbb9e
+:END:
 #+title: emacs
-#+roam_tags: unix "text editor" elisp
+#+filetags: unix text_editor elisp
 

@@ -1,5 +1,8 @@
+:PROPERTIES:
+:ID:       6ce3c5bf-44cc-419a-b881-07f4000c79a4
+:END:
 #+title: org-mode
-#+roam_tags: emacs "literate programing"
+#+filetags: emacs literate_programing
 org mode is a major mode in Gnu Emacs.
 # it's an enhanced version of the traditional inline mode that was in Emacs earlier. (needs checkup)
 also it's a very convenient markup language and much more

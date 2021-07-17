@@ -1,6 +1,9 @@
+:PROPERTIES:
+:ID:       a3c7efeb-0dbc-4e8d-b6e6-e028419957e6
+:END:
 #+title: ssh config
-#+roam_tags: unix linux ssh config
-for better [[file:20210119230640-ssh.org][ssh]] workflow, you can use a ~config~ file in the ~~/.ssh~ folder  (~~/.ssh/config~) with the following content:
+#+filetags: unix linux ssh config
+for better [[id:07687a57-f726-4456-b8a3-bc32d05a4998][ssh]] workflow, you can use a ~config~ file in the ~~/.ssh~ folder  (~~/.ssh/config~) with the following content:
 #+begin_src conf
 Host targaryen
     HostName 192.168.1.10

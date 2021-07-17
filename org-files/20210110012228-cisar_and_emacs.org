@@ -1,5 +1,8 @@
+:PROPERTIES:
+:ID:       b4d359c8-d371-4a2b-a3c8-c11f915f970e
+:END:
 #+title: cisar and emacs
-#+roam_tags: elisp cisar cryptography emacs
+#+filetags: elisp cisar cryptography emacs
 
 you can use the following trick with your email for example or any text you want to hide in emacs
 #+begin_src emacs-lisp

@@ -1,2 +1,5 @@
+:PROPERTIES:
+:ID:       7ca2a718-95bf-4659-939f-b16eb5f45251
+:END:
 #+title: Daniel Kahneman
 

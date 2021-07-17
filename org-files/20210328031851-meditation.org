@@ -1,1 +1,4 @@
+:PROPERTIES:
+:ID:       739605b3-cf90-450e-9d54-e14bfb09912e
+:END:
 #+title: meditation

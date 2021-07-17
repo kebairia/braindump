@@ -1,2 +1,5 @@
+:PROPERTIES:
+:ID:       76a56ae9-dad6-42d6-bf51-78c1e3a65b49
+:END:
 #+title: common lisp
 

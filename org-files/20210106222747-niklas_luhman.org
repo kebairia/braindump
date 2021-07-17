@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       e2faf5e6-e2b4-4328-a101-5b4a8f56da8e
+:END:
 #+title: niklas luhman
 a german socioligist
 a prolific scientist, with more than 70 books and nearly 400 scholarly articles published on a variety of subjects.

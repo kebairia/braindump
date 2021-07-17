@@ -1,5 +1,8 @@
+:PROPERTIES:
+:ID:       29e79a1c-ea3d-49cb-b65e-8604fe9d2049
+:END:
 #+title: our judgments on historical events
-#+roam_tags: past moral
+#+filetags: past moral
 It seems that we always explain past events with the experience we have gained from the present (our life), and this is a big mistake.
 When you are reading about historical events, you always use your moral principles, your life experience to judge the people who lived in these events and this era, and the actions that they were taking.
 Remember how people understood the word "natural" or "Nature" in the past, and how we understand it now.

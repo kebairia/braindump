@@ -1,5 +1,8 @@
+:PROPERTIES:
+:ID:       a8cd6026-528b-46b2-9f7c-63e9dfceef41
+:END:
 #+title: git with ssh
-#+roam_tags: git security ssh
+#+filetags: git security ssh
 we can use our [[file:../../../org/notes/20210119230640-ssh.org][ssh]] public-key to fetch and push our code from/to github repo
 so instead of linking your remote repo the traditional way, we can use our [[file:../../../org/notes/20210119230640-ssh.org][ssh]] public key instead.
 1) add your [[file:../../../org/notes/20210119230640-ssh.org][ssh]] public key to your github profile

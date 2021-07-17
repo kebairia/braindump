@@ -1,9 +1,12 @@
+:PROPERTIES:
+:ID:       70a7a091-1238-4e99-a9ba-0b1b1cd8b95b
+:END:
 #+title: journalism and newspapers
-#+roam_tags: newspapers journalism domestication influence
-- It seems that the press has been a leap in the creation and development of collective awareness among the public, because [[file:20210323145408-newspapers.org][newspapers]] are considered a cheap and easy way to receive information, communicate and read for thinkers;
+#+filetags: newspapers journalism domestication influence
+- It seems that the press has been a leap in the creation and development of collective awareness among the public, because [[id:0fcd5e65-d354-4076-8d2f-0827be65625a][newspapers]] are considered a cheap and easy way to receive information, communicate and read for thinkers;
   unlike books, which were costly to the public who struggle daily to survive.
-- [[file:20210323145408-newspapers.org][Newspapers]] are a revolutionary work, the inexpensive medium that created a channel of communication between "[[file:20210323145301-intellectuals.org][intellectuals]]", "[[file:20210323145328-politicians.org][politicians]]" and the public.
+- [[id:0fcd5e65-d354-4076-8d2f-0827be65625a][Newspapers]] are a revolutionary work, the inexpensive medium that created a channel of communication between "[[id:13cd1256-dc0f-4632-a5b7-ba066e7300a0][intellectuals]]", "[[id:fed129de-ee7f-4e77-8088-aa00d310c0ee][politicians]]" and the public.
 - And do not forget how this method can be used to influence public opinion, in a much better way than the traditional method, which used to rely on a person giving speech in public squares,
-  see the limitations and cost of the old method and its less influence compared to [[file:20210323145408-newspapers.org][newspapers]].
-- Compare all of this to [[file:20210323145437-social_media.org][social media]] and modern media.
+  see the limitations and cost of the old method and its less influence compared to [[id:0fcd5e65-d354-4076-8d2f-0827be65625a][newspapers]].
+- Compare all of this to [[id:5b2190ca-0361-45e3-bc4b-4862c6159ced][social media]] and modern media.
 - It is very easy to be domesticated, and you can learn with the same ease, the challenge now is the permanent filtration process that you must do daily in order not to fall under the influence of domestication.

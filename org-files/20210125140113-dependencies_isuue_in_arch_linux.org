@@ -1,5 +1,8 @@
+:PROPERTIES:
+:ID:       36bb9e4c-3a34-4978-9a13-d336b9b66f21
+:END:
 #+title: dependencies isuue in arch linux
-#+roam_tags: linux installing tricks
+#+filetags: linux installing tricks
 
 you can use ~pacman -Rdd <package>~ to uninstall a package and overcome its complain about package dependencies.
 for example, i had an issue lately installing the ~libxft-bgra-git~ on archlinux, because there was a another package called ~libxft~, and that makes a conflict and i could'nt uninstall it.

@@ -1,1 +1,4 @@
+:PROPERTIES:
+:ID:       c17b039b-8d30-4061-900a-85e5ba676818
+:END:
 #+title: nobel prize

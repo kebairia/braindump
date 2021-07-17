@@ -1,6 +1,9 @@
+:PROPERTIES:
+:ID:       39636118-87ef-422a-80ad-7248d3bc1255
+:END:
 #+title: counsel-package
-#+roam_tags: elisp emacs counsel package
-we can use now ~counsel-package~ to install/delete packages with the new version of[[file:20210112104228-counsel.org][ counsel]] 
+#+filetags: elisp emacs counsel package
+we can use now ~counsel-package~ to install/delete packages with the new version of[[id:9a01fa89-958b-4eb7-a368-59644f24f849][counsel]] 
 M-x counsel-package, then precede the name of the package with ~-~ for deleting and ~+~ for installing
 when you first type ~-~, ~counsel-package~ will show you only the packages that are already installed.
 same with ~+~, it will show you only the packages that are'nt installed

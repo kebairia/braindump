@@ -1,5 +1,8 @@
+:PROPERTIES:
+:ID:       07687a57-f726-4456-b8a3-bc32d05a4998
+:END:
 #+title: ssh
-#+roam_tags: security linux remote encrypt
+#+filetags: security linux remote encrypt
 ssh or secure shell is a cryptographic network protocol for operating network services over unsecured network.
 typicall applications is: remote command-line, login and remote command execution ..etc
 

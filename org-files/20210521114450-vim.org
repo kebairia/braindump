@@ -1,2 +1,5 @@
+:PROPERTIES:
+:ID:       0869119b-8c48-4740-91fc-5c04501490eb
+:END:
 #+title: vim
 

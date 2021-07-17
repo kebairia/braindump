@@ -1,5 +1,8 @@
+:PROPERTIES:
+:ID:       daef9a6d-a1f1-46f9-a181-b48871c5790f
+:END:
 #+title: dirs,zsh
-#+roam_tags: unix shell zsh dirs
+#+filetags: unix shell zsh dirs
 you must enable AUTO_PUSHD enviroment variable
 It can be enabled with ~setopt autopushd~ or ~set -N~.
 That will be why ~cd~ is adding to the directory stack.

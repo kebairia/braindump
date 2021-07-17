@@ -1,5 +1,8 @@
+:PROPERTIES:
+:ID:       f8f8731b-f8a1-47c7-892a-776fe741d0b3
+:END:
 #+title: nim programming language
-#+roam_tags: speed compile c
+#+filetags: speed compile c
 nim is an imperative programming language designed and developed by Andreas Rumpf.
 it's primary goals is to be  efficient, elegant, and fast. 
 it had nearly the same syntax as python.

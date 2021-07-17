@@ -1,5 +1,8 @@
+:PROPERTIES:
+:ID:       3c7e1044-9754-41fb-9606-b1a0d570bca3
+:END:
 #+title: rename a user in linux
-#+roam_tags: linux unix sysadmin user
+#+filetags: linux unix sysadmin user
 
 Under Linux, the usermod command changes user names.
 It modifies the system account files to reflect the changes that are specified on the command line.

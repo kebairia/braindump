@@ -1,2 +1,5 @@
+:PROPERTIES:
+:ID:       25e4956a-308d-489c-a025-c50ae9efe1d8
+:END:
 #+title: internet of things
 

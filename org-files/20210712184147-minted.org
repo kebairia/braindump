@@ -1,5 +1,8 @@
+:PROPERTIES:
+:ID:       a1f39a04-d415-44bd-b6ed-191982f556cf
+:END:
 #+title: minted
-#+roam_tags: latex PDF minted 'code blocks'
+#+filetags: latex PDF minted _code blocks_
 Tips on how install/use the minted package with latex
 i faced problems using it on arch Linux and with Emacs using org-mode
 the problem is that until now i didn't understand the weird results i get using it with org-mode
