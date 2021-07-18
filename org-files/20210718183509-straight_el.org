@@ -3,8 +3,10 @@
 :END:
 #+title: straight.el
 * Introduction
-- *Straight.el*: a next-generation, purely functional package manager for [[id:4c72a4b7-ee23-473d-a50d-39060c7cbb9e][Emacs]] 
+- *Straight.el*: a next-generation, purely functional package manager for [[id:4c72a4b7-ee23-473d-a50d-39060c7cbb9e][Emacs]] hacker.
+
   it enables you to have more detailed control over how you manage the Emacs packages
+
   it accomplishes that by cloning the actual source repositories (from Melpa, Elpa, Github or Gitlab ...etc)
 * Installation
 - First, put the following boostrap code into your init-file:
