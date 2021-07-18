@@ -33,3 +33,5 @@
 ** On magit interface
 - on magit-status interface, press ~f y~ to pull in the ~issues~ and the ~pull requests~
   [[file:img/forge/emacs-issues-section.png]]
+* Further reading
+[[https://magit.vc/manual/forge/][Forge User and Developer Manual]]
