@@ -35,3 +35,4 @@
   [[file:img/forge/emacs-issues-section.png]]
 * Further reading
 [[https://magit.vc/manual/forge/][Forge User and Developer Manual]]
+
