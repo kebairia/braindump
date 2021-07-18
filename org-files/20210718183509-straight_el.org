@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       a29388de-adaa-4bc4-a9f9-5e033e476b59
+:END:
+#+title: straight.el
+* Installation
