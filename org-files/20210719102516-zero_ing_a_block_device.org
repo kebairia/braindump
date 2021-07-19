@@ -1,0 +1,48 @@
+:PROPERTIES:
+:ID:       efa5340e-0c7b-4899-bd9f-00426a0cdbe0
+:END:
+#+title: zero'ing a block device
+#+filetags: unix linux block usb
+
+- first check out if the usb stick is unmounted
+  - suppose that the USB stick is on ~/dev/sdc1~
+  #+begin_src sh :results none
+    umount /dev/sdc1
+  #+end_src
+- you can clear the partition table by copying a bunch of zeros over the first few K 
+  #+begin_src sh :results none
+    # bs=512K repeat it 16 times --> 512K*16=8M
+    sudo dd if=/dev/zero of=/dev/sdc1 bs=512 count=16
+  #+end_src
+- if that works, try to write zeros to the whole device without failing 
+  you can clear the kernel messages to see if the kernel can't write to the device.
+  #+begin_src sh :results none
+    sudo dmesg -c > /dev/null
+  #+end_src
+- that zero the entire device which can take a while, depends of the device storage space
+  #+begin_src sh :results none
+    sudo if=/dev/zero of=/dev/sdc1 bs=1M
+  #+end_src
+- then check the kernel's messages 
+  #+begin_src sh :results none
+    sudo dmesg 
+  #+end_src
+- if you see a load of error messages then you know that the USB stick is probably not in good condition.
+- However, if this works fine run fdisk or parted to create the partitions from clean.
+  #+begin_src sh :results none
+    sudo fdisk /dev/sdc
+    
+    Command (m for help): n
+    Select (default p): p
+    Partition number (1-4, default 1): 1
+    First sector (2048-7796735, default 2048): <return>
+    Last sector, +sectors or +size{K,M,G} (2048-7796735, default 7796735): <return>
+    Command (m for help): t
+    Hex code (type L to list codes): 6
+    Command (m for help): w
+  #+end_src
+- and then format the partition with *VFAT*: 
+  #+begin_src sh
+    sudo mkfs.vfat /dev/sdc1
+  #+end_src
+- remove and re-insert the device, and see
