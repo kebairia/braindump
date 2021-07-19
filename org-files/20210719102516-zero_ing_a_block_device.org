@@ -46,3 +46,4 @@
     sudo mkfs.vfat /dev/sdc1
   #+end_src
 - remove and re-insert the device, and see
+*source*: [[https://askubuntu.com/questions/223598/how-to-format-a-usb-stick#223607][How to format a USB stick - Ask Ubuntu]]
