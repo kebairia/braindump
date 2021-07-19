@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       c0f876aa-75ff-407d-be50-f59033ae9bc2
+:END:
+#+title: how to get github badges
+[[https://shields.io/][Shields.io: Quality metadata badges for open source projects]]
