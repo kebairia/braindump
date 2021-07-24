@@ -13,3 +13,4 @@
 - ~zg~ will add the word to vim's dictionary
 - ~zw~ Woops! Undo and remove the word from the dictionary
 for more information : [[https://vimtricks.com/p/vimtrick-spell-checking-in-vim/][Spell checking in Vim - VimTricks]]
+
