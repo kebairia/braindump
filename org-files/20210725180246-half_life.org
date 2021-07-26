@@ -2,8 +2,11 @@
 :ID:       3f10a062-cf6e-4533-a7bc-75fbca1043ee
 :END:
 #+title: half-life
+#+filetags: physics science
+
 *Half-life* is the time require for a quantity to reduce to half of its value
 - the origin of the term "/half-life/ period" is dating to [[id:0824dd55-ae97-4799-83ca-5031711c93da][Ernest Rutherford]]'s discovery of the priciple in 1907.
 * images
 [[file:img/half-life/800px-Euler's_formula.svg.png]]
 [[file:img/half-life/Halflife-sim.gif]]
+
