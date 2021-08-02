@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       53ed09f5-e479-4558-b0d8-b07e524930ed
+:END:
+#+title: check if a latex package is installed
+if you know the name of the ~.sty~ or ~.cls~ file from the package, you can do
+#+begin_src sh :exports none
+  kpsewhich <filename>
+#+end_src
+- and it show you the location of the file where Latex system finds the file.
+- for example, let's check if the package floatrow is installed
+#+begin_src sh :results output :exports none
+  kpsewhich floatrow.sty
+#+end_src
+
+#+RESULTS:
+: /usr/share/texmf-dist/tex/latex/floatrow/floatrow.sty
+
+- If *kpsewhich* doesn't find it, you probably didn't install the files correctly or didn't run ~mktexlsr~ or ~texhash~.
+
+#+begin_src :exports none
+echo $TEXINPUTS
+#+end_src
