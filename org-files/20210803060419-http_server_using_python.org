@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       0f79ca84-753b-42da-ae7b-524f704886bc
+:END:
+#+title: http server using python
+#+filetags: linux servers http python "create server"
+#+begin_src sh :results none 
+python3 -m http.server 
+#+end_src
+[[file:img/py-http/server_command.jpg]]
+
+you can use ~curl localhost:8000~ to check the availability of the server
+- create 3 servers with 3 difference ports
+#+begin_src :results none
+python3 -m http.server 8000 --bind 127.0.0.1
+python3 -m http.server 8001 --bind 127.0.0.1
+python3 -m http.server 8002 --bind 127.0.0.1
+#+end_src
+*NOTE*: note that, the http server here will only serve when it get a request with the "127.0.0.1" ip 
+if you need to address this server using a different ip then *127.0.0.1*, do:
+#+begin_src sh
+  python3 -m http.server 8000 --bind 192.168.1.5
+#+end_src
+assuming that you private ip is *192.168.1.5*
