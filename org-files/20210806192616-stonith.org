@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       af26cc39-a09e-4070-aec5-94206e0f7069
+:END:
+#+title: stonith pacemaker "high availability"
+an acronym for "Shoot The Other Node In The Head"
