@@ -1,12 +1,9 @@
 :PROPERTIES:
 :ID:       d3715650-d854-4e79-889c-92793964bd80
 :END:
-#+title: fencing
-#+filetags: stonith ha pacemaker
+#+title: fencing-pcmk
+#+filetags: stonith "high availability " pacemaker
 - /fencing/ is the ability to make a node unable to run resources. even when that node is unresponsive to [[id:c0bab772-5a91-4c6e-afc9-b68b4f937571][cluster]] commands
 - also know as [[id:af26cc39-a09e-4070-aec5-94206e0f7069][stonith]], an acronym for "Shoot The Other Node In The Head"
 [[id:8d147696-b236-44e3-b284-d0618c612d59][pacemaker]]
 
-Fencing is the disconnection of a node from the cluster's shared storage.
-Fencing cuts off I/O from shared storage, thus ensuring data integrity.
-The cluster infrastructure performs fencing through the STONITH facility.
