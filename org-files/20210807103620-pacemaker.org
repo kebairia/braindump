@@ -2,5 +2,4 @@
 :ID:       8d147696-b236-44e3-b284-d0618c612d59
 :END:
 #+title: pacemaker
-pacemaker is a resource manager, used to have a highly available infrastructur
-
+Pacemaker is an open source high-availability cluster resource manager software that runs on a set of nodes.
