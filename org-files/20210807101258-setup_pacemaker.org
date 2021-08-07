@@ -3,6 +3,7 @@
 :END:
 #+title: setup pacemaker
 #+filetags: pacemaker ha
+this is the primary setup of the [[id:8d147696-b236-44e3-b284-d0618c612d59][pacemaker]] resource manager
 - setting the hostname on each node
 #+begin_src sh
   # pcmk1
@@ -65,5 +66,4 @@
     #+begin_src sh
       pcs status
     #+end_src
-
 

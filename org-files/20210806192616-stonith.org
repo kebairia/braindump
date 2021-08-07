@@ -3,3 +3,5 @@
 :END:
 #+title: stonith pacemaker ha
 an acronym for "Shoot The Other Node In The Head"
+[[id:8d147696-b236-44e3-b284-d0618c612d59][pacemaker]]
+

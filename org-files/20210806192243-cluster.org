@@ -4,3 +4,5 @@
 #+title: cluster pacemaker ha
 cluster has a lot of meaning
 one of them is when you have a group of node (computers,servers) which can interact with each other
+[[id:8d147696-b236-44e3-b284-d0618c612d59][pacemaker]]
+
