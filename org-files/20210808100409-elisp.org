@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       ee383775-408a-46ac-9451-ed389c477e65
+:END:
+#+title: elisp
+- elisp is a lisp language created for emacs
+- elisp stands for *emacs lisp*
+

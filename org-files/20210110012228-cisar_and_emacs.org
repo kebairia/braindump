@@ -4,7 +4,7 @@
 #+title: cisar and emacs
 #+filetags: elisp cisar cryptography emacs
 
-you can use the following trick with your email for example or any text you want to hide in emacs
+you can use the following trick with your email for example or any text you want to hide in [[id:4c72a4b7-ee23-473d-a50d-39060c7cbb9e][emacs]]
 #+begin_src emacs-lisp
 (rot13 "4.xronvevn@tznvy.pbz")
 

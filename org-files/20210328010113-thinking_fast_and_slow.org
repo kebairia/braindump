@@ -51,10 +51,10 @@
   this should give you a sense of one of the functions of System1
 *** Psychological Demonstration
 photo for ABC and 12 13 14
-- althought 13 and 13 are the same but you read them differently, because of the context.
+- although 13 and 13 are the same but you read them differently, because of the context.
 2 things to consider here
-- the Coherance
-- You're not aware of the ambiguity.(the ambiguity is supressed).
+- the Coherence
+- You're not aware of the ambiguity.(the ambiguity is suppressed).
 - here a system (computer algo) may detect an ambiguity to decide if 13 is a B or 13.
 "a male voice saying i believe i'm pregnant"
 after system1's work, system2 work while you get surprised from the contradiction of the sentence.
@@ -65,8 +65,8 @@ which is more probable?
 - that a mother has blue eyes if her daughter has blue eyes.
 - that a daughter has blue eyes if her mother has blue eyes.
 there is a probable _response_: that a daughter has blue eyes if her mother has blue eyes.
-but statisticaly, they are equal.
-but we _feel_ that the second is more probable and this feeling turned into a judgement of probability --> decision
+but statistically, they are equal.
+but we _feel_ that the second is more probable and this feeling turned into a judgment of probability --> decision
 ** 
 - people tend to have intuitions/judgments that they are not necessarily true
 - this is a _theory_ how might this happen.
@@ -77,7 +77,7 @@ people are often unaware of the substitution (here system1 work)
 it's like that our brain prefer system1 to work all the time and find way to make it in charge.
 #+end_comment
 and our brain uses that conclusion to the wrong Question --> Bad decision.
-- the substitution here is used for judgement and our judgement is not based on our experience, and they are much less likely to be correct than the intuition that do come from expertise, but they come with equal confidence.
+- the substitution here is used for judgment and our judgment is not based on our experience, and they are much less likely to be correct than the intuition that do come from expertise, but they come with equal confidence.
 
 - There are several mechanisms that take part in this _substitution_ thing.
 **** the mental shotgun:
@@ -112,8 +112,8 @@ confidence therefore is not a good diagnostic for when you can trust either your
 but this may help you in creating personalities for these two systems, and this may help you or enable you to think better about psychological events, than if you were just had a long list of unrelated phenomena.
 
 ** Books to read(recommended from the author)
-- moonwalking with einstein
-  - a book of Joshua foer: How did he become a memory champianship of the USA
+- moon walking with Einstein
+  - a book of Joshua foer: How did he become a memory championship of the USA
   - a fact knowen even for the Greeks, memory is terrible at remembering lists, but memory is superb at remembering routes through space -> use this with your [[id:b9045381-5ac6-468e-afe1-41abea75767a][BASB]]
   - evolution did that
   - so to remember lists, list the list items in a mental routes.

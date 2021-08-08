@@ -2,4 +2,7 @@
 :ID:       9d0a4d0d-065d-41e5-8fb4-fb49b5cdb5c4
 :END:
 #+title: zettelkasten
-zettelkasten is a note taking method that trys to mimic the brain neurons structure, invented by [[id:e2faf5e6-e2b4-4328-a101-5b4a8f56da8e][niklas luhman]]
+- zettelkasten is a note taking method that tries to mimic the brain neurons structure, invented by [[id:e2faf5e6-e2b4-4328-a101-5b4a8f56da8e][niklas luhman]]
+- their is two papers written by [[id:e2faf5e6-e2b4-4328-a101-5b4a8f56da8e][niklas luhman]], and they are translated and uploaded on that [[https://luhmann.surge.sh/][site]]
+- their is a similar but an old approche for storing ideas, and a way of a fast access for these ideas with the [[id:774c601f-cf35-45f1-829d-4ad2912aadc2][memex]] project.
+
