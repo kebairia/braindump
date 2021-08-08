@@ -4,3 +4,4 @@
 #+title: Ernest Rutherford
 - Ernest Rutherford, 1st Baron Rutherford of Nelson,(30 August 1871 – 19 October 1937) was a New Zealand physicist who came to be known as the father of nuclear physics.
   [[file:img/ernest-rutherford/Ernest_Rutherford.jpg]]
+

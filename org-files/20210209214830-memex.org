@@ -8,4 +8,3 @@ the memex is like a parallel memory that helps the user to store knowledge.
 the user can store all of his books, records ...etc, so that the memex can help him later to extract this records(knowledge) easily.
 
 [[https://www.youtube.com/watch?v=pW4SS_9nXyo][Memex #001 Demo - YouTube]]
-
