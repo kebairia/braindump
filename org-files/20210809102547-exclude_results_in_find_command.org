@@ -1,0 +1,25 @@
+:PROPERTIES:
+:ID:       dfc8ae11-718b-46c7-9858-284265816c79
+:END:
+#+title: exclude results in find command
+#+filetags: :linux:
+- the ~-prune~ option helps us to exclude some results when using  the find command.
+- ~-prune~ is an action like ~-print~, not a filter or test like ~-name~ option
+the general pattern of ~-prune~ is
+#+begin_example
+find [path] [conditions to prune] -prune -o [your usual conditions] [actions to perform]
+#+end_example
+
+- ~-o~ is a *logical OR* because the first test of prune will return *false*, so we need the *OR* here so the whole command succeed 
+- see this [[https://stackoverflow.com/a/1489405][answer]]
+
+_Examples_:
+- find all the rpm file in the system
+  #+begin_src sh
+  find / -name "*.txt"
+#+end_src
+- find all the rpm files in the system, but exclude the ~/media~ directory
+  #+begin_src sh
+  find / -path "/media" -prune -false -o -name "*.txt"
+#+end_src
+

@@ -8,3 +8,4 @@ org-roam takes the same ideas and approaches, and tries to implement that on [[i
 - these are great videos from system crafters talking about [[id:9d0a4d0d-065d-41e5-8fb4-fb49b5cdb5c4][zettelkasten]] and [[id:42247bcd-c34e-453b-b70e-3c9976fb3a96][org-roam]]:
   - [[https://www.youtube.com/watch?v=-TpWahIzueg][Can You Apply Zettelkasten in Emacs?]]
   - [[https://www.youtube.com/watch?v=AyhPmypHDEw][Getting Started with Org Roam - Build a Second Brain in Emacs]]
+

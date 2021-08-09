@@ -2,6 +2,7 @@
 :ID:       a29388de-adaa-4bc4-a9f9-5e033e476b59
 :END:
 #+title: straight.el
+
 * Introduction
 - *Straight.el*: a next-generation, purely functional package manager for [[id:4c72a4b7-ee23-473d-a50d-39060c7cbb9e][Emacs]] hacker.
 
