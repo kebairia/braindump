@@ -2,8 +2,9 @@
 :ID:       a225cd43-b13d-4829-8514-d4d32f1b2672
 :END:
 #+title: magit-forge
-#+filetags: magit emacs
-
+#+filetags: :git:emacs:magit:
+* Info
+- forge is an extension to [[id:8fe588cb-f8eb-405c-bacd-0d4b16a8e3c3][magit]] capabilities, it helps you to deal with pull-requests,issues within [[id:8fe588cb-f8eb-405c-bacd-0d4b16a8e3c3][magit]]'s interface.
 * Installation
 - you can use your favorite package-manager, [[id:93a8e065-9ff0-4d67-b52c-97c71de4b33e][use-package]],straight.el... i use [[id:a29388de-adaa-4bc4-a9f9-5e033e476b59][straight.el]] 
 #+begin_src emacs-lisp

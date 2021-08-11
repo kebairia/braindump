@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       8fe588cb-f8eb-405c-bacd-0d4b16a8e3c3
+:END:
+#+title: magit
+#+filetags: :github:git:emacs:
+magit is a [[id:c73ba657-73b7-452d-ae96-e4ec648c1103][git]] interface in [[id:4c72a4b7-ee23-473d-a50d-39060c7cbb9e][emacs]] with enhanced features
+[[file:img/magit/magit.png]]
+

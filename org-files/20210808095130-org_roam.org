@@ -5,7 +5,4 @@
 org-roam is an implementation of the [[id:9d0a4d0d-065d-41e5-8fb4-fb49b5cdb5c4][zettelkasten]] method using the power of [[id:6ce3c5bf-44cc-419a-b881-07f4000c79a4][org-mode]] and [[id:4c72a4b7-ee23-473d-a50d-39060c7cbb9e][emacs]].
 their is a project called *ROAM* that tries to implement the [[id:9d0a4d0d-065d-41e5-8fb4-fb49b5cdb5c4][zettelkasten]] method, and has a web and a phone application for that
 org-roam takes the same ideas and approaches, and tries to implement that on [[id:4c72a4b7-ee23-473d-a50d-39060c7cbb9e][emacs]].
-- these are great videos from system crafters talking about [[id:9d0a4d0d-065d-41e5-8fb4-fb49b5cdb5c4][zettelkasten]] and [[id:42247bcd-c34e-453b-b70e-3c9976fb3a96][org-roam]]:
-  - [[https://www.youtube.com/watch?v=-TpWahIzueg][Can You Apply Zettelkasten in Emacs?]]
-  - [[https://www.youtube.com/watch?v=AyhPmypHDEw][Getting Started with Org Roam - Build a Second Brain in Emacs]]
-
+- these are great videos from system crafters talking about [[https://www.youtube.com/watch?v=-TpWahIzueg][zettelkasten]] and [[https://www.youtube.com/watch?v=AyhPmypHDEw][org-roam]]:

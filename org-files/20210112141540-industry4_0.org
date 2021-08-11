@@ -2,6 +2,6 @@
 :ID:       47a70034-cac8-4c46-ae81-7d84dde31287
 :END:
 #+title: industry4.0
-#+filetags: AI IOT could_computing blockchain
-the [[id:25e4956a-308d-489c-a025-c50ae9efe1d8][internet of things]] (IOT), [[id:4e8506f5-6512-4165-a267-a1962326c5c7][Cloud computing]], [[id:5a26fcad-74a6-4255-a246-9b0c0c3b10a1][Artificial interlligence]] and [[id:6231334d-9373-4353-b7f1-26d657c4a21d][Blockchain]] are the signature elements of the next [[id:8ff6d723-ea79-43ba-81c3-8d59989bb51b][industrial revolution]] commonly termed by [[id:47a70034-cac8-4c46-ae81-7d84dde31287][industry4.0]]
+#+filetags: :ai:iot:could_computing:blockchain:
+the [[id:25e4956a-308d-489c-a025-c50ae9efe1d8][internet of things]] (IOT), [[id:4e8506f5-6512-4165-a267-a1962326c5c7][Cloud computing]], [[id:5a26fcad-74a6-4255-a246-9b0c0c3b10a1][Artificial interlligence]] and [[id:6231334d-9373-4353-b7f1-26d657c4a21d][Blockchain]] are the signature elements of the next [[id:8ff6d723-ea79-43ba-81c3-8d59989bb51b][industrial revolution]] commonly termed by [industry4.0]
 
