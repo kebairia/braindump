@@ -2,7 +2,7 @@
 :ID:       821d6ae7-fc2e-4e89-9748-512a866efa35
 :END:
 #+title: metadata and empty file in linux
-#+filetags: linux metadata inode size
+#+filetags: :size:inode:metadata:linux:
 when you create a file without any data in it by [[id:a091e385-459b-4cd5-a00c-e01e516fddb2][touch command]] for example.
 ~touch myfile~
 ~ls -l /tmp/myfile~
