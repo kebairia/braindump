@@ -3,6 +3,6 @@
 :END:
 #+title: AI-why now?
 #+filetags: AI big_data machine_learning
-Big Data  + Compute power + Machine learning algorithms + we learned how to advertise our AI products. 
+Big Data  + Compute power + Machine learning algorithms + we learned how to advertise our [[id:5a26fcad-74a6-4255-a246-9b0c0c3b10a1][AI]] products. 
 
 

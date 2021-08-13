@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       32cf4454-4f63-45eb-948c-0553d60c4c79
+:END:
+#+title: labels issue with orgmode and latex
+#+filetags: :org_mode:emacs:latex:label:
+- use ~(setq org-latex-prefer-user-labels t)~ so that [[id:6ce3c5bf-44cc-419a-b881-07f4000c79a4][org]] will comply to your label instead of creating a hashed ones like ~\label{tab:org6e89d5ab}~ for ~#+name:tab~
+- ~(setq org-latex-prefer-user-labels t)~
+
