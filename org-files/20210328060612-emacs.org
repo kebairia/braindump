@@ -5,8 +5,11 @@
 #+filetags: unix text_editor elisp
 
 #+begin_quote
-Emacs is not a text editor,
-it is a /lisp machine providing a generic user-centric text manipulation environment/.
+Emacs is not a text editor, this is a common misnomer.
+It is far more apt to describe Emacs as a Lisp machine providing a generic user-centric text manipulation environment.
+That’s quite a mouthful. In simpler terms one can think of Emacs as a platform for text-related applications.
+It’s a vague and generic definition because Emacs itself is generic.
 /[[https://tecosaur.com/][tecosaur]]/
 #+end_quote
 emacs has its own [[id:493a3f23-688c-4c04-af2e-1d584a45427b][lisp]] language called [[id:ee383775-408a-46ac-9451-ed389c477e65][elisp]].
+
