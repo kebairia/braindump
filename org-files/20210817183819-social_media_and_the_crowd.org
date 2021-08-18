@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       92e48a6b-6ac1-433f-8f24-a5805af1a60e
+:END:
+#+title: social media and the Crowd
+[[id:5b2190ca-0361-45e3-bc4b-4862c6159ced][social media]]
+[[id:c6b51578-b384-4a69-a371-badfd7a60f4f][the Crowd]]
+

@@ -8,9 +8,9 @@ when you create a file without any data in it by [[id:a091e385-459b-4cd5-a00c-e0
 ~ls -l /tmp/myfile~
 you'll get a file with a size == ~0 bytes~.
 
-but why?, is'nt there a name and some data related to this file, so the size of the file must be bigger than ~0 bytes~.
+but why?, isn't there a name and some data related to this file, so the size of the file must be bigger than ~0 bytes~.
 
-actually these data are called ~metadata~ and are not saved on the file itself, but it depends on the filesystem you use.
+actually these data are called [[id:4fb14576-0ab3-4364-84c7-86d26f0173b4][metadata]] and are not saved on the file itself, but it depends on the filesystem you use.
 
 so for example, if you are using [[id:bcc7c896-6189-4bab-8f91-bd0ce599b6a4][ext4 filesystem]] for example, these metadata will be stored in the [[id:532b6b8d-cc16-4544-bccd-880eb0110e89][Inode]] of the file.
 

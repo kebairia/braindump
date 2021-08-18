@@ -20,3 +20,4 @@ if you know the name of the ~.sty~ or ~.cls~ file from the package, you can do
 #+begin_src :exports none
 echo $TEXINPUTS
 #+end_src
+

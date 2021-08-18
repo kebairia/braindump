@@ -12,4 +12,3 @@ It’s a vague and generic definition because Emacs itself is generic.
 /[[https://tecosaur.com/][tecosaur]]/
 #+end_quote
 emacs has its own [[id:493a3f23-688c-4c04-af2e-1d584a45427b][lisp]] language called [[id:ee383775-408a-46ac-9451-ed389c477e65][elisp]].
-

@@ -2,7 +2,7 @@
 :ID:       efa5340e-0c7b-4899-bd9f-00426a0cdbe0
 :END:
 #+title: zero'ing a block device
-#+filetags: unix linux block usb
+#+filetags: :unix:linux:block:usb:
 
 - first check out if the usb stick is unmounted
   - suppose that the USB stick is on ~/dev/sdc1~

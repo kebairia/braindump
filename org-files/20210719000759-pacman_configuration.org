@@ -2,7 +2,8 @@
 :ID:       2713929f-aa28-4e6b-bc7a-ff45e21c38cb
 :END:
 #+title: pacman configuration
-#+filetags: arch linux unix system 
+#+filetags: :arch:linux:unix:sysadmin:
+
   |-------------------------+---------------------------------------------------------------------------------------------------|
   | Options                 | Description                                                                                       |
   |-------------------------+---------------------------------------------------------------------------------------------------|
@@ -12,3 +13,6 @@
   |                         | - you can use the number of CPU cores you have.                                                   |
   |                         | - notice that the bigger the number you set the heavier pacman will be on your machine resources. |
   |-------------------------+---------------------------------------------------------------------------------------------------|
+
+[[id:b8786f26-0c9a-49be-9bce-c4a5e19016fe][pacman]]
+

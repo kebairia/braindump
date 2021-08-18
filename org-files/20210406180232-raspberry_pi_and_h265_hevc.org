@@ -2,7 +2,7 @@
 :ID:       9f61512e-b0dc-44f0-9d91-40f22a110f9b
 :END:
 #+title: raspberry pi and H265 (HEVC)
-#+filetags: pfe unix raspberry_pi codecs H265 HEVC
+#+filetags: :unix:raspberry pi:codecs:
 
 #+begin_quote
 What about H265 (HEVC)?
@@ -12,3 +12,4 @@ so will not be capable of much over 720p25, if that., without extensive optimisa
 
 [[https://www.raspberrypi.org/forums/viewtopic.php?p=683295#p683295][Raspberry Pi 2 - FAQ and collated answers - Raspberry Pi Forums]]
 #+end_quote
+

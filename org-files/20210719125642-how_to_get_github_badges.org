@@ -2,4 +2,5 @@
 :ID:       c0f876aa-75ff-407d-be50-f59033ae9bc2
 :END:
 #+title: how to get github badges
-[[https://shields.io/][Shields.io: Quality metadata badges for open source projects]]
+[[https://shields.io/][Shields.io]] is website you can use to create metadata badges for your github repos
+you can get program icons using the [[id:efc66736-5a20-41db-956a-7ff6c1c5814a][get programs's icons]] project.

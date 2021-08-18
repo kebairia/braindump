@@ -2,8 +2,9 @@
 :ID:       9d971699-852f-4692-a4e9-c63c29b2c5fd
 :END:
 #+title: spellchecking in vim 
-#+filetags: vim unix spell
-- add this to your vimrc/init.vim
+#+filetags: :vim:unix:spell:
+
+- add this to your [[id:0869119b-8c48-4740-91fc-5c04501490eb][vim]] configuration file --- vimrc/init.vim ---
   #+begin_src conf
     # this will set the spellchecking to use the us-english words
     set spell spelllang=en_us
@@ -13,4 +14,5 @@
 - ~zg~ will add the word to vim's dictionary
 - ~zw~ Woops! Undo and remove the word from the dictionary
 for more information : [[https://vimtricks.com/p/vimtrick-spell-checking-in-vim/][Spell checking in Vim - VimTricks]]
+- you can see this [[id:5a1f88ad-6ba2-4e53-bce0-e01e5c51f7d0][note]] for spelling in [[id:4c72a4b7-ee23-473d-a50d-39060c7cbb9e][emacs]]
 

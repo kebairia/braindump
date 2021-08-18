@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       82a44dff-7dd7-444b-837a-1740887909e8
+:END:
+#+title: hate week
+Hate Week is a fictional event in [[id:2ea78bb2-edb7-4b94-a3f6-7914dfa721d4][George Orwell]]'s 1949 dystopian novel [[id:583fba5a-abc2-499d-ae8b-46854392a6c9][1984]]
+[[id:c6b51578-b384-4a69-a371-badfd7a60f4f][The Crowd]]

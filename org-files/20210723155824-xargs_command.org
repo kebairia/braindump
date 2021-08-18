@@ -2,7 +2,8 @@
 :ID:       5f3df4bb-ef84-4d24-8a60-ba110babe0af
 :END:
 #+title: xargs command
-#+filetags: unix commands input
+#+filetags: :unix:commands:input:
+
 * Ref
 - [[https://www.tecmint.com/xargs-command-examples/#:~:text=Xargs%20is%20a%20great%20command,xargs%20executes%20echo%20by%20default.][12 Practical Examples of Linux Xargs Command for Beginners]]
 - [[https://unix.stackexchange.com/questions/8647/gnu-find-and-masking-the-for-some-shells-which][GNU find and masking the {} for some shells - which? - Unix & Linux Stack Exc...]]

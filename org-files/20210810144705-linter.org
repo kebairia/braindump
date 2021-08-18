@@ -1,6 +1,7 @@
 :PROPERTIES:
 :ID:       be41af36-cc57-4b46-a7db-28c4cd3ae99d
 :END:
-#+title: linter spell
+#+title: linter
 - a linter is a computer program that, like a spell checker, scans through a document and analyzes it.
-- they may be used to improve your code for example
+- they can be used to improve your code for example.
+

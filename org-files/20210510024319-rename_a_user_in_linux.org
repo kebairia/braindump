@@ -2,7 +2,7 @@
 :ID:       3c7e1044-9754-41fb-9606-b1a0d570bca3
 :END:
 #+title: rename a user in linux
-#+filetags: linux unix sysadmin user
+#+filetags: :linux:unix:sysadmin:user:
 
 Under Linux, the usermod command changes user names.
 It modifies the system account files to reflect the changes that are specified on the command line.
@@ -29,4 +29,5 @@ groupmod --new-name <new_username> <old_username>
   [[file:img/change_username_linux/change_username_in_linux.png]]
 
 source: [[https://serverfault.com/questions/437342/how-can-i-rename-an-unix-user][linux - How can I rename an unix user? - Server Fault]]
+- *NOTE*: if you want to exclude results in find output, check this [[id:dfc8ae11-718b-46c7-9858-284265816c79][note]]
 

@@ -2,9 +2,9 @@
 :ID:       e6b805e9-33b0-46b7-8ea1-22e98e4ecfc1
 :END:
 #+title: save specific layout in emacs
-#+filetags: emacs layout window trick
+#+filetags: :emacs:layout:window:trick:
 
-we can save a specific layout in emacs with ~M-x window-configuration-to-register~ and then we type a letter for it, lets say we choosed 'a'.
+we can save a specific layout in [[id:4c72a4b7-ee23-473d-a50d-39060c7cbb9e][emacs]] with ~M-x window-configuration-to-register~ and then we type a letter for it, lets say we choosed 'a'.
 after that we can restore this layout with ~M-x jump-to-register~ than the letter we choosed. in this example it was 'a'
 ~M-x window-configuration-to-register - a~
 ~M-x jump-to-register - a~

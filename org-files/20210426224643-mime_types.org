@@ -2,5 +2,10 @@
 :ID:       0ff2391f-4a41-423f-a261-f6c97fe6dc4d
 :END:
 #+title: mime types
-#+filetags: unix linux media
-
+#+filetags: :unix:linux:media:
+- A media type, a standard that indicates the nature and format of a document,file or assortment of bytes.
+- it's defined in IETF's RFC [[https://tools.ietf.org/html/rfc6838][rfc6838]]
+- these information are considered as a [[id:4fb14576-0ab3-4364-84c7-86d26f0173b4][metadata]].
+- [[id:088f3276-a6fd-4d26-851e-1a01c900d608][iana]] is responsible for all official mime types.
+- you can find the most up to date and complete list at their [[https://www.iana.org/assignments/media-types/media-types.xhtml][Media Types]] page.
+* Ref

@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       b8786f26-0c9a-49be-9bce-c4a5e19016fe
+:END:
+#+title: pacman
+#+filetags: :unix:linux:
+pacman is an abbreviation for =Package Manager=, and its the main package manager for arch linux
+[[https://archlinux.org/pacman/][pacman home page]]

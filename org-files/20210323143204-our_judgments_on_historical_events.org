@@ -5,7 +5,6 @@
 #+filetags: :past:moral:
 
 It seems that we always explain past events with the experience we have gained from the present (our life), and this is a big mistake.
-When you are reading about historical events, you always use your moral principles, your life experience to judge the people who lived in these events and this era, and the actions that they were taking.
+When you are reading about historical events, --- [[id:8c1b44f0-2069-4ae7-8a32-a880dd1819af][slavery]] for example --- you always use your moral principles, your life experience to judge the people who lived in these events and this era, and the actions that they were taking.
 Remember how people understood the word "natural" or "Nature" in the past, and how we understand it now.
 [[https://www.youtube.com/watch?v=ucn2KzCDnOY][What's "Natural" anyway? - YouTube]]
-

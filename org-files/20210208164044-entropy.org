@@ -2,6 +2,6 @@
 :ID:       06fd6739-c827-4bc4-88c5-6a2ee3c52c08
 :END:
 #+title: entropy
-#+filetags: data order
+#+filetags: :data:order:
 the Entropy is the measurement of the disorder, impurity and the randomness in data
 

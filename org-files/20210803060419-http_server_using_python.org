@@ -2,7 +2,8 @@
 :ID:       0f79ca84-753b-42da-ae7b-524f704886bc
 :END:
 #+title: http server using python
-#+filetags: linux servers http python "create server"
+#+filetags: :linux:servers:http:python:create server:
+
 #+begin_src sh :results none 
 python3 -m http.server 
 #+end_src
