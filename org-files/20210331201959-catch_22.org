@@ -2,7 +2,8 @@
 :ID:       e6538e0a-d414-47e4-b2ad-c4eb097d9647
 :END:
 #+title: catch-22
-#+filetags: rules contradictions limitations metaphors
+#+filetags: :rules:contradictions:limitations:metaphors:
+
 
 [[file:img/Catch22.png]]
 A catch-22 is a paradoxical situation from which an individual cannot escape because of contradictory rules or limitations.

@@ -4,5 +4,4 @@
 #+title: chrome and microphone setting
 #+filetags: :chrome_browser:solution:fixing:microphone:
 
-
 you can  visit the microphone settings on chrome with: ~chrome://settings/content/microphone~

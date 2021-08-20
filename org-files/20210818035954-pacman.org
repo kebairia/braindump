@@ -3,5 +3,5 @@
 :END:
 #+title: pacman
 #+filetags: :unix:linux:
-pacman is an abbreviation for =Package Manager=, and its the main package manager for arch linux
+pacman is an abbreviation for =PAckage MANager=, and its the main package manager for arch linux
 [[https://archlinux.org/pacman/][pacman home page]]

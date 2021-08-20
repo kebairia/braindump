@@ -3,3 +3,4 @@
 :END:
 #+title: The Crowd
 here a [[https://soundcloud.com/samo1220/sets/idpnflaggasl][link]] for a soundcloud discussing the Crowd book
+

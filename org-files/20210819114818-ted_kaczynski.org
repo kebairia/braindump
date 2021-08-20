@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       7128efe6-5518-4fd3-87c5-2cb5d208dc9c
+:END:
+#+title: Ted Kaczynski
+- *Name*: Theodore John Kaczynski
+- *Born*: May 22, 1942
+also known as the Unabomber (UNiversity and Airline BOMbing),an American [[https://en.wikipedia.org/wiki/Domestic_terrorism][domestic terrorist]] and former mathematics professor, and the author of the famous manifesto [[id:ee5001e2-0a49-4388-97a3-6d477d433328]["Industrial Society and Its Future"]]

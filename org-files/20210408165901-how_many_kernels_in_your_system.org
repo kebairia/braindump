@@ -2,7 +2,7 @@
 :ID:       14331767-ee14-455d-8fd2-4df6e2f49034
 :END:
 #+title: how many kernels in your system?
-#+filetags: :linux:unix:kernel:
+#+filetags: linux unix kernel
 
 Try to locate them in ~/lib/modules~ directory using the ls command:
 #+begin_src sh

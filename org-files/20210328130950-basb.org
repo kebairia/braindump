@@ -2,6 +2,6 @@
 :ID:       b9045381-5ac6-468e-afe1-41abea75767a
 :END:
 #+title: BASB
-#+filetags: Building_a_Second_Brain brain
+#+filetags: :brain:Building_a_Second_Brain:
 - this is my own approaches to do this [[https://www.github.com/kebairia/braindump]]
-- i used for that the great package [[id:42247bcd-c34e-453b-b70e-3c9976fb3a96][org-roam]] that tries to implement the [[id:9d0a4d0d-065d-41e5-8fb4-fb49b5cdb5c4][zettelkasten]] method on [[id:4c72a4b7-ee23-473d-a50d-39060c7cbb9e][emacs]]
+- i used for that the great package "[[id:42247bcd-c34e-453b-b70e-3c9976fb3a96][org-roam]]" that tries to implement the [[id:9d0a4d0d-065d-41e5-8fb4-fb49b5cdb5c4][zettelkasten]] method on [[id:4c72a4b7-ee23-473d-a50d-39060c7cbb9e][emacs]]
