@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       a42110d5-ea5c-4129-a0d9-156cbf9cd9a1
+:END:
+#+title: proxy server
+#+filetags: :network:encapsulation:server:
+- a proxy server is a server that act as an intermediate layer between the client that request a resource, and the actual server that is serving this resource;
+(instead of a direct connection).
+- the proxy server is used to simplify a complexe request, or provides additional benefits like a loadbalancer, security or privacy...etc
+- a proxy server act as an encapsulator.
+[[file:img/proxy/Proxy_concept_en.svg]]:
+

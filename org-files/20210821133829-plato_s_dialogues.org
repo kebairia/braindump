@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       773be36d-f0d0-4eeb-8534-fab2ef4fa175
+:END:
+#+title: plato's dialogues
+#+filetags: :athens:greece:philosophy:
+[[id:acb4ae25-0009-46f6-96c8-c0b077cf48e0][plato]]'s use of dialogues method in his 'dialogues', means that the opinions in these conversations can be right of wrong.
+[[file:img/dialogues_of_plato/Heritage_values.png]]
+

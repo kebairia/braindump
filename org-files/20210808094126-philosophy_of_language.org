@@ -2,4 +2,38 @@
 :ID:       bae4c8bc-d2bc-4a2b-b9ef-5fe8d2e83dd3
 :END:
 #+title: philosophy of language
+#+filetags: :language:philosophy:
 
+* Further Reading
+** Arabic
+- [[https://www.ida2at.com/how-did-ludwig-wittgenstein-see-the-philosophy-of-language/][How Did Ludwig Wittgenstein See The Philosophy Of Language - Ida2at]]
+** English
+- [[https://www.youtube.com/playlist?list=PL8C19A595E537E3C9][Searle: Philosophy of Language - YouTube]]
+  - [ ] lecture 1: Philosophy of Language – Distinctions and Overview
+  - [ ] lecture 2: Use & Mention, J.L. Austin’s Speech Act Theory
+  - [ ] lecture 3: Speech Acts – Twelve Features, Five Classifications
+  - [ ] lecture 4: Classifications, cont., Grice’s Theory of Meaning
+  - [ ] lecture 5: Grice, cont., Some Counterexamples, Intentionality
+  - [ ] lecture 6: Expressibility, Rules, Representation, Intentional Acts
+  - [ ] lecture 7: Theory of Human Action, Freedom of Will
+  - [ ] lecture 8: Performatives, Assertives, Directives, Commisives
+  - [ ] lecture 9: Review of Speech Act Taxonomy, Frege
+  - [ ] lecture 10: Russell’s Paradox, Frege’s ‘Sense and Reference’
+  - [ ] lecture 11: Frege, cont., Extensionality vs Intensionality, Russell
+  - [ ] lecture 12: Russell’s ‘On Denoting’, Strawson’s ‘On Referring’
+  - [ ] lecture 13: Review of Frege, Russell & Strawson, Twin-Earth
+  - [ ] lecture 14: Russell vs Strawson, Indirect Speech Acts, Indexicals
+  - [ ] lecture 15: Cluster theory & Kripke, Externalism vs Internalism
+  - [ ] lecture 16: Externalism vs Internalism, cont., Indexicality, Truth
+  - [ ] lecture 17: Theories of Truth, Objections to Correspondence
+  - [ ] lecture 18: Answers to Objections to Correspondence Theory
+  - [ ] lecture 19: Relativism, Solipsism, Background Capacities & Rules
+  - [ ] lecture 20: Anthropology, Fiction, Non-explicitness, Commitments
+  - [ ] lecture 21: Fiction cont., Grice’s Maxims, Indirect Speech Acts
+  - [ ] lecture 22: Indirect Speech Acts, cont., Metaphor
+  - [ ] lecture 23: Radical Contextualism, Metaphor, Quine’s Two Dogmas
+  - [ ] lecture 24: Naturalism, Quine on Indeterminacy, Chomsky
+  - [ ] lecture 25: Chomsky cont., Pictorial Representation
+  - [ ] lecture 26: Picturing, cont., Performatives, Human Institutions
+  - [ ] lecture 27: Social Construction, Externalism, Proper Names
+  - [ ] lecture 28: Philosophy of Language in Wider Context, Metaphor

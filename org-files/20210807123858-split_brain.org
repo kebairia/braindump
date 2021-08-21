@@ -2,8 +2,9 @@
 :ID:       a29b6919-cbef-4314-95ed-c568f045521e
 :END:
 #+title: split-brain
-#+filetags: pacemaker ha
+#+filetags: :pacemaker:ha:
 
-split-brain, a phenomenon where the cluster is separated from communication but each part continues working as separate clusters, potentially writing to the same data and possibly causing corruption or loss.
+split-brain, a phenomenon where the cluster is separated from communication but each part continues working as separate clusters,
+potentially writing to the same data and possibly causing corruption or loss.
 [[id:8d147696-b236-44e3-b284-d0618c612d59][pacemaker]]
 

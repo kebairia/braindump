@@ -2,4 +2,7 @@
 :ID:       bcc7c896-6189-4bab-8f91-bd0ce599b6a4
 :END:
 #+title: ext4 filesystem
+#+filetags: :linux:filesystem:
+the 4th extended file system
+
 
