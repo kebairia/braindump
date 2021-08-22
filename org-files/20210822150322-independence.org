@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       fd5a4c5f-b137-4ed4-bb01-b49178026185
+:END:
+#+title: independence
+
+#+begin_quote
+Naturally, independence demands a minimum of intrinsic complexity. --- [[id:e2faf5e6-e2b4-4328-a101-5b4a8f56da8e][niklas luhman]]
+#+end_quote

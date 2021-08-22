@@ -1,0 +1,29 @@
+:PROPERTIES:
+:ID:       1abdaccd-ed06-49d9-9332-2363aca40e63
+:END:
+#+title: why quorum?
+- in order for a cluster to work properly, the nodes must communicate with each other, and exchange information like:
+  - which machines are currently cluster members
+  - where services are running
+  - which machines are using which resources
+- in [[id:8d147696-b236-44e3-b284-d0618c612d59][pacemaker]], every node casts one vote if it successfully joins the corosync network communication and is able to communicate with the other nodes
+
+- the idea of taking more then a half of all the members ( n /2 + 1) of the cluster is simple...
+  1. the decision goes to the majority, because its unlikely for the majority to be wrong.
+  2. in order to prevent the [[id:a29b6919-cbef-4314-95ed-c568f045521e][split-brain]] situation, the cluster must prefer the group that has the most nodes alive.
+- cluster with 5 nodes, we can calculate its [[id:35d47bf3-65cc-476e-ba46-576b2ed2a02f][quorum]] by:
+     #+begin_example
+     5//2+1 == 2+1 == 3
+     #+end_example
+     #+begin_src python :results output
+       quorum = lambda x: print( "the quorum of %s is %s"%(x, x//2+1))
+       quorum(5)
+       quorum(10)
+       quorum(2)
+     #+end_src
+
+     #+RESULTS:
+     :  the quorum of 5 is 3
+     :  the quorum of 10 is 6
+     :  the quorum of 2 is 2
+

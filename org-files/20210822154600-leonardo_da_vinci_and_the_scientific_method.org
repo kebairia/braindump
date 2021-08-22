@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       7fe7d04f-dbfc-4072-b838-cffdb541226a
+:END:
+#+title: leonardo da vinci and the scientific method
+#+filetags: :science:scientific method:
+
+a note from [[id:8f5eb35c-7fba-4c3f-9659-077198199ab6][leonardo da vinci]] notebook describing his way of investigating a natural phenomena or doing experiments 
+which is considered as an early approach for the [[id:46067e6b-137d-468f-afbc-be853fc570b8][scientific method]]
+#+begin_quote
+“First I shall make some experiments before I proceed further, because my intention is to consult experience first and then by means of reasoning show why such experiment is bound to work in such a way.
+And this is the rule by which those who analyze natural effects must proceed; and although nature begins with the cause and ends with the experience, we must follow the opposite course, namely (as I said before), begin with the experience and by means of it investigate the cause.”
+#+end_quote

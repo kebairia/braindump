@@ -5,4 +5,5 @@
 #+filetags: :network:
 
 The /Internet Assigned Numbers Authority/ ([[https://www.iana.org/][IANA]])
-a global coordination of [[id:e396c2e7-57a1-44f9-8ec4-2f465bb5eb08][dns]] Root, IP addressing, and other internet protocol resources
+a global coordination of [[id:e396c2e7-57a1-44f9-8ec4-2f465bb5eb08][dns]] Root, IP addressing, and other internet protocol resources.
+

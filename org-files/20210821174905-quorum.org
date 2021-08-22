@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       35d47bf3-65cc-476e-ba46-576b2ed2a02f
+:END:
+#+title: quorum
+
+- quorum is the minimum number of votes needed to achieve more than half of the votes. 
+- if the quorum is achieved, the cluster is considered *quorate*
+- the cluster loses quorum if half of the nodes or more cannot communicate with each other.
+- any node loses its membership, get fenced by other nodes (the [[id:1abdaccd-ed06-49d9-9332-2363aca40e63][majority]])
+
+* Example
+  lets imagine a 5 nodes cluster (A, B, C, D and E)
+  and lets consider that they use a file server as a shared storage
+  imagine that D and E loses their communication with A, B and C
+  the majority here goes to (A,B,C) so these nodes still form a quorum for this cluster, and they will [[id:d3715650-d854-4e79-889c-92793964bd80][fence]] E and D
+  otherwise and without the concept of quorum, D and E suppose that the problem is with A,B and C, and they try to remount the file server again
+here we will get one file system mounted two time in two different places, which leads to data corruption, this situation called [[id:a29b6919-cbef-4314-95ed-c568f045521e][split-brain]]
+
