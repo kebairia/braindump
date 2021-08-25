@@ -2,7 +2,8 @@
 :ID:       e2172744-8db3-4596-baec-e67608dd7c00
 :END:
 #+title: inline source blocks
-#+filetags: emacs code org_mode thesis
+#+filetags: :emacs:org-mode:thesis:code:
+
 we can use inline source blocks in [[id:6ce3c5bf-44cc-419a-b881-07f4000c79a4][org-mode]] like the following example:
 #+begin_src org
 src_<language>[<header arguments>]{<body>}

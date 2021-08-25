@@ -2,4 +2,5 @@
 :ID:       46067e6b-137d-468f-afbc-be853fc570b8
 :END:
 #+title: scientific method
+#+filetags: :method:science:
 

@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       c4adaf11-01fd-4860-aaa7-7dfc52c61139
+:END:
+#+title: Plato
+#+filetags: :philosophy:
+

@@ -2,8 +2,9 @@
 :ID:       6c97962e-0f49-468e-aad1-e06d74532767
 :END:
 #+title: org babel
-#+filetags: org_mode emacs
+#+filetags: :emacs:org-mode:
 - org babel is one of the great feature that [[id:6ce3c5bf-44cc-419a-b881-07f4000c79a4][org-mode]] have.
+
 * global options
 - you can specify global options on the header of the org file with the =#+PROPERTY= keyword
 #+PROPERTY:  header-args :results none :tangle ~/path/to/file

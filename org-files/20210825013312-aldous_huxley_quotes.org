@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       a17c2eac-ff10-4b6d-9851-5b270048b007
+:END:
+#+title: aldous Huxley quotes
+
+* The perfect dictatorship
+:PROPERTIES:
+:ID:       f9876268-e2d4-4a29-aaf5-c647a2bd7dfc
+:END:
+#+begin_quote
+"The perfect [[id:ca473045-c398-482b-81fa-4caf71e959e8][dictatorship]] would have the appearance of a [[id:0b730bba-3af4-4b21-8379-475f504af711][democracy]], but would basically be a prison without walls in which the prisoners would not even dream of escaping. 
+It would essentially be a system of [[id:8c1b44f0-2069-4ae7-8a32-a880dd1819af][slavery]] where, through consumption and entertainment, the slaves would love their servitudes."
+--- [[id:b7f853e8-35cc-4330-8691-23528742a3ea][Aldous Huxley]]
+#+end_quote
+
+* Technodictators
+:PROPERTIES:
+:ID:       e0bbdd16-1bab-4b67-aaab-bb679b5faa60
+:END:
+[[id:b7f853e8-35cc-4330-8691-23528742a3ea][Aldous Huxley]] on Technodictators -- [[https://www.youtube.com/watch?v=oIgjujAI6eE][YouTube]]
