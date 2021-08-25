@@ -1,2 +1,3 @@
 * 🧠 Braindump
-[[file:./org-files/img/org-roam-ui.png]]
+[[file:./org-files/img/org-roam-ui-01.png]]
+[[file:./org-files/img/org-roam-ui-02.png]]
