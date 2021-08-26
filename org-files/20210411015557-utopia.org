@@ -2,6 +2,4 @@
 :ID:       f9d31772-b974-4d86-8838-1d2d92732148
 :END:
 #+title: utopia
-
-no one can imagine or predict a utopia, because no one knows what are the good things (good things to be done).
-
+The term was coined by Sir Thomas More for his 1516 book Utopia

@@ -2,4 +2,6 @@
 :ID:       583fba5a-abc2-499d-ae8b-46854392a6c9
 :END:
 #+title: 1984
+[[id:079016b7-5882-44e6-bcd6-fbd87cbf4e46][dystopia]]
 [[file:img/1984/orwell.jpg]]
+

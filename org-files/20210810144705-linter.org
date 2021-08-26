@@ -2,6 +2,6 @@
 :ID:       be41af36-cc57-4b46-a7db-28c4cd3ae99d
 :END:
 #+title: linter
-- a linter is a computer program that, like a spell checker, scans through a document and analyzes it.
+- a linter is a computer program that, like a spell checker ([[id:5a1f88ad-6ba2-4e53-bce0-e01e5c51f7d0][aspell and emacs]] for example), scans through a document and analyzes it.
 - they can be used to improve your code for example.
 
