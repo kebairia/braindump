@@ -1,13 +1,13 @@
 :PROPERTIES:
 :ID:       51c55f24-2535-4455-a974-6c7c72b41d2e
-:ROAM_REFS: "The Open Society and its Enemies"
 :END:
 #+title: Karl Popper on democracy
 #+filetags: :democracy:
 
 * Form of ruling according to Plato
 #+begin_quote
-[[id:c4adaf11-01fd-4860-aaa7-7dfc52c61139][Plato]] was the first theoretician to make a system out of the distinctions between what he regarded as the main forms of the city-state.
+[[id:c4adaf11-01fd-4860-aaa7-7dfc52c61139][Plato]] was the first theoretician to make a system out of the distinctions between what he regarded
+as the main forms of the city-state.
 According to the number of the rulers, he distinguished between:
 1. monarchy, the rule of one good man, and tyranny, the distorted form of monarchy;
 2. aristocracy, the rule of a few good men, and oligarchy, its distorted form;
@@ -17,9 +17,12 @@ The Open Society and its Enemies
 #+end_quote
 * Why we choose [[id:0b730bba-3af4-4b21-8379-475f504af711][democracy]] ?
 #+begin_quote
-We could base our whole theory on this, that there are only two alternatives known to us: either a [[id:ca473045-c398-482b-81fa-4caf71e959e8][dictatorship]] or some form of democracy.
-And we do not base our choice on the goodness of democracy, which may be doubtful, but solely on the evilness of a dictatorship, which is certain.
-Not only because the dictator is bound to make bad use of his power, but because a dictator, even if he were benevolent, would rob all others
+We could base our whole theory on this, that there are only two alternatives known to us: either
+a [[id:ca473045-c398-482b-81fa-4caf71e959e8][dictatorship]] or some form of democracy.
+And we do not base our choice on the goodness of democracy, which may be doubtful, but solely on
+the evilness of a dictatorship, which is certain.
+Not only because the dictator is bound to make bad use of his power, but because a dictator, even
+if he were benevolent, would rob all others
 of their responsibility, and thus of their human rights and duties.
 #+end_quote
 * Ref

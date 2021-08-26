@@ -5,6 +5,7 @@
 #+filetags: :effort:value:activities:
 
 activities doesn't have an intrinsic effort.
-when you're doing something, and there is an alternative activity that promises to be easier and more immediately rewarding, the latter activity seems effortful
+when you're doing something, and there is an alternative activity that promises to be easier and more
+immediately rewarding, the latter activity seems effortful
 read more: [[https://www.scotthyoung.com/blog/2021/02/04/lof-free-time/][Get the Most From Your Limited Free Time | Scott H Young]] 
 
