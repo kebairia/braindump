@@ -3,4 +3,4 @@
 :END:
 #+title: ludwig wittgenstein
 #+filetags: :philosophy:language:
- 
+Born: 26 april 1889, Vienna

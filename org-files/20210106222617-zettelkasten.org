@@ -11,3 +11,4 @@
 - every note here (an index card) called a *Zettel*
 [[file:img/zettelkasten/zettel1.png]] [[file:img/zettelkasten/zettel2.png]]
 [[file:img/zettelkasten/zettel3.png]] [[file:img/zettelkasten/zettel4.png]]
+
