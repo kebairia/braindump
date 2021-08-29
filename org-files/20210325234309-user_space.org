@@ -1,6 +1,0 @@
-:PROPERTIES:
-:ID:       4a96359f-77f1-4cb7-b216-6d597467c6a9
-:END:
-#+title: user-space
-#+filetags: unix linux computer_science
-

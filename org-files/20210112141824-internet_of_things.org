@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       25e4956a-308d-489c-a025-c50ae9efe1d8
+:ROAM_REFS: cite:shi-2016-edge-comput 
 :END:
 #+title: internet of things
 #+filetags: :computer_science:

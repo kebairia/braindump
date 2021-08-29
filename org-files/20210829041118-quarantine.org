@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       7903a6f3-1062-4fa3-be3f-ada296c921a6
+:END:
+#+title: quarantine
+quarantine is very old word, exactly from the 14th century, in Italy
+where incoming ships were required to stay at port for 40 days
+/quaranta giorni/
+
+* Ref
+Why Trust Science , p12
+[[id:a83a6254-9844-4f66-bbac-be7e2b4c859a][why trust science?]]

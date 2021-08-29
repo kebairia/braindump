@@ -4,3 +4,9 @@
 #+title: API  
 #+filetags: :computer_science:
 
+Stands for: Application Programmable Interface
+
+it's a set of command which let us interact with an application in programmable way.
+for example we can use these set of command (api) in our code to control this application
+take google maps api for example, we can request and control the map using its api
+

@@ -1,6 +1,0 @@
-:PROPERTIES:
-:ID:       0e0db272-3573-4e5f-bc2e-bdd60cf3ceab
-:END:
-#+title: video card  
-#+filetags: computer_science
-

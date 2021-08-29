@@ -2,6 +2,6 @@
 :ID:       3ca7f254-bb81-4afa-aaba-8bde80590c0e
 :END:
 #+title: ant colony
-for an *Ant colony* to succeed, it has to consist of a group of members with a specific and simple design
+for an *Ant colony* to succeed, it has to consist of a group of members with a specific and simple design.
 so that every member can do one job, and one job only.
-any complexity (in the design of members --ants--)can leads for some sort of [[id:fd5a4c5f-b137-4ed4-bb01-b49178026185][independence]] which may undermine the colony as a whole
+any complexity (in the design of members --ants--)can leads for some sort of [[id:fd5a4c5f-b137-4ed4-bb01-b49178026185][independence]] which may undermine the colony as a whole.
