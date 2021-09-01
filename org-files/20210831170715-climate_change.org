@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       d06ea542-e0ba-4515-b34d-cebb34b5d3d7
+:ROAM_REFS: cite:selby2017climate
+:END:
+#+title: climate change
+[[id:f2e8a87f-1689-4811-8c68-c5790aa7da62][greenhouse effect]]
+
