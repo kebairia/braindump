@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       0cc16028-f996-4df1-9118-19bf80ef38c4
+:ROAM_REFS: cite:huxley-1953-ends-means
+:END:
+#+title: how to change bad things in society
+#+filetags: :society:
+to make a difference in society
+1. Don't change anything until it's absolutely necessary, because people are resistant to change in general.
+2. If something needs to be changed, use just the methods that are familiar to people.
+3. Never use violence to impose any form of change, as this will provoke a violent response.
+
+[[id:b7f853e8-35cc-4330-8691-23528742a3ea][Aldous Huxley]]
+
