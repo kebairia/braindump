@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       b7f853e8-35cc-4330-8691-23528742a3ea
+:ROAM_REFS: cite:huxley-1953-ends-means
 :END:
 #+title: Aldous Huxley   
 
@@ -8,5 +9,6 @@ an English writer and philosopher.
 He wrote nearly 50 books —both novels and non-fiction works—
 as well as wide-ranging essays, narratives, and poems.
 He is known by his famous novel [[id:37de5a3c-5f66-4891-9e7d-26c3de11940c][Brave New World]]
+
 * Ref
 [[https://en.wikipedia.org/wiki/Aldous_Huxley][Aldous Huxley - Wikipedia]]

@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       74c277f1-2478-46e2-ac1d-c88efc71746a
+:ROAM_REFS: cite:huxley-1953-ends-means
+:END:
+#+title: using familiar means to impose positive change
+#+filetags: :society:
+Only the means that are familiar to society should be used as methods to impose positive change.
+[[id:e6cc16af-dbba-4c36-83c5-198bbff1e9db][people resist change]]
+[[id:b7f853e8-35cc-4330-8691-23528742a3ea][Aldous Huxley]]
+

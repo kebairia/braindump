@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       e6cc16af-dbba-4c36-83c5-198bbff1e9db
+:ROAM_REFS: cite:huxley-1953-ends-means
+:END:
+#+title: people resist change
+#+filetags: :society:
+
+Any attempt to change, no matter how good it was, will be met with
+resistance by the general public.
+[[id:32ca542e-71ce-49af-92e6-8880465e874f][violence as a way to change society]]
+[[id:b7f853e8-35cc-4330-8691-23528742a3ea][Aldous Huxley]]
+
