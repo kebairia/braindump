@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       5634f20d-094d-4b26-ad5e-819fdef40dc1
+:END:
+#+title: pacemaker resource agent
+#+filetags: :ha:pacemaker:
+a resource agent in pacemaker is a script that can manage a [[id:d5cea71f-93ed-4dcd-a490-c1a7cb1547b1][pacemaker resource]]
+managing means: start, stop, restart and monitor the configured cluster resource
+|---------+----------------------------------------------------------------------|
+| Agent   | Purpose                                                              |
+|---------+----------------------------------------------------------------------|
+| LSB     | Linux Standard Base-compatible init scripts residing in =/etc/init.d=  |
+| OCF     | Open Cluster Framework-compatible scripts, extended LSB init scripts |
+| SYSTEMD | systemd unit files                                                   |
+|---------+----------------------------------------------------------------------|

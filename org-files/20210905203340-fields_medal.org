@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       19e0752d-ba8f-4209-96cd-eb6f35561123
+:END:
+#+title: Fields Medal
+#+filetags: :mathematics:prizes:
+
