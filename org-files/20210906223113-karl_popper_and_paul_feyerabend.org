@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       30d98c9e-dfc0-4331-82db-691832ab20b8
+:END:
+#+title: Karl Popper and Paul Feyerabend
+There is a relation between the two philosophers ([[id:e68f0b2d-1f12-4598-91c5-03cf0cf42086][Karl Popper]] and [[id:7027cab9-3f21-4717-8219-c470bf00482a][Paul Feyerabend]]).
+that is the idea of "everything goes". Yes, this is what Paul Feyerabend said,
+but Karl also says the same thing about the source of insight and thoughts that comes to the scientist.
+After that, what matters is the method of separating the nonsense from what is truly scientific.
+hence, [[id:cd487f20-6afa-4e4c-a766-6cb394737c0c][Demarcation problem]]
+

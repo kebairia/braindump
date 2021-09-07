@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       cd487f20-6afa-4e4c-a766-6cb394737c0c
+:END:
+#+title: Demarcation problem
+#+filetags: :philosophy:science:
+In philosophy of science and epistemology, the demarcation problem is
+the question of how to distinguish between science and non-science ([[id:40a69736-b70f-4ddc-bb33-85eaaefa24c7][Pseudoscience]])
