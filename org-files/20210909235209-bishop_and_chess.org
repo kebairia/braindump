@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       105c6204-fc98-40a7-ba28-f204ffbf5d65
+:END:
+#+title: bishop and chess
+#+filetags: :chess:
+In chess, the bishop must only walk in straight lines; does this have
+anything to do with the fact that in [[id:ba5ad8e8-836f-4e51-b540-720812bfff31][Christianity]] , the bishop is a symbol
+for a straight man, or the idea that in Christianity, and as a bishop,
+you must follow our God's guidance, the straight *path*?
