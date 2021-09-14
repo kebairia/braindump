@@ -1,11 +1,10 @@
 :PROPERTIES:
 :ID:       49136353-90b1-4a88-a8fe-9b0c1f31946b
+:ROAM_REFS: cite:Murphy_2014
 :END:
 #+title: polymath
 A polymath (*Greek*: πολυμαθής, polymathēs, "having learned much"; *Latin*: homo universalis, "universal person")
+
 - is an individual whose knowledge spans a substantial number of subjects.
 - the first work to use the term polymathy in its title (De Polymathia tractatio: integri operis de studiis veterum)
   was published in 1603 by Johann von Wowern, a Hamburg philosopher.
-
-* Ref
-  Murphy, Kathryn (2014). "Robert Burton and the problems of polymathy". Renaissance Studies. 28 (2): 279. doi:10.1111/rest.12054

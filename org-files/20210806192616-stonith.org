@@ -1,7 +1,11 @@
 :PROPERTIES:
 :ID:       af26cc39-a09e-4070-aec5-94206e0f7069
 :END:
-#+title: stonith pacemaker ha
+#+title: stonith
+#+filetags: :ha:pacemaker:
 an acronym for "Shoot The Other Node In The Head"
+is a method of fencing a node by turning off the power or shutting it down
+(physical node or a virtual machine)
+
 [[id:8d147696-b236-44e3-b284-d0618c612d59][pacemaker]]
 
