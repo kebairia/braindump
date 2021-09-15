@@ -13,7 +13,14 @@ I intend to create a dedicated website for them in the near future.
 
 Have a good time!
 #+end_quote
+#+HTML: <details><summary><b>What is Zettelkasten</b></summary>
 
+ Zettelkasten is a note taking method that tries to mimic the brain neurons structure, invented by [[file:org-files/20210106222747-niklas_luhman.org][niklas luhman]]
+#+HTML: </details>
+
+#+HTML: <details><summary><b>Ressources</b></summary>
+ their are two papers written by niklas luhman, and they are translated and uploaded on this [[https://luhmann.surge.sh/][site]].
+#+HTML: </details>
 #+HTML: <details><summary><b>Screenshoot</b></summary>
 [[file:./img/org-roam-ui-01.png]]
 [[file:./img/org-roam-ui-02.png]]
