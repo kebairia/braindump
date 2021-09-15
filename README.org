@@ -1,6 +1,6 @@
 * 🧠 Braindump
 #+html: <p align="center">
-#+html: <img src="./org-files/img/zkbd-logo.png" alt="ZK-braindump logo">
+#+html: <img src="./img/zkbd-logo.png" alt="ZK-braindump logo">
 #+html: </p>
 
 #+begin_quote
@@ -15,7 +15,7 @@ Have a good time!
 #+end_quote
 
 #+HTML: <details><summary><b>Screenshoot</b></summary>
-[[file:./org-files/img/org-roam-ui-01.png]]
-[[file:./org-files/img/org-roam-ui-02.png]]
-[[file:./org-files/img/org-roam-ui-03.png]]
+[[file:./img/org-roam-ui-01.png]]
+[[file:./img/org-roam-ui-02.png]]
+[[file:./img/org-roam-ui-03.png]]
 #+HTML: </details>
