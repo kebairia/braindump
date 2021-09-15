@@ -14,9 +14,7 @@ I intend to create a dedicated website for them in the near future.
 Have a good time!
 #+end_quote
 
-* Screenshots
 #+HTML: <details><summary><b>Screenshoot</b></summary>
-
 [[file:./org-files/img/org-roam-ui-01.png]]
 [[file:./org-files/img/org-roam-ui-02.png]]
 [[file:./org-files/img/org-roam-ui-03.png]]
