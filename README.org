@@ -1,6 +1,6 @@
 * 🧠 Braindump
 #+html: <p align="center">
-[[file:org-files/img/zkbd-logo.png]]
+#+html: <img src="./org-files/img/zkbd-logo.png" alt="ZK-braindump logo">
 #+html: </p>
 
 #+begin_quote
