@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       c18e43cb-0171-4aad-9ead-aec057b6ea6e
+:END:
+#+title: ibn al-haytham
+#+filetags: :scientific:
+
