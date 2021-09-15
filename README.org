@@ -1,9 +1,23 @@
 * 🧠 Braindump
+#+html: <p align="center">
 [[file:org-files/img/zkbd-logo.png]]
+#+html: </p>
 
-this is my braindump repo
+#+begin_quote
+Hi, my name is *Zakaria.K*, and this is my *braindump*.
+This repository contains my ``[[file:org-files/20210106222617-zettelkasten.org][Zettelkasten]]-based'' working/study/reading notes.
+They're in a messy state right now, but they'll be improved as I get used to the method.
+The majority of them are literature notes that I took while reading.
+
+I intend to create a dedicated website for them in the near future.
+
+Have a good time!
+#+end_quote
 
 * Screenshots
+#+HTML: <details><summary><b>Screenshoot</b></summary>
+
 [[file:./org-files/img/org-roam-ui-01.png]]
 [[file:./org-files/img/org-roam-ui-02.png]]
 [[file:./org-files/img/org-roam-ui-03.png]]
+#+HTML: </details>
