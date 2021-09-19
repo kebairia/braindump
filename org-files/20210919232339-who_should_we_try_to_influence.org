@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       d9ff084f-136f-45cb-a872-64702b7b4341
+:ROAM_REFS: cite:huxley-1953-ends-means
+:END:
+#+title: who should we try to influence?
+#+filetags: :society:
+
+- Instead of focusing on the men and women who are living right now,
+we need to focus on next generation and set an examples for the younger.
+#+begin_example
+- explain and discuss a better way to live.
+- how we can respect each other and cherish human life and human dignity.
+- how we can change the way we look and treat women,...etc.
+#+end_example
+- I agree that some older people can alter their minds and their bad behavior,
+  but they are a minority, and we can't put our hopes in them to make society a better place.
+  [[id:0cc16028-f996-4df1-9118-19bf80ef38c4][how to change bad things in society]]
+
+  [[file:img/ends_and_means/who_should_we_try_to_influence.png]]
+
