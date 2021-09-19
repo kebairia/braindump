@@ -3,3 +3,4 @@
 :END:
 #+title: Marriage
 
+[[id:fd5a4c5f-b137-4ed4-bb01-b49178026185][independence]]
