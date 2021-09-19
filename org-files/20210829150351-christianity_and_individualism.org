@@ -3,7 +3,7 @@
 :ROAM_REFS: cite:rawls-2009
 :END:
 #+title: christianity and individualism
-[[id:ba5ad8e8-836f-4e51-b540-720812bfff31][christianity]] is a [[id:fc655056-aadf-4f78-a033-c36a58d3b8cd][religion]] based on individualism
+[[id:ba5ad8e8-836f-4e51-b540-720812bfff31][christianity]] is a [[id:fc655056-aadf-4f78-a033-c36a58d3b8cd][religion]] based on [[id:ed96a909-3749-46d4-b64b-0840d5308ae8][individualism]]
 every one tend to seed his own salvation, and must to,
 and everyone can curse any (has the ability to curse someone).
 - REF - pp (259-269)

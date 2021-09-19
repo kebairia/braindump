@@ -2,4 +2,5 @@
 :ID:       3c721b6b-6cdd-4ecb-89ec-5f307bbc75da
 :END:
 #+title: ant colony and societies
-is it our [[id:fd5a4c5f-b137-4ed4-bb01-b49178026185][independence]] -- [[id:04bbbe2d-c2ba-42b0-9733-ae141f6355a9][free will]] -- responsible on some problem we face in modern societies, the societies that raise value [[id:2120d4c5-8fc3-4783-9d73-c993161db818][freedom]] and [[id:5e700f8e-0f1c-418e-a451-0ddf9990463c][human rights]] and diversity
+is it our [[id:fd5a4c5f-b137-4ed4-bb01-b49178026185][independence]] -- [[id:04bbbe2d-c2ba-42b0-9733-ae141f6355a9][free will]] -- responsible on some problem we face in modern societies,
+the societies that raise values like [[id:2120d4c5-8fc3-4783-9d73-c993161db818][freedom]] and [[id:5e700f8e-0f1c-418e-a451-0ddf9990463c][human rights]] and diversity

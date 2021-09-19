@@ -4,6 +4,8 @@
 #+title: niklas luhman
 a german socioligist (1927–1998)
 a prolific scientist, with more than 70 books and nearly 400 scholarly articles published on a variety of subjects.
+they said that he was a [[id:3fd2adf9-3e83-4b0a-8c2a-b424669a9f74][workaholic]], and that explain the huge amount of his books and articles
+but he said that some credit is due to his note taking system, called [[id:9d0a4d0d-065d-41e5-8fb4-fb49b5cdb5c4][zettelkasten]]
 
 [[file:img/niklas_luhmann/niklas_luhmann.jpeg]]
 
