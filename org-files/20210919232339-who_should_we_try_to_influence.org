@@ -14,6 +14,9 @@ we need to focus on next generation and set an examples for the younger.
 #+end_example
 - I agree that some older people can alter their minds and their bad behavior,
   but they are a minority, and we can't put our hopes in them to make society a better place.
+- the [[id:76945c21-573b-46ad-9b22-f3e36dc3b9ab][change must be in a democratic environment]] so that intellectual people will
+  have a voice, and by that they can influence and make a difference in the younger
+  then in the societies that they will build and rule.
   [[id:0cc16028-f996-4df1-9118-19bf80ef38c4][how to change bad things in society]]
 
   [[file:img/ends_and_means/who_should_we_try_to_influence.png]]

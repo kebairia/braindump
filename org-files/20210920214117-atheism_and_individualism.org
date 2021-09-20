@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       a75c7fed-0bdf-41df-8ae6-5b2b96cf2ff5
+:END:
+#+title: atheism and individualism
+#+filetags: :society:
+The reason why [[id:6e56b7ba-500e-460c-9003-e6c75cf62e6c][atheism]] has expanded so widely in Europe compared to other nations
+has little to do with the amount of education people receive, but rather with how
+widespread the concept of [[id:ed96a909-3749-46d4-b64b-0840d5308ae8][individualism]] is in society.
+The European countries have the smallest social relations between their citizens, because
+the more ideals like [[id:78bc9ac6-e44e-4d25-8555-4e4e24373b12][liberalism]] and individualism gain traction, the fewer social relations will exist.
+
+[[id:fc655056-aadf-4f78-a033-c36a58d3b8cd][religion]] does not begin with metaphysics, but with cooperation (between people, as well
+as the concept of social groups and relations) and pre-beliefs (such as traditions and the
+group's common sense), which is why we see a decline in religious spirituality in countries
+where ideas such as liberalism and individualism have taken hold.
