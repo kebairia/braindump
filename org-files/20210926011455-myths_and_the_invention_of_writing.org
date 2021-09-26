@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       093a9423-8ece-4760-a835-8b5d777c0a8b
+:END:
+#+title: myths and the invention of writing
+#+filetags: :writing:myth:
+
+I consider the relationship between [[id:874918a3-8098-49aa-b4eb-703627aab3f6][myth]]s and the [[id:7f8b89af-45ce-42cb-b24f-e4509d101f5f][invention of writing]].
+Before humans invented writing, all culture and human experience were only oral, resulting in a
+higher risk of cultural and human experience being distorted.
+
+Consider an event that occurred in a tribe, and the tribe's members attempted to pass this experience
+to the next generations as a story worthy of mention and discussion, in other words, a "[[id:37ebf808-c4ad-4a80-a338-e26b1752927e][meme]]" without
+the technology of writing. This story will be distorted, modified, and exaggerated, and it will carry
+a lot of the tribe's emotions and culture, the way they see the world, and so on...
+
+- Is there a link between the invention of writing and the decline of myth as a way of world description?
