@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       72cfe8d1-f916-432b-bbac-3cef40e5118c
+:ROAM_REFS: https://en.wikipedia.org/wiki/Golden_ratio
+:END:
+#+title: golden ratio
+#+filetags: :mathematics:
+we can say that there is a golden ratio between two quantities: if the ratio between two quantities is the same as the ratio between the sum of the two quantities
+to the larger quantity of the two quantities. 
+expressed algebraically by:
+
+[[file:img/golden_ratio/golden_ratio_line.png]]
+#+caption: A golden rectangle with long side a and short side b adjacent to a square with sides of length
+#+caption: a produces a similar golden rectangle with long side a + b and short side a. This illustrates the relationship
+#+caption: ${\displaystyle {\frac {a+b}{a}}={\frac {a}{b}}\equiv \varphi .}{\displaystyle {\frac {a+b}{a}}={\frac {a}{b}}\equiv \varphi .}$
+#+caption: (Figure from https://en.wikipedia.org/wiki/Golden_ratio)
+[[file:img/golden_ratio/similar_golden_rectangles.png]]
+
