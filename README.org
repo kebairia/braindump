@@ -29,4 +29,7 @@ Have a good time!
 [[file:./files/img/org-roam-ui-01.png]]
 [[file:./files/img/org-roam-ui-02.png]]
 [[file:./files/img/org-roam-ui-03.png]]
+[[file:./files/img/org-roam-ui-04.png]]
+[[file:./files/img/org-roam-ui-05.png]]
+[[file:./files/img/org-roam-ui-06.png]]
 #+HTML: </details>
