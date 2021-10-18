@@ -1,7 +1,7 @@
 * 🧠 Braindump
 #+html: <p align="center">
-#+html: <p align="center">This repo is still under construction</p>
-#+html: <img src="./files/img/const.png" alt="contruction image">
+#+html: <p align="center"><b>This repo is still under construction</p>
+#+html: <img src="./files/img/const.png" alt="contruction image" width="200">
 #+html: </p>
 
 #+html: <p align="center">
@@ -18,7 +18,7 @@ I intend to create a dedicated website for them in the near future.
 
 Have a good time!
 #+end_quote
-* What is Zettelkasten ?                                             :ignore:
+
 #+HTML: <details><summary><b>What is Zettelkasten</b></summary>
 
  Zettelkasten is a note taking method that tries to mimic the brain neurons structure, invented by [[file:org-files/20210106222747-niklas_luhman.org][niklas luhman]]
