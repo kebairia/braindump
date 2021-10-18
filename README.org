@@ -1,7 +1,7 @@
 * 🧠 Braindump
 #+html: <p align="center">
-#+html: <p align="center"><b>This repo is still under construction</p>
-#+html: <img src="./files/img/const.png" alt="contruction image" width="150" align="center">
+#+html: <p align="center"><b>  This repo is still under construction</p>
+#+html: <img src="./files/img/const.png" alt="contruction image" width="100" align="center">
 #+html: </p>
 
 #+html: <p align="center">
