@@ -1,8 +1,9 @@
 * 🧠 Braindump
-#+html: <p align="center"><b> This repo still under construction ❗❗❗ </b></p>
+#+html: <p align="center"><b> This repo still under construction ❗ </b></p>
 #+html: <p align="center">
-#+html: <img src="./files/img/const.png" alt="contruction image" width="100" align="center">
+#+html: <img src="./files/img/const.png" alt="contruction image" width="80" align="center">
 #+html: </p>
+#+html: <hr>
 
 #+html: <p align="center">
 #+html: <img src="./files/img/zkbd-logo.png" alt="ZK-braindump logo">
