@@ -27,7 +27,7 @@ Have a good time!
 #+HTML: <details><summary><b>Ressources</b></summary>
 - their are two papers written by niklas luhman, and they are translated and uploaded on this [[https://luhmann.surge.sh/][site]].\\
 - A dedicated [[https://zettelkasten.de/][site]] introducing and explaining the zettelkasten method.
-- [[https://www.amazon.com/-/es/S%C3%B6nke-Ahrens-ebook/dp/B06WVYW33Y/ref=sr_1_1?__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=how+to+take+better+notes&qid=1631800481&sr=8-1][How to take smart notes]], a book explaining the method 
+- ``[[https://www.amazon.com/-/es/S%C3%B6nke-Ahrens-ebook/dp/B06WVYW33Y/ref=sr_1_1?__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=how+to+take+better+notes&qid=1631800481&sr=8-1][How to take smart notes]]'' a book explaining the method.
 #+HTML: </details>
 
 #+HTML: <details><summary><b>Screenshoot</b></summary>
