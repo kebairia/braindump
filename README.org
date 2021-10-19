@@ -13,7 +13,9 @@
 :TOC:      :include all :ignore this
 :END:
 :CONTENTS:
-- [[#What is Zettelkasten ?][What's Zettelkasten ?]]
+- [[#Overview][Overview]]
+  - [[#What is Zettelkasten ?][What's Zettelkasten ?]]
+  - [[#Org-Roam][Org-Roam]]
 - [[#Resources][Resources]]
 - [[#Screenshots][Screenshots]]
 - [[#Installation & Configuration][Installation & Configuration]]
@@ -29,11 +31,10 @@ I intend to create a dedicated website for them in the near future.
 Have a good time!
 #+end_quote
 
-#+HTML: <details><summary>
-*** What's Zettelkasten ?
-#+HTML: </summary>
+*** Overview
+**** What's Zettelkasten ?
  Zettelkasten is a note taking method that tries to mimic the brain neurons structure, invented by [[file:org-files/20210106222747-niklas_luhman.org][niklas luhman]]
-#+HTML: </details>
+**** Org-Roam
 *** Resources
 - Their are two papers written by niklas luhman, and they are translated and uploaded on this [[https://luhmann.surge.sh/][site]].\\
 - A dedicated [[https://zettelkasten.de/][site]] introducing and explaining the zettelkasten method.
