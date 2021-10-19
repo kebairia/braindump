@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       060787fe-72c2-4a7b-b061-fac74daecc81
+:END:
+#+title: CERN
+``Organisation européenne pour la recherche nucléaire''
+The European Organization for Nuclear Research
+[[file:img/cern/cern_logo.jpeg]]

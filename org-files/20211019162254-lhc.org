@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       c57f3749-e52e-4620-9af9-04ce0576c6d6
+:END:
+#+title: LHC
+Large Hadron Collider at [[id:060787fe-72c2-4a7b-b061-fac74daecc81][CERN]]
+
