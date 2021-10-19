@@ -29,8 +29,9 @@ I intend to create a dedicated website for them in the near future.
 Have a good time!
 #+end_quote
 
+#+HTML: <details><summary>
 *** What's Zettelkasten ?
-#+HTML: <details><summary><b></b></summary>
+#+HTML: </summary>
  Zettelkasten is a note taking method that tries to mimic the brain neurons structure, invented by [[file:org-files/20210106222747-niklas_luhman.org][niklas luhman]]
 #+HTML: </details>
 *** Resources
@@ -43,7 +44,7 @@ Have a good time!
   - [[https://www.youtube.com/watch?v=3-sLBaJAtew][Org Roam: The Best Way to Keep a Journal in Emacs - YouTube]] 
   - [[https://www.youtube.com/watch?v=fWmZoaTvA8k][System Crafters Live! - Exploring the Org Roam DB API - YouTube]]
 - ``[[https://www.amazon.com/-/es/S%C3%B6nke-Ahrens-ebook/dp/B06WVYW33Y/ref=sr_1_1?__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=how+to+take+better+notes&qid=1631800481&sr=8-1][How to take smart notes]]'' a book explaining the method.
-**** Screenshots
+*** Screenshots
 [[file:./files/img/org-roam-ui-01.png]]
 [[file:./files/img/org-roam-ui-02.png]]
 [[file:./files/img/org-roam-ui-03.png]]
