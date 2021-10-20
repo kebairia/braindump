@@ -4,9 +4,10 @@
 #+title: Peter W. Higgs
 
 Peter W. Higgs
-Born: 29 May 1929, Newcastle upon Tyne, United Kingdom
-The Nobel Prize in Physics 2013: for the theoretical discovery of a mechanism that contributes to our
-understanding of the origin of mass of subatomic particles
+Born: 29 May 1929, Newcastle upon Tyne, United Kingdom.
+
+The Nobel Prize in Physics 2013: /for the theoretical discovery of a mechanism that contributes to our
+understanding of the origin of mass of subatomic particles/.
 [[file:img/higgs/higgs.jpg]]
 [[id:060787fe-72c2-4a7b-b061-fac74daecc81][CERN]]
 
