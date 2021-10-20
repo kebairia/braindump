@@ -19,6 +19,12 @@
 - [[#Resources][Resources]]
 - [[#Screenshots][Screenshots]]
 - [[#Installation & Configuration][Installation & Configuration]]
+  - [[#Installation][Installation]]
+  - [[#Configuration][Configuration]]
+    - [[#Global config][Global config]]
+    - [[#org-roam-ui][org-roam-ui]]
+    - [[#org roam graph][org roam graph]]
+    - [[#Deft][Deft]]
 :END:
 #+begin_quote
 Hi, my name is *Zakaria.K*, and this is my *braindump*.
