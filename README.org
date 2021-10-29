@@ -6,7 +6,7 @@
 #+html: <hr>
 
 #+html: <p align="center">
-#+html: <img src="./files/img/zkbd-logo.png" alt="ZK-braindump logo">
+#+html: <img src="./files/img/zkbd-logo.gif" alt="ZK-braindump logo">
 #+html: </p>
 *** Table of Contents
 :PROPERTIES:
