@@ -1,0 +1,25 @@
+:PROPERTIES:
+:ID:       8ec0c93d-b728-4b4b-ab0f-a1985233204d
+:ROAM_REFS: https://yahnd.com/theater/r/youtube/D5in5EdjhD0/
+:ROAM_REFS: https://news.ycombinator.com/item?id=17274199
+:ROAM_REFS: https://www.youtube.com/watch?v=D5in5EdjhD0
+:ROAM_REFS: https://news.ycombinator.com/item?id=17274199
+:END:
+#+title: Isaac Newton abandoned the mechanical view of the world
+#+filetags: :revolution:paranormal:gravity:mechanical cosmos:science:
+i saw this argument before, and i wrote about it on [[id:8e1ba51d-76e0-4190-bd54-bada9cb0d603][2021-08-24]] 
+the main idea here is that [[id:7e139c4c-ed85-4dc5-b29d-798649d297a2][Issac Newton]] abandoned the mechanical view of the world
+when he developed his theory of gravity.
+back then, the mechanical nature of the cosmos and the world was a doctrine, and 
+other scientists couldn't understand the idea of a mysterious force that can
+attract and effect other physical objects.
+
+But with Newton's theory of gravity, he was somehow saying that:
+"There is an unseen force, let's call it gravity, that can force and effect other
+objects, and make them attract each other""
+It was like a paranormal phenomena for other scientists, and i can see why they 
+rejected it back then.
+
+
+[[id:48002b4b-7228-401d-b90e-81fc77d12061][scientific revolution]]
+[[id:2b03d8da-e934-4a5e-93d3-e25c231897a9][theory of evolution]]
