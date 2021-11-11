@@ -2,3 +2,5 @@
 /org-files/daily/
 /org-files/img/*.svg
 /img/*.svg
+*.log
+dsg
