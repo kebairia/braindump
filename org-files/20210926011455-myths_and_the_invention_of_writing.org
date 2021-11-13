@@ -10,7 +10,7 @@ higher risk of cultural and human experience being distorted.
 
 Consider an event that occurred in a tribe, and the tribe's members attempted to pass this experience
 to the next generations as a story worthy of mention and discussion, in other words, a "[[id:37ebf808-c4ad-4a80-a338-e26b1752927e][meme]]" without
-the technology of writing. This story will be distorted, modified, and exaggerated, and it will carry
+the technology of [[id:0a3afa5c-2e08-46c4-b723-f09b33bafe0e][writing]]. This story will be distorted, modified, and exaggerated, and it will carry
 a lot of the tribe's emotions and culture, the way they see the world, and so on...
 
 - Is there a link between the invention of writing and the decline of myth as a way of world description?
