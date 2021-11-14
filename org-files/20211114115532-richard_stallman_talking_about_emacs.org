@@ -14,3 +14,11 @@ You could edit the programs you were using and then go on editing with them. So,
 other than programming, and yet you could program it while you were using it.
 I don't know if it was the first one of those, but it certainly was the first editor like that.
 #+end_quote
+
+And this is a good words from him talking about the idea of Free software movement
+#+begin_quote
+The essence of this campaign was that everybody should be free to do the things we did in the old days at MIT, working together
+on software and working with whomever wanted to work with us.
+That is the basis for the free software movement—the experience I had, the life that I've lived at the MIT AI lab—to be working
+on human knowledge, and not be standing in the way of anybody's further using and further disseminating human knowledge.
+#+end_quote

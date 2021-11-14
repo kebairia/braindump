@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       0faab069-154d-4c2b-a8aa-f4c38b36e1bf
+:END:
+#+title: fossil
+
+Fossil was word meaning "any thing that get extracted from earth"
+and that why we use the word "fossil fuel"
+
+book: the six extinction
+
