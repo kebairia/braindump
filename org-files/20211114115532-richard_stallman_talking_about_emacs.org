@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       7ef840c2-c02e-449c-ad9f-b08b34e9abea
+:ROAM_REFS: https://www.gnu.org/gnu/rms-lisp.html
+:END:
+#+title: Richard Stallman talking about Emacs
+#+filetags: :elisp:rms:emacs:
+
+This is a quote from an article for [[id:61cd1ad8-3ff2-460c-bab0-3e2031992cd0][Richard Stallman]] talking about the idea behind [[id:4c72a4b7-ee23-473d-a50d-39060c7cbb9e][emacs]] and it's [[id:ee383775-408a-46ac-9451-ed389c477e65][elisp]] programming language
+#+begin_quote
+The interesting idea about Emacs was that it had a programming language, and the user's editing commands would be written
+in that interpreted programming language, so that you could load new commands into your editor while you were editing.
+
+You could edit the programs you were using and then go on editing with them. So, we had a system that was useful for things
+other than programming, and yet you could program it while you were using it.
+I don't know if it was the first one of those, but it certainly was the first editor like that.
+#+end_quote
