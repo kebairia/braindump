@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       8160e451-7dd1-461f-8084-62491fa9b5f9
+:ROAM_REFS: https://en.wikipedia.org/wiki/Echo_chamber_%28media%29
+:END:
+#+title: echo chamber
+
+This notion refers to the phenomenon of discussion that can occur in closed systems such as [[id:5b2190ca-0361-45e3-bc4b-4862c6159ced][social media]] groups.
+These conversations serve to strengthen individual opinions.
+'Echo chamber' is a metaphor that represent: when your own voice (idea) revert to you after you declare about it.
+like a echo in an empty chamber.
+this phenomena my increase social and political polarization and [[id:6885331b-156b-40bb-aac6-cbbf66747395][extremism]]
+[[id:5b2190ca-0361-45e3-bc4b-4862c6159ced][social media]]
