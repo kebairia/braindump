@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       6613b1f1-9aac-4d85-8ad0-5a59927c42db
+:END:
+#+title: calculus
+#+filetags: :science:mathematics:
+
+Calculus is the mathematical study of things that change.
+Growth, motion ...etc
+

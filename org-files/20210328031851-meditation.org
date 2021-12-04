@@ -2,3 +2,8 @@
 :ID:       739605b3-cf90-450e-9d54-e14bfb09912e
 :END:
 #+title: meditation
+#+begin_quote
+The purpose of meditation is to discover what your mind does like when you no longer 
+perpetually identify with the content of your thoughts
+-- Sam Harris
+#+end_quote
