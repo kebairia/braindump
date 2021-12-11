@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       b56ff8c4-a6e2-4df0-af2f-716fe45ffb85
+:END:
+#+title: hard and soft links
+#+filetags: :filesystem:linux:
+the difference between hard links and soft links
+the hard link point to the same [[id:532b6b8d-cc16-4544-bccd-880eb0110e89][inode]] of the original file (if we can call it original).
+where, the soft link only point to the file itself
+that why we need to delete all the hard link of a specific file, to be fully deleted. 
+
+and when we delete the original file, the soft link become a broken link, because it points to nowhere
+
+
+[[file:img/hard_and_soft_links/links_in_linux.jpeg]]
+
