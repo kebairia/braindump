@@ -2,7 +2,8 @@
 :ID:       3aa45c4d-a30d-49d9-823b-95f8ab31f1cc
 :END:
 #+title: Thinking, Fast and Slow
-#+filetags: Building_a_Second_Brain brain talk google rationality
+#+filetags: :rationality:talk:brain:basb:
+
 
 * Daniel Kahneman's talk on Talk at Google* 
 [[https://www.youtube.com/channel/UCbmNph6atAoGfqLoCL_duAg][Talks at Google - YouTube]]

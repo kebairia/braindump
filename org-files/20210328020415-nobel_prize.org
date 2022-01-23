@@ -2,6 +2,7 @@
 :ID:       c17b039b-8d30-4061-900a-85e5ba676818
 :END:
 #+title: nobel prize
+#+filetags: :science:
 The Nobel laureate is announced of the on the Friday of the first full week of October.
 the prize is given by Royal *Swedish Academy of Sciences*
 The fields of mathematics(have [[id:19e0752d-ba8f-4209-96cd-eb6f35561123][Fields Medal]]), engineering(computer science have [[id:2f223382-8a6b-4fb9-8f50-1f19c706a0d5][Turing Award]]), and biology are excluded.
