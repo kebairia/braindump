@@ -7,7 +7,8 @@
 
 The most basic requirement for every zettel is:
 + A unique indentifier [link] :: A unique address so that you can reference it later.
-+ Content :: the actual gem, and must contain only one thought.
++ Content :: the actual gem, and must contain only one thought, and you write it in your own words. (it could be an argument, a concept ...etc), you can use a quote on top of the zettel, but you have to add your own description or understanding below.
+  - this will increase your understanding, and also improve the recall of the information or concept, and that what's make it your personal thinking tool .
 + Reference :: a reference from where you got the idea or the insight, this will help you later if you want to give credit for others, any if you want to re-read the idea from the source, and elaborate on it
 
 
@@ -20,9 +21,14 @@ The most basic requirement for every zettel is:
   |-------------------------|
   | footer/reference/source |
   |-------------------------|
+- A complete zettel structure [[[https://zettelkasten.de/introduction/][source]]]
+  #+ATTR_ORG: :width 800
+  [[file:img/zettel/complete-zettel.png]]
+
+- An example of a zettel from niklas luhman
+
   #+caption: An example of a zettel from niklas luhman
   #+caption: id: 14,8d4 | ref: politics/Rational theorie and technics of politicians 
+  #+caption: source: [[https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_14-8d4_V][Niklas Luhmann-Archiv]]
+  #+ATTR_ORG: :width 500
   [[file:img/zettel/ZK_1_01_40_001_V_N_NB_14-8d4.jpeg]]
-
-
-
