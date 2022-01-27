@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       379a19e2-4229-481e-9355-b83b2e5239d4
+:ROAM_REFS: https://zettelkasten.de/introduction/
+:END:
+#+title: zettel
+#+filetags: :memory:
+
+The most basic requirement for every zettel is:
++ A unique indentifier [link] :: A unique address so that you can reference it later.
++ Content :: the actual gem, and must contain only one thought.
++ Reference :: a reference from where you got the idea or the insight, this will help you later if you want to give credit for others, any if you want to re-read the idea from the source, and elaborate on it
+
+  |-------------------------|
+  | Unique Identifier       |
+  |-------------------------|
+  | Body/Content            |
+  |-------------------------|
+  | footer/reference/source |
+  |-------------------------|
+
+
+
