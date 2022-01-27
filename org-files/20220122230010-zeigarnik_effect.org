@@ -1,26 +1,2 @@
-:PROPERTIES:
-:ID:       bb7f5285-e913-4fc0-9b28-40534ac97c1b
-:ROAM_REFS: https://www.simplypsychology.org/zeigarnik-effect.html
-:END:
-#+title: zeigarnik effect
-#+filetags: :basb:brain:gtd:memory:
-
-The Zeigarnik effect is a psychological phenomenon that states that interrupted tasks are more likely to be remembered than completed ones.
+- The Zeigarnik effect is a psychological phenomenon that states that interrupted tasks are more likely to be remembered than completed ones.
 The inspiration of this concept or idea originated from a true story of Bluma Zeigarnik (1927)
-
-One day, in a restaurant, Zeigarnik was fascinated by the capacity of waiters to recall all of the orders of clients, despite the large number of tables.
-However, when she went to get her coat, she ran into the waiter who had served her, who, to her amazement, didn't recognize her.
-
-This small notice were the beginning of series of experiments by Zeigarnik (Denmark, 2009).
-
-again, The zeigarnik effect states that interrupted tasks are more likely to be recalled than completed tasks.
-As in the story of the waiter, when the waiter realized that the order for a specific table had been completed, or that the client had paid for his service, he had entirely forgotten about this customer.
-This represents the client's completed task.
-
-- the zeigarnik effect isn't scientifically agreed on, there still some debate about "is this effect is universal or not".
-  and also some scientist claim that the zeigarnik effect is overrated, and there are multiple factors (subject personality, environment ..etc) that must be took into consideration, to say that interrupted tasks are more likely to be remembered.
-- Also there are some scientists who said that zeigarnik experiments aren't reproducible, and there weren't any results that can leads to the same claims that zegarnik stated.
-
-
-- REF:: Nickerson, C. (2021, Oct 13). What Is the Zeigarnik Effect? Definition and Examples. Simply Psychology. www.simplypsychology.org/zeigarnik-effect.html
-- Other resources: https://ia801600.us.archive.org/9/items/in.ernet.dli.2015.198039/2015.198039.A-Source-Book-Of-Gestalt-Psychology.pdf
