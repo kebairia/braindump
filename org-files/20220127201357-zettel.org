@@ -8,7 +8,7 @@
 The most basic requirement for every zettel is:
 + A unique indentifier [link] :: A unique address so that you can reference it later.
 + Content :: the actual gem, and must contain only one thought, and you write it in your own words. (it could be an argument, a concept ...etc), you can use a quote on top of the zettel, but you have to add your own description or understanding below.
-  - this will increase your understanding, and also improve the recall of the information or concept, and that what's make it your personal thinking tool .
+  - this will increase your understanding, and also improve the recall of the information or concept, and that what's make it your personal thinking tool.
 + Reference :: a reference from where you got the idea or the insight, this will help you later if you want to give credit for others, any if you want to re-read the idea from the source, and elaborate on it
 
 
