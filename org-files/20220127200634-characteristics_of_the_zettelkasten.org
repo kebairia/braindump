@@ -8,7 +8,7 @@
 1. It's hyper-textual.
 
 2. Your [[id:9d0a4d0d-065d-41e5-8fb4-fb49b5cdb5c4][zettelkasten]] is made of what we call a 'Zettel', which means a 'paper slip'.
-   - a Zettel is the smallest building blocks of the Zettelkasten.
+   - a [[id:379a19e2-4229-481e-9355-b83b2e5239d4][zettel]] is the smallest building blocks of the Zettelkasten.
    - Zettelkasten  must follow the principle of atomicity, which means that each Zettel must contain only one thought 
    - the difference between your Zettelkasten and Wikipedia, is that Wikipedia links or references are for another article, 
      and here an article is not a thought.

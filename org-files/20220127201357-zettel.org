@@ -10,6 +10,9 @@ The most basic requirement for every zettel is:
 + Content :: the actual gem, and must contain only one thought.
 + Reference :: a reference from where you got the idea or the insight, this will help you later if you want to give credit for others, any if you want to re-read the idea from the source, and elaborate on it
 
+
+  |-------------------------|
+  | Zettel                  |
   |-------------------------|
   | Unique Identifier       |
   |-------------------------|
