@@ -9,7 +9,7 @@
 - their is a similar but an old approche for storing ideas, and a way of a fast access for these ideas with the [[id:774c601f-cf35-45f1-829d-4ad2912aadc2][memex]] project.
 - This is a great [[https://niklas-luhmann-archiv.de/][website]] niklas luhman's work, his notes archive, and many other things. 
 
-- every note here (an index card) called a *Zettel*
+- every note here (an index card) called a [[id:379a19e2-4229-481e-9355-b83b2e5239d4][zettel]]
 [[file:img/zettelkasten/zettel1.png]] [[file:img/zettelkasten/zettel2.png]]
 [[file:img/zettelkasten/zettel3.png]] [[file:img/zettelkasten/zettel4.png]]
 

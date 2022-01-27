@@ -20,6 +20,9 @@ The most basic requirement for every zettel is:
   |-------------------------|
   | footer/reference/source |
   |-------------------------|
+  #+caption: An example of a zettel from niklas luhman
+  #+caption: id: 14,8d4 | ref: politics/Rational theorie and technics of politicians 
+  [[file:img/zettel/ZK_1_01_40_001_V_N_NB_14-8d4.jpeg]]
 
 
 
