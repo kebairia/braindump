@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       4f2b9a47-c434-4909-a7ca-9672bd41b772
+:END:
+#+title: Auguste Comte
+
+- A French philosopher and writer (born in 19 January 1798), he is regarded as the father of sociology, and also the first philosopher of science (in the modern sense of the term)
+- Also he formulated the doctrine of [[id:848d2157-b345-40c9-adfd-000613ca7399][positivism]], a new social doctrine based on science.
+  - This remind me by the famous novel "[[id:37de5a3c-5f66-4891-9e7d-26c3de11940c][Brave New World]]" for [[id:b7f853e8-35cc-4330-8691-23528742a3ea][Aldous Huxley]]
+- He developed a positive philosophy in attempt to mitigate the social disorder caused by the French Revolution.
+
+
+#+ATTR_ORG: :width 250
+[[file:img/auguste_comte/auguste_comte.jpg]]
+
+- He has a theory of the 3 stages of human history.
+  1) Religious period
+  2) Metaphysical period and the start of abstract ideas
+  3) Scientific period (the modern era)
+
+He had a major impact on 19^th-century thought, and he influenced many social thinkers after him, like John Stuart Mill, and George Eliot
+
