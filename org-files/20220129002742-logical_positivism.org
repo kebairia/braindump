@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       15600d0f-ca8c-43a7-a59e-e5f74c44fa2d
+:END:
+#+title: logical positivism
+#+filetags: :science:
+
+- In the early of 20^th centuray,a philosophical school named "Vienna circle" tried to develop and solve some of the question that was rising at that time concerning:
+  - [[id:46067e6b-137d-468f-afbc-be853fc570b8][scientific method]]
+  - [[id:cd487f20-6afa-4e4c-a766-6cb394737c0c][Demarcation problem]]
+  - and other areas of the philosophy of science.
+and it devoted itself to a radical positive point of view regarding science

@@ -3,5 +3,6 @@
 :END:
 #+title: Pseudoscience
 #+filetags: :philosophy:science:
+
 Pseudoscience is a term used to describe beliefs and methods that pretend
 to be scientific but are incompatible with the [[id:46067e6b-137d-468f-afbc-be853fc570b8][scientific method]]
