@@ -1,5 +1,5 @@
 :PROPERTIES:
-:ID:       1e11106c-7aa0-4470-b654-b780a481038e
+:ID:       1720e4c4-62c3-4f52-9ca8-3b788c5e742d
 :ROAM_REFS: https://zettelkasten.de/introduction/
 :END:
 #+title: characteristics of the zettelkasten

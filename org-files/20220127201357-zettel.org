@@ -22,7 +22,7 @@ The most basic requirement for every zettel is:
   | footer/reference/source |
   |-------------------------|
 - A complete zettel structure [[[https://zettelkasten.de/introduction/][source]]]
-  #+ATTR_ORG: :width 800
+  #+ATTR_ORG: :width 600
   [[file:img/zettel/complete-zettel.png]]
 
 - An example of a zettel from niklas luhman
