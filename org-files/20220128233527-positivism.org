@@ -3,14 +3,13 @@
 :END:
 #+title: positivism
 #+filetags: :science:
-
 It was a Scientific movement in the 19^th century, formulated by [[id:4f2b9a47-c434-4909-a7ca-9672bd41b772][Auguste Comte]]
 It claims that: Science is the only way to gain reliable and true knowledge in which we can put our trust.
 
-Meaning of positivism:
-In English we say:
-A) "Are you positive" (meaning "Are you sure!")
-B) "Yes, Aim" (meaning "Yes, Iam sure")
+- Meaning of positivism:
+  In English we say:
+  A) "Are you positive" (meaning "Are you sure!")
+  B) "Yes, Aim" (meaning "Yes, Iam sure")
 
 Here Auguste Comte meant by positivism: that only science can gives us a "Positive knowledge" and a reliable one.
 
@@ -19,12 +18,9 @@ Comte argued that the key element in the concept of positive knowledge is method
 -- Why Trust Science p20
 #+end_quote
 
-And He argued that: Science is reliable and trustworthy because it's relays on method
+- And He argued that: Science is reliable and trustworthy because it's relays on method
 look at this note: [[id:43c5689f-4866-493b-bae7-5a468135314b][science and it's commitment to method]]
 
-later, this concept developed even more with a philosophical school called [[id:15600d0f-ca8c-43a7-a59e-e5f74c44fa2d][logical positivism]]
+- Later, this concept developed even more with a philosophical school called [[id:15600d0f-ca8c-43a7-a59e-e5f74c44fa2d][logical positivism]]
 
-Ref: Why Trust Science P20
-
-
-
+[cite:@oreskes-2019-why-trust-scien pp. 20]

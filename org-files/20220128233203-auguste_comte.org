@@ -2,6 +2,7 @@
 :ID:       4f2b9a47-c434-4909-a7ca-9672bd41b772
 :END:
 #+title: Auguste Comte
+#+filetags: :science:
 
 - A French philosopher and writer (born in 19 January 1798), he is regarded as the father of sociology,
   and also the first philosopher of science (in the modern sense of the term)
@@ -18,4 +19,4 @@
   2) Metaphysical period and the start of abstract ideas
   3) Scientific period (the modern era)
 
-He had a major impact on 19^th-century thought, and he influenced many social thinkers after him, like John Stuart Mill, and George Eliot
+He had a major impact on 19^th-century thoughts, and he influenced many social thinkers after him, like John Stuart Mill, and George Eliot.
