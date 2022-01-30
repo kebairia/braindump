@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       b648f075-6cf9-451e-ba53-81f2c929a91a
+:ROAM_REFS: https://fs.blog/two-types-of-knowledge/
+:END:
+#+title: Max Planck and his chauffeur
+#+filetags: :science:
+
+There is this story of max plank and his chauffeur.
+
+#+begin_center
+After Max Planck won the [[id:c17b039b-8d30-4061-900a-85e5ba676818][nobel prize]] in physics, he went around Germany to gave the same lecture about his achievement.
+after a while, his chauffeur propose the following:
+"Would you mind, Professor Planck, because it’s so boring to stay in our routine. 
+What if I gave the lecture in Munich and you just sat in front wearing my chauffeur’s hat?"
+
+Max Planck agreed.
+After that, the chauffeur gave the lecture, and then, a proffesor who was one of the audiauce ask a well defined question about the subject
+of the lecture, and the chauffeur replied:
+""Well I’m surprised that in an advanced city like Munich I get such an elementary question.
+I’m going to ask my chauffeur to reply."
+#+end_center
+
+This story represent of difference between knowing something, and knowing about something as Mr. Richard Feynman once said 
