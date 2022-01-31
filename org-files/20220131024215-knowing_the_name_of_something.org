@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       332f87d2-cc11-4c60-9263-b83b99446e69
+:END:
+#+title: knowing the name of something
+#+filetags: :science:
+
+This is a story about Richard Feynman's and his father
+#+begin_quote
+See that bird? It's a brown-throated thrush, but in Germany it's called a halzenJugel and in
+Chinese they call it a chung ling and even if you know all those names for it, you still know
+nothing about the bird. You only know something about people; what they call the bird.
+Now that thrush sings, and teaches its young to fly, and flies so many miles away during
+the summer across the country, and nobody knows how it finds its way.
+#+end_quote
+ 
+words, definitions, (prons and cons) doesn't gives us knowledge, it's only fill our head with "the illusion of knowledge".
+[cite:@bevelin2007seeking pp. 207]

@@ -20,4 +20,4 @@ of the lecture, and the chauffeur replied:
 I’m going to ask my chauffeur to reply."
 #+end_center
 
-This story represent of difference between knowing something, and knowing about something as Mr. Richard Feynman once said 
+This story represent of difference between [[id:332f87d2-cc11-4c60-9263-b83b99446e69][knowing the name of something]], and knowing something as Mr.Melville (Richard Feynmans's Father) once said to his son.
