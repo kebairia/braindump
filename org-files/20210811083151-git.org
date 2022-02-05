@@ -1,5 +1,0 @@
-:PROPERTIES:
-:ID:       c73ba657-73b7-452d-ae96-e4ec648c1103
-:END:
-#+title:git
-

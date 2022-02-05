@@ -1,5 +1,0 @@
-:PROPERTIES:
-:ID:       e68f0b2d-1f12-4598-91c5-03cf0cf42086
-:END:
-#+title: Karl Popper
-[[id:46067e6b-137d-468f-afbc-be853fc570b8][scientific method]]

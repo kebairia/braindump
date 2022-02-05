@@ -1,0 +1,53 @@
+* Tue, 01 Feb 22 (13:23) : peer reviewed
+- Peer reviewing can be done by engaging in scientific communities.
+- we can't do that because accessing to papers is restricted and hence --> expensive 
+- so it's really difficult for an independent research to do his own research, unless he engage with organized institutions
+  - This institution is politically biased sometime, and has it's own ideology, and also politically corrected
+* Tue, 01 Feb 22 (13:27) : peer reviewing
+- is the method of rechecking and reviewing the work of others
+  and reviewing their papers and work
+- it's an essential part of the scientific work
+- all the publisher such as (Nature, Science ...etc) has their own group of scientist
+  who review and look at the paper that come to this publisher.
+- some people argued that the publishers use their peer reviewing process to 
+  the researcher to follow one way of thinking, and that they suppress the researcher
+  who say odd claim, or the claim that don't follow some agenda's
+- this put the whole process in question
+- their was a podcast for luke that talked about that, that I have to check
+* Wed, 02 Feb 22 (00:40) : bell labs and nobel prizes
+- Here in a video named "The early days of Unix at bell labs"
+  Brian kernighan talked briefly about bell labs and nobel prizes that it won.
+* Thu, 03 Feb 22 (10:01) : carl sagan, ann druyan article
+- the importance of the daily routines, or as Sasha Sagan putted: "daily rituals"
+#+begin_quote
+everything that we do in a special way, and has (holds) meaning to us is a ritual,
+especially, when there are other ways of doing it.
+#+end_quote
+- 'our deepest fears powers so much what we do'
+#+begin_quote
+I came to understand that I could never get to the complete picture.
+
+So the metaphor changed. Instead of a puzzle, being curious became more like being a collector of small, beautiful objects, of which there are a seemingly infinite number on Earth, like seashells or stamps.
+#+end_quote
+- Yes, instead of seeing that learning new things is like adding new pieces to the puzzle,
+  you'll soon realize that the puzzle doesn't have any edges, and learning new things is like
+  collecting beautiful pieces or objects. 
+
+[[https://www.fastcompany.com/90472086/what-my-parents-carl-sagan-and-ann-druyan-taught-me-about-the-power-of-daily-rituals][Carl Sagan, Ann Druyan, and the power of daily ritual]]
+* Thu, 03 Feb 22 (19:11) : science is about performances
+- The common thing that I see between the philosopher of science (science studies as I will check that later)
+is that, they all agree on the usefullness of science, the fact that 'science just work'
+- here, on page 93 on the book 'why trust science' [see the org-noter's note there]
+I saw latour arguing about: that science is about performances, and science was the best way to perform and know about the world.
+- througout history, scientist tried to be adherents or skeptics about science, but I see that all of them gave a common result
+  that put some faith, and trust in science, or as I said above, they all agree on the fact that 'science just work'
+* Thu, 03 Feb 22 (20:08) : how feminism affected the way east look for other ethnicity 
+* Thu, 03 Feb 22 (20:08) : How political pressure affect the way science work
+* Fri, 04 Feb 22 (08:25) : the sociology of science
+- the work of the university of Edinburgh "the strong program"
+* Fri, 04 Feb 22 (20:58) : neuron architecture
+read this article [[https://www.ninds.nih.gov/Disorders/Patient-Caregiver-Education/Life-and-Death-Neuron][Brain Basics: The Life and Death of a Neuron | National Institute of Neurolog...]]
+[[file:~/org/notes/img/neuron/NeuronArchitecture.jpg]]
+* Sat, 05 Feb 22 (07:21) : universal morals
+- search about and learn about universal morals
+

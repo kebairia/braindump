@@ -1,7 +1,0 @@
-:PROPERTIES:
-:ID:       383830b8-508d-4a1e-bcf5-fe9cb73ce94f
-:END:
-#+title: science is not a belief
-#+filetags: :science:
-science is not a doctrine or a dogmatic belief
-[[id:a83a6254-9844-4f66-bbac-be7e2b4c859a][why trust science?]]

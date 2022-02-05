@@ -1,5 +1,0 @@
-:PROPERTIES:
-:ID:       37ebf808-c4ad-4a80-a338-e26b1752927e
-:END:
-#+title: meme
-

@@ -1,5 +1,0 @@
-:PROPERTIES:
-:ID:       340ac669-a6f8-4a09-8ffb-d6e22421fe48
-:END:
-#+title: community
-

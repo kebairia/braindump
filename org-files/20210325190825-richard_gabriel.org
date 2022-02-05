@@ -1,8 +1,0 @@
-:PROPERTIES:
-:ID:       a342a630-e703-4410-85f5-fafce2e59b9e
-:END:
-#+title: Richard Gabriel
-#+filetags: unix computer_science
-an American computer scientist (born 1949) known for his work in computing related to the programming language [[id:493a3f23-688c-4c04-af2e-1d584a45427b][lisp]], and especially [[id:76a56ae9-dad6-42d6-bf51-78c1e3a65b49][common lisp]].
-His best known work was a 1990 essay "Lisp: Good News, Bad News, How to Win Big", which introduced the phrase [[id:95d98727-3092-4d1f-854e-2e0d06155c5c][worse is better]]
-

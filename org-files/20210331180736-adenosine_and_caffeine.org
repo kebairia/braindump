@@ -1,6 +1,0 @@
-:PROPERTIES:
-:ID:       c3c5990a-ca84-4fde-9ebf-6ce1bdfec388
-:END:
-#+title: Adenosine and Caffeine
-#+filetags: Caffeine meditation waking_up
-[[id:5476e9ea-4729-40dc-bc52-5b27498dc0a0][Why meditation is the new Caffeine?]]

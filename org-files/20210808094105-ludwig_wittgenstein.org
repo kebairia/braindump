@@ -1,7 +1,0 @@
-:PROPERTIES:
-:ID:       84d7b21f-3740-4773-8edd-894e5c861178
-:END:
-#+title: ludwig wittgenstein
-#+filetags: :philosophy:language:
-Born: 26 april 1889, Vienna
-

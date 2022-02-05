@@ -1,6 +1,0 @@
-:PROPERTIES:
-:ID:       f8f36968-9f8c-4003-89f7-1dd59d492c48
-:END:
-#+title: the big five
-the five events of a massive extinction on earth
-[[id:80aacf4e-ecd9-4f0f-862c-4c904c664f6e][biosphere]]

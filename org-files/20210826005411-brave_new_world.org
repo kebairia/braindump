@@ -1,5 +1,0 @@
-:PROPERTIES:
-:ID:       37de5a3c-5f66-4891-9e7d-26c3de11940c
-:END:
-#+title: Brave New World
-Brave New World is a [[id:079016b7-5882-44e6-bcd6-fbd87cbf4e46][dystopia]]n social science fiction novel by English author [[id:b7f853e8-35cc-4330-8691-23528742a3ea][Aldous Huxley]]

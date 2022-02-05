@@ -1,5 +1,0 @@
-:PROPERTIES:
-:ID:       fed129de-ee7f-4e77-8088-aa00d310c0ee
-:END:
-#+title: politicians
-

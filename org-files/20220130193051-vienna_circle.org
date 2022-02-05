@@ -1,6 +1,0 @@
-:PROPERTIES:
-:ID:       9969ee05-5386-41f5-9920-d899ee926aa5
-:END:
-#+title: vienna circle
-#+filetags: :philosophy:history:science:
-

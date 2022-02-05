@@ -1,8 +1,0 @@
-:PROPERTIES:
-:ID:       d5cea71f-93ed-4dcd-a490-c1a7cb1547b1
-:END:
-#+title: pacemaker resources
-#+filetags: :pacemaker:ha:
-All the bits required to provide a services are resources.
-*http service*: the IP address(float ip), the storage block, the systemd service (httpd.service)...etc
-all are considered as resources for [[id:8d147696-b236-44e3-b284-d0618c612d59][pacemaker]]

@@ -1,9 +1,0 @@
-:PROPERTIES:
-:ID:       c0bab772-5a91-4c6e-afc9-b68b4f937571
-:END:
-#+title: cluster
-#+filetags: :cluster:pacemaker:ha:glusterfs:
-cluster has a lot of meaning
-one of them is when you have a group of node (computers,servers) which can interact with each other.
-[[id:8d147696-b236-44e3-b284-d0618c612d59][pacemaker]]
-

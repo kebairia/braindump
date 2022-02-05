@@ -1,5 +1,0 @@
-:PROPERTIES:
-:ID:       f9d31772-b974-4d86-8838-1d2d92732148
-:END:
-#+title: utopia
-The term was coined by Sir Thomas More for his 1516 book Utopia

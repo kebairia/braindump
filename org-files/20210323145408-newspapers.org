@@ -1,5 +1,0 @@
-:PROPERTIES:
-:ID:       0fcd5e65-d354-4076-8d2f-0827be65625a
-:END:
-#+title: newspapers
-

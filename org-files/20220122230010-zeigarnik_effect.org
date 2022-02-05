@@ -1,2 +1,0 @@
-- The Zeigarnik effect is a psychological phenomenon that states that interrupted tasks are more likely to be remembered than completed ones.
-The inspiration of this concept or idea originated from a true story of Bluma Zeigarnik (1927)

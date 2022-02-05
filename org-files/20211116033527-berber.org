@@ -1,5 +1,0 @@
-:PROPERTIES:
-:ID:       50b295a4-b4f3-4d54-9564-336b725dd15d
-:END:
-#+title: Berber
-

@@ -1,9 +1,0 @@
-:PROPERTIES:
-:ID:       51d0e033-d5fc-4785-abf5-843fb36f1557
-:END:
-#+title: honesty box
-#+filetags: honesty buying_goods
-
-a honesty box is a method for charging for a service (car parking, buying products(home grown food, flowers ...etc)) using a the honor system
-a honor system or honesty system is a philosophical way/approches for running a variety of endeavors based on trust, honor,honesty ...etc
-visitor can pay at a box using this system.

@@ -1,9 +1,0 @@
-:PROPERTIES:
-:ID:       1140297f-4d78-4891-9b99-f23bf72b2023
-:END:
-#+title: change passalgo with authconfig
-#+begin_src sh
-  sudo authconfig --passalgo=sha512 --update
-#+end_src
-- this method works only with old version of RedHat and CentOS (version 7 and older)
-- the new method uses the [[id:33526120-665e-4ac0-84d9-9d5e32d1f12d][authselect]] utility

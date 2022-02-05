@@ -1,7 +1,0 @@
-:PROPERTIES:
-:ID:       80aacf4e-ecd9-4f0f-862c-4c904c664f6e
-:END:
-#+title: biosphere
-the distribution of living creature
-- why they use the term "sphere" in words like "atmosphere", "biosphere" : it's because it cover the globe --> which is a sphere !
-

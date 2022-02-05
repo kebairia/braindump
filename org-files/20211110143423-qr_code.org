@@ -1,8 +1,0 @@
-:PROPERTIES:
-:ID:       07445d49-7a41-47bb-a42f-14be534698bd
-:ROAM_REFS: https://www.youtube.com/watch?v=142TGhaTMtI
-:END:
-#+title: QR code
-#+filetags: :code:computer_science:
-stands for 'Quick Response Code'
-a 2-dimensional type of bar codes developed by Denso wave in 1994

@@ -1,9 +1,0 @@
-:PROPERTIES:
-:ID:       088f3276-a6fd-4d26-851e-1a01c900d608
-:END:
-#+title: iana
-#+filetags: :network:
-
-The /Internet Assigned Numbers Authority/ ([[https://www.iana.org/][IANA]])
-a global coordination of [[id:e396c2e7-57a1-44f9-8ec4-2f465bb5eb08][dns]] Root, IP addressing, and other internet protocol resources.
-

@@ -1,8 +1,0 @@
-:PROPERTIES:
-:ID:       ee5001e2-0a49-4388-97a3-6d477d433328
-:END:
-#+title: Industrial Society and Its Future
-
-*Industrial Society and Its Future*, also known by the *Unabomber Manifesto*.
-a 35,000 word essay by [[id:7128efe6-5518-4fd3-87c5-2cb5d208dc9c][Ted Kaczynski]] contending that the [[id:8ff6d723-ea79-43ba-81c3-8d59989bb51b][industrial revolution]] began a harmful process of technology destroying nature,
-while forcing humans to adapt to machines, and creating a sociopolitical order that suppresses human freedom and potential.

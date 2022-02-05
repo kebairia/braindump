@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       5811db42-dab1-4e16-ba84-1b9aa5ae64a7
+:ROAM_REFS: https://zettelkasten.de/introduction/
+:END:
+#+title: link context in a zettel
+#+filetags: :notes:memory:
+
+- The /why/ of the link.
+
+- To make of the most out of links and connection between your notes ([[id:379a19e2-4229-481e-9355-b83b2e5239d4][zettel]]), create short paragraph that demonstrate why you added this particular link.
+  this will create context, and explain to your future self, what you expect when you follow this link.
+
+#+ATTR_ORG: :width 600
+[[file:img/link_context_in_a_zettel/link-context.png]]
+

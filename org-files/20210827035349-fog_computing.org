@@ -1,8 +1,0 @@
-:PROPERTIES:
-:ID:       d3c1f8dd-a08d-4eec-833d-a32e3c142b30
-:END:
-#+title: fog computing
-#+filetags: :network:
-[[id:411e55cd-8af7-45a1-b623-2c903f6705ae][edge computing]]
-[[id:4e8506f5-6512-4165-a267-a1962326c5c7][cloud computing]]
-

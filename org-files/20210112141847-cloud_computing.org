@@ -1,5 +1,0 @@
-:PROPERTIES:
-:ID:       4e8506f5-6512-4165-a267-a1962326c5c7
-:END:
-#+title: cloud computing
-#+filetags: :network:

@@ -1,8 +1,0 @@
-:PROPERTIES:
-:ID:       0b730bba-3af4-4b21-8379-475f504af711
-:END:
-#+title: democracy
-#+filetags: :society:social:
-democracy is the rule of the people, and that the people have a right to rule.
--- [[id:e68f0b2d-1f12-4598-91c5-03cf0cf42086][Karl Popper]], The Open Society and its Enemies
-

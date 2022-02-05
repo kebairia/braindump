@@ -1,5 +1,0 @@
-:PROPERTIES:
-:ID:       2120d4c5-8fc3-4783-9d73-c993161db818
-:END:
-#+title: freedom
-

@@ -1,5 +1,0 @@
-:PROPERTIES:
-:ID:       53cf335c-6454-4193-9913-9b0595f77029
-:END:
-#+title: Herbert Simon
-

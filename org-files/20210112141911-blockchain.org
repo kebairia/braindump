@@ -1,5 +1,0 @@
-:PROPERTIES:
-:ID:       6231334d-9373-4353-b7f1-26d657c4a21d
-:END:
-#+title: blockchain
-

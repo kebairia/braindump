@@ -1,8 +1,0 @@
-:PROPERTIES:
-:ID:       0f549871-6ff4-465f-bbba-8e051d5dda1d
-:END:
-#+title: Winston Churchill on democracy
-#+begin_quote
-[[id:0b730bba-3af4-4b21-8379-475f504af711][democracy]] is the worst form of government—with the exception of all other known forms of government.
-#+end_quote
-

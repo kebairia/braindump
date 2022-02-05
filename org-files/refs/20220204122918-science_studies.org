@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       f5358dd3-5a0c-4ed2-bd4d-57aa5baae0c4
+:ROAM_REFS: https://en.wikipedia.org/wiki/Science_studies
+:END:
+#+title: science studies
+
+- Is a field that emerged in the 20^th century which try to study science from a new different approaches.
+- science studies moved the study of science from looking to it's history and trying to extract rules and method of how science actually work, like the work of "Karl Popper", "Vienna Circle and [[id:848d2157-b345-40c9-adfd-000613ca7399][positivism]]" and many others, to the approach of studying science by looking to it's social structure, and how social and cultural backgrounds can affect the way science work.
+  - And also how somethings like "Gender", "ethnicity" can affect the way we see and observe the world, and so, the way we formulate our  theories about the natural world, and any field in science.
+  - An example of that is the approaches conducted by some women (feminists).
+    see [[https://www.amazon.com/Gender-Science-Janet-Kourany/dp/0133479722][The Gender of Science by Janet A.Kourany: ]]
+- We can say that: science studies is a new way of looking to science from different fields (Sociology, Psychology, feminism, black people ...etc)
+- Science studies heavenly inspired by the work of Thomas Kuhn "The Structure of Scientific Revolution"
+
+
+* References :ignore:
+#+print_bibliography

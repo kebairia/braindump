@@ -1,5 +1,0 @@
-:PROPERTIES:
-:ID:       93a8e065-9ff0-4d67-b52c-97c71de4b33e
-:END:
-#+title: use-package
-* Installation

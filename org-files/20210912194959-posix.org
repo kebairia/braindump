@@ -1,9 +1,0 @@
-:PROPERTIES:
-:ID:       a2119019-c9a8-4076-ba31-4a7a5ea8723d
-:END:
-#+title: posix
-#+filetags: :unix:linux:
-
-POSIX – Portable Operating System Interface (POSIX)
-is a set of standards defined by the IEEE as solution to the compatibility between Unix-like systems in form of [[id:114edd72-bdff-4c16-a1e4-130fb0f6a8b9][API]]
-

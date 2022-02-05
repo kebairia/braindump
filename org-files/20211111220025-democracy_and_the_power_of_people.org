@@ -1,8 +1,0 @@
-:PROPERTIES:
-:ID:       d4b1d2bd-4a29-4055-89cd-49dbeca2870d
-:ROAM_REFS: https://www.youtube.com/watch?v=_J3KXiU-z74
-:END:
-#+title: democracy and the power of people
-Many people use the idea of [[id:0b730bba-3af4-4b21-8379-475f504af711][democracy]] as an emotive tool to manipulate people into believing
-that they can rule themselves, but in reality, the worth of one vote -- which is the only thing a voter can do --
-represents nothing and has no effect on how policies and rules can change in a country.

@@ -1,9 +1,0 @@
-:PROPERTIES:
-:ID:       efc66736-5a20-41db-956a-7ff6c1c5814a
-:END:
-#+title: get programs's icons 
-#+filetags: :github:icons:websites:
-
-use [[https://simpleicons.org/][Simple Icons]] to get icons for your programs to use on GitHub badges
-it offers the icons in multiple format [HTML, SVG, PDF]
-

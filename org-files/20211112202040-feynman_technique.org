@@ -1,5 +1,0 @@
-:PROPERTIES:
-:ID:       a1887bd8-7429-423a-b184-df5b14035242
-:END:
-#+title: Feynman Technique
-

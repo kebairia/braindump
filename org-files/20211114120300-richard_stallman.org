@@ -1,7 +1,0 @@
-:PROPERTIES:
-:ID:       61cd1ad8-3ff2-460c-bab0-3e2031992cd0
-:END:
-#+title: Richard Stallman
-#+filetags: :gnu:
-
-

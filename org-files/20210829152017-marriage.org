@@ -1,6 +1,0 @@
-:PROPERTIES:
-:ID:       f49d30a5-bc87-47bf-835d-eac56506e46c
-:END:
-#+title: Marriage
-
-[[id:fd5a4c5f-b137-4ed4-bb01-b49178026185][independence]]

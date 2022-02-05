@@ -1,5 +1,0 @@
-:PROPERTIES:
-:ID:       493a3f23-688c-4c04-af2e-1d584a45427b
-:END:
-#+title: lisp  
-

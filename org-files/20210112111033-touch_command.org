@@ -1,5 +1,0 @@
-:PROPERTIES:
-:ID:       a091e385-459b-4cd5-a00c-e01e516fddb2
-:END:
-#+title: touch command
-

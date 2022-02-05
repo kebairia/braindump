@@ -1,5 +1,0 @@
-:PROPERTIES:
-:ID:       874918a3-8098-49aa-b4eb-703627aab3f6
-:END:
-#+title: myth 
-

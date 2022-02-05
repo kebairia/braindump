@@ -1,9 +1,0 @@
-:PROPERTIES:
-:ID:       7e139c4c-ed85-4dc5-b29d-798649d297a2
-:END:
-#+title: Issac Newton
-#+filetags: :science:
-
-[[id:d4a3785b-715c-4bcd-b1ef-5ff1f4e7e6d1][scientific community]]
-[[id:46067e6b-137d-468f-afbc-be853fc570b8][scientific method]]
-

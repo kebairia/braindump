@@ -1,8 +1,0 @@
-:PROPERTIES:
-:ID:       471ae10e-18c3-4607-a60a-5e15e6431e27
-:END:
-#+title: we trust the scientific method
-#+filetags: :science:
-[[id:a83a6254-9844-4f66-bbac-be7e2b4c859a][why trust science?]]
-we trust the [[id:46067e6b-137d-468f-afbc-be853fc570b8][scientific method]] as an effective way of investigation and facts pursuit
-

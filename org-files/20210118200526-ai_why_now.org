@@ -1,9 +1,0 @@
-:PROPERTIES:
-:ID:       145e98a1-59c5-4b88-9243-9fd4dad4f360
-:END:
-#+title: AI-why now?
-#+filetags: :ai:big data:machine learning:
-
-Big Data  + Compute power + Machine learning algorithms + we learned how to advertise our [[id:5a26fcad-74a6-4255-a246-9b0c0c3b10a1][AI]] products. 
-
-

@@ -1,5 +1,0 @@
-:PROPERTIES:
-:ID:       82c6386e-1644-4bfe-905d-bfe8868b82b8
-:END:
-#+title: covid-19
-[[id:7903a6f3-1062-4fa3-be3f-ada296c921a6][quarantine]]

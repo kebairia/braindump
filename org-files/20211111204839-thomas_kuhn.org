@@ -1,6 +1,0 @@
-:PROPERTIES:
-:ID:       f62c5b96-e8dc-4fa9-a52a-3ae631fba9f1
-:END:
-#+title: Thomas Kuhn
-#+filetags: :philosophy:revolution:science:
-

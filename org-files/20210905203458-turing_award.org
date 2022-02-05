@@ -1,6 +1,0 @@
-:PROPERTIES:
-:ID:       2f223382-8a6b-4fb9-8f50-1f19c706a0d5
-:END:
-#+title: Turing Award
-#+filetags: :prizes:computer_science:
-

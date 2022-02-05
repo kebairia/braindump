@@ -1,7 +1,0 @@
-:PROPERTIES:
-:ID:       ee383775-408a-46ac-9451-ed389c477e65
-:END:
-#+title: elisp
-- elisp is a [[id:493a3f23-688c-4c04-af2e-1d584a45427b][lisp]] language created for [[id:4c72a4b7-ee23-473d-a50d-39060c7cbb9e][emacs]]
-- elisp stands for *emacs lisp*
-

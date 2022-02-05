@@ -1,9 +1,0 @@
-:PROPERTIES:
-:ID:       825a659c-8c66-4d17-bdcc-8463fdb57681
-:END:
-#+title: GPL3,a hack of the copyright system
-#+filetags: :license:gpl3:linux:copyleft:copyright:unix:
-
-Richard Stallman described its GPL3 license as a "Hack" for the copyright system.\\
-because it uses the power of the copyright legal infrastructure to ensure that product is free rather than restricted.
-
