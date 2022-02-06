@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       72217c7d-47a7-4a4b-b017-60163f4ba9b4
+:END:
+#+title: feminism and science
+#+filetags: :feminism:science:
+
+* References :ignore:
+#+print_bibliography
