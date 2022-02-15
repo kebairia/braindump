@@ -1,0 +1,38 @@
+:PROPERTIES:
+:ID:       1f2e3df4-80ab-4624-b5b9-270f8fd8a29e
+:ROAM_REFS: https://askubuntu.com/questions/826849/ubuntu-16-04-1-ip-address-change#826889
+:END:
+#+title: static ip in ubuntu
+#+filetags: :computer-science:
+
+- the file that contain the network interfaces configuration is =/etc/network/interfaces=
+  #+begin_src sh
+    vim /etc/network/interfaces
+  #+end_src
+
+  a. for =dhcp= configuration
+     #+begin_src conf
+       auto eth0
+       iface eth0 inet dhcp
+     #+end_src
+     Then the interfaces will send DHCP request, and get its IP address from the nearest DHCP server
+
+  b. for static IP configuration
+     #+begin_src conf
+       auto eth0
+       iface eth0 inet static
+       address 192.168.2.2
+       netmask 255.255.255.0
+       gateway 192.168.2.1
+       dns-search example.com
+       dns-nameservers 8.8.8.8 8.8.4.4
+     #+end_src
+  c. To SHUTDOWN the interfaces and bring it UP again
+     #+begin_src sh
+       sudo ifdown eth0
+       sudo ifup eth0
+     #+end_src
+  d. You can see the inforamtion of all interfaces with =ifconfig -a=
+* References
+
+
