@@ -66,14 +66,6 @@ read this article [[https://www.ninds.nih.gov/Disorders/Patient-Caregiver-Educat
 - search and learning about the development of the western science
   can lead me to think about a new way to doing science, investigating nature
   and also finding answers and exploring the world
-* Mon, 07 Feb 22 (10:11) : umaitek
-- 
-* Mon, 07 Feb 22 (10:27) : sds software defined storage
-- How the organization is organized 
-  - HA
-  - Techniques
-  - Commercial
-  - Administration
 * Mon, 07 Feb 22 (23:39) : can our state of mind influence our biochemistry and immune system?
 in the book, seeking wisdom from Darwin to Munger, this question related to the placebo definition.
 using a placebo here to demonstrate the relation between what we think and our bodies is great.
@@ -104,9 +96,12 @@ History repeats itself very often because nature changes with geological time, a
     and are not objective, are knowledge doesn't represent the true nature of the world, but rather the way we perceive this word.
     And the way we perceive this world is based in the way we developed over the years
   - Doesn't that means that all of our knowledge is subjective to our nature.
-  - I thins that this has a relation to the idea of "Bat's perspective"
+  - I think that this has a relation to the idea of "Bat's perspective"
   - And the question that arise after that: How can we be sure that our knowledge is, in some sort related to the objective nature of the world.
   - Yes, I can understand the idea that: Our knowledge is not objective, and doesn't necessarily represent the true nature of the world.
     and it's correct in the way that it has relation to this objective nature.
   - Like when I can know if my speed has increased, without a speed-monitor, if I knew that my speed related to another speed that I have
     a monitor on
+* Fri, 25 Feb 22 (06:54) : 
+- people have an aversion to loss.
+  They fear to loose something they have, more than wanting to gain something they don't have.

@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       d0d37fc7-34c9-4d59-9b79-c152d4552c85
+:END:
+#+title: warm bath effect
+
+Taking a warm bath at night, will signal the production of several hormones including [[id:aa5accf5-1622-4f85-9c14-328b2c8647b6][melatonin]] (the sleep hormone)
+
+* References :ignore:
+#+print_bibliography

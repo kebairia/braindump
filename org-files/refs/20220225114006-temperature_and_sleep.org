@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       3faeabb6-5026-42bc-b8e1-ee39c84abfc9
+:ROAM_REFS: https://fs.blog/knowledge-project-podcast/matthew-walker/
+:END:
+#+title: temperature and sleep
+#+filetags: :ancestor:sleep:
+
+- Our ancestor, the hunter gatherer's, went to sleep not at the sunset (when it get dark), but few hours after that.
+  And they didn't get up with sunrise, but right before that, when the temperature rise up.
+- The idea is that our sleep depends on several factors and not only the amount of light in our surroundings.
+- Temperature play a major role in that.
+  - When our core body temperature drop down 1 Degree Celsius, we tend to fall asleep.
+    and we get up again the temperature rise up (right before the sunset)
+- This is also has a relation to the [[id:d0d37fc7-34c9-4d59-9b79-c152d4552c85][warm bath effect]], because the increase in our core body temperature from taking a bath, and going into a colder environment -- like our bedroom -- will do the same effect.
+
+
+* References :ignore:
+#+print_bibliography
