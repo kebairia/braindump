@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       803f0a08-7883-428e-8918-0fe734841155
+:ROAM_REFS: [cite:@bevelin2007seeking]
+:END:
+#+title: can our thoughts influence our body?
+
+can our state of mind influence our biochemistry and immune system?
+
+In the book "Seeking wisdom from Darwin to Munger" this question was answered by the idea of placebo
+It's a great  idea to use Placebo to demonstrate the relationship between our thoughts  and our bodies.
+What we think has an impact on how our bodies act and react.
+
+* References :ignore:
+#+print_bibliography
