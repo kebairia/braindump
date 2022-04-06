@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       1f6b0abb-c24a-4acc-91e4-c09bb333cdeb
+:END:
+#+title: non/authoritative answer in DNS
+#+filetags: :network:computer-science:
+
+When you request a URL (let say you used nslookup for that for example), DNS can provide you with one of two answers: 
+Authoritative (when the response comes from the master dns server) or non-authoritative (when the response comes from a secondary dns server).
+The secondary DNS server serves as a backup server and only caches the most recently requested URLs.
+The secondary DNS server obtains information from the master DNS server and stores it in a cache for future requests.
