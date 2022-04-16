@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       c9ec4444-a57a-47b7-a1c8-fb7c45e11784
+:ROAM_REFS: https://youtu.be/k-J9BVBjK3o?t=429
+:END:
+#+title: friendship
+friendship is the sharing of our vulnerabilities
+when we start a friendship, our new friend doesn't want to know our good new, rather, they want to gain insights about our troubles,
+fears and worries.
+so they can feel less lonely.
+
+* References :ignore:
+#+print_bibliography

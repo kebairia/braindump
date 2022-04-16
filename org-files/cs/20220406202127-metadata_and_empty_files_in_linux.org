@@ -1,0 +1,36 @@
+:PROPERTIES:
+:ID:       1008cb55-e3f7-43bf-9472-ffcaac0b90b1
+:END:
+#+title: metadata and empty files in linux
+#+filetags: :data:filesystem:computer-science:
+when you create a file without any data in it by touch command for example.
+~touch myfile~
+~ls -l /tmp/myfile~
+you'll get a file with a size == ~0 bytes~.
+
+but why?, isn't there a name and some data related to this file, so the size of the file must be bigger than ~0 bytes~.
+
+actually these data are called [[id:4fb14576-0ab3-4364-84c7-86d26f0173b4][metadata]] and are not saved on the file itself, but it depends on the filesystem you use.
+
+so for example, if you are using [[id:bcc7c896-6189-4bab-8f91-bd0ce599b6a4][ext4 filesystem]] for example, these metadata will be stored in the [[id:aa272013-34a7-44d7-9887-0e34a331a068][inode]] of the file.
+
+you can see all the inodes availlable and used on each partition in your system, by invoking the following command:
+~df -i~ 
+or for more human readable format use the ~-h~ option: 
+~df -hi~
+
+#+begin_example
+  Filesystem     Inodes IUsed IFree IUse% Mounted on
+  dev              475K   544  475K    1% /dev
+  run              477K   722  476K    1% /run
+  /dev/sda1         15M  246K   15M    2% /
+  shm              477K     1  477K    1% /dev/shm
+  cgroup_root      477K    16  477K    1% /sys/fs/cgroup
+  /dev/sda2        5.8M  221K  5.5M    4% /home
+  /dev/sda6           0     0     0     - /boot
+  tmpfs            477K    23  477K    1% /run/user/1000
+  /dev/sda4         42M   34K   42M    1% /media/Works
+  /dev/sda3         11M  2.8K   11M    1% /media/FUN
+#+end_example
+and the number of the [[id:532b6b8d-cc16-4544-bccd-880eb0110e89][Inodes]] you have left will decide how many files you can create in future on this perticular partition.
+

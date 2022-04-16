@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       b8b6914f-ca7d-495d-969f-dc136de03e97
+:END:
+#+title: Dollo's law
+#+filetags: :evolution:
+
+Or Dollo's principle, also called dollo's law of irreversibility 
+A concept proposed by the paleontologist "Louis Dollo" that state:
+
+#+begin_quote
+A organism doesn't return in evolution and get former characteristics even it was putted in the same condition that led to the appearance of a particular characteristic
+#+end_quote
+
+We should know that this law is based on probability, meaning that, taking the accumulative changes that happens to a creature during 
+his evolutionary journey, it's very, very unlikely (from probabilistic point of view) to re-gain a certain features or organs that appeared 
+previously.
+beside this probabilistic point of view, Dollo's law state that, in any evolution path for any creature, there are some irreversible changes that happen over time, some complex organs that is the result of the accumulation of multiple other parts, and that make the reappear of any part, improbable.
+
+[[file:~/dox/braindump/org-files/img/dollo_s-law/dollo_s-law.png]]
+
+* References :ignore:
+#+print_bibliography

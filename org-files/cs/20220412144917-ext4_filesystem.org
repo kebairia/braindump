@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       18856bae-f27a-4b08-9649-3a3f81f8c0fb
+:END:
+#+title: ext4 filesystem
+#+filetags: :data:filesystem:computer-science:
+
+*EXT4*: stands for extended filesystem version 4 or "fourth extended filesystem"
+it's an enhancement for the ext3 (it's ancestor). 
+this is a changelog and the differences between the two versions
