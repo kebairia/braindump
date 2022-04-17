@@ -2,6 +2,7 @@
 :ID:       aa5accf5-1622-4f85-9c14-328b2c8647b6
 :END:
 #+title: melatonin
+#+filetags: :science:
 
 Melatonin is the hormone that controls our sleep patterns.
 It increases at night, making us feeling sleepy.
