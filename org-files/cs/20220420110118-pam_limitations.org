@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       11082d91-5c81-448b-b1c7-383098872a15
+:END:
+#+title: pam limitations
+#+filetags: :computer-science:
+
+[[id:a0f8c2eb-b324-4554-8ef2-907a8ea73a8f][PAM]] has some limitations which are:
+- Can't interact directly with the client
+- Not all OS use pam. (See Solaris, some BSD variants)
+- No approved formal standard or official language that describe their pieces.
+- No approved formal language.

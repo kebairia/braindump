@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       fca54742-4ada-4474-8cdf-e610c36e8076
+:END:
+#+title: ssh command options
+#+filetags: :security:encryption:computer-science:
+
+these are the most important options that can be used with [[id:b266a53c-5617-44e7-af30-9012c1a18197][ssh]]
+
+/usr/sbin/sshd -f sshd_config_test -p 222 -ddd
+- -f ::  to use an alternative configration file
+- -ddd ::
+  - run in foreground
+  - one connection only
+  - useful for weird debugging
+
+

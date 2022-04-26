@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       f2935883-a946-4c46-8c32-e6c44980d9e8
+:ROAM_REFS: https://www.facebook.com/aerabbie/posts/10159949589324146
+:END:
+#+title: our minds are symbolic
+#+filetags: :rational:argument:
+
+Meaning that when we remember an event, we don't remember all the details of the event, but rather we remember our feelings and reactions to
+that particular event.
+
+This is what create problem in discussions/when arguing, we don't give the whole picture about a particular event,
+we give and only remember our side of the story without the details, only our emotions and reaction to it, which make it more difficult  to consider it accurate or objective.
+* References :ignore:
+#+print_bibliography

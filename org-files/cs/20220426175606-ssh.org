@@ -1,0 +1,30 @@
+:PROPERTIES:
+:ID:       b266a53c-5617-44e7-af30-9012c1a18197
+:END:
+#+title: ssh
+#+filetags: :encryption:security:computer-science:
+
+- SSH stands for *Secure SHell* and was invented in 1995.
+- It's a OpenBSD project.
+- Before that, people were using other utilities like =telnet= (1970s), [[id:d16440b8-cb02-4296-8633-880e34802bf7][rlogin]], that was before the rise of the internet,
+  There was no need to encrypt the traffic because all the networks used back then was private or internal (universities for examples).
+
+- SSH was a need in the age of the internet.
+
+* Basic usage
+#+begin_src sh
+  ssh user@192.168.2.1
+  ssh user@remote_host
+  ssh user@remote_host -p 2200
+#+end_src
+* Basic architecture
+It's has a client-server architecture where :
+- The client if from where you connect from
+- The server if to where you will connect to
+
+The package =openssh-server= is required to make your host an "ssh server"
+#+begin_src sh
+  sudo yum install openssh-server
+#+end_src
+The =/etc/ssh/sshd_config= is the configuration file for the server side
+The =/etc/ssh/ssh_config= is the configuration file for the client side

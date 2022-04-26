@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       ed09760e-0082-4946-b323-f9fd7878dc81
+:END:
+#+title: lidar
+#+filetags: :navigate:science:
+
+It's a method of measuring distances, targeting objects using laser.
+It measure the differences between the times of the light of the laser to determine the different distances.
+It can also be used to create a 3D visualization about terrestrial surfaces, the bottom of oceans, and distances places like other planes.
+We can also consider another application for that technology, such as the one described in "Black Moon," a sci-fi novel by "Yasser abu el hassab," in which a robot used this technology to walk on the Moon

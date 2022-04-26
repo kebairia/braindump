@@ -172,3 +172,23 @@ conclusion that the earth is stationary and the stars revolve around it
   and the only limitation of the finite nature that we see has a relation to our nature and limitation
   and a species 
 * Wed, 06 Apr 22 (11:56) : triple O
+* Wed, 20 Apr 22 (11:55) : example of using pam
+
+This is an example of how to make ~su~ create home directories using the ~pam_mkhomedir~ modules
+- First check if the service you are going to use support the pam security, we use the ~ldd~ command for that.
+  #+begin_src sh
+    sudo ldd $(which su) | grep "libpam.so"
+  #+end_src
+  it seems that su support pam
+- Go to ~/etc/pam.d/~ and open su-l
+* Mon, 25 Apr 22 (22:06) : ssh server and ssh client
+- The ssh server is the machine that we want to connect to
+  so we install openssh-server package on that host
+- ssh client must be installed in the machine that we will connect from
+* Mon, 25 Apr 22 (22:07) : telnet
+- in the past, they used telnet, and as we know, telnet send the data in clear text.
+  in the past that wasn't a problem because all the network that was exist was internel/private network 
+  before the internet become a thing, so using a telnet wasn't a problem
+- Here we can see that the need ssh started with the appear of internet (in the mid-90 -- 1995 ...>--)
+* Mon, 25 Apr 22 (22:10) : who invented ssh
+- Tatu Ylonen

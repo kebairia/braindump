@@ -1,0 +1,36 @@
+:PROPERTIES:
+:ID:       a0f8c2eb-b324-4554-8ef2-907a8ea73a8f
+:ROAM_REFS: https://www.youtube.com/watch?v=Mc2p6sx2s7k
+:END:
+#+title: PAM
+#+filetags: :security:computer-science:
+
+Pluggable Authentication Modules (PAM), Create by Sun in mid-90
+
+PAM is a method for making Linux security more efficient.
+As the name implies, it allows us to use some modules as plugins that we can add to services and force/allow them to follow a security policy without modifying the actual service.
+If you want to add a Biometric checking feature to your sshd service, instead of modifying the ~sshd~ service, simply add the corresponding module say it's name is ~pam_biometric.so~ modules to ~/etc/pam.d/sshd~.
+
+all PAM modules are in ~/usr/lib64/security/~
+#+begin_src shell
+  ls /usr/lib64/security
+#+end_src
+
+#+RESULTS:
+#+begin_example
+pam_filter/        pam_filter.so*     pam_motd.so*        pam_time.so*
+pam_access.so*     pam_ftp.so*        pam_namespace.so*   pam_timestamp.so*
+pam_cap.so*        pam_group.so*      pam_nologin.so*     pam_tty_audit.so*
+pam_cifscreds.so*  pam_issue.so*      pam_permit.so*      pam_umask.so*
+pam_debug.so*      pam_keyinit.so*    pam_pwhistory.so*   pam_unix.so*
+pam_deny.so*       pam_lastlog.so*    pam_rhosts.so*      pam_usertype.so*
+pam_echo.so*       pam_limits.so*     pam_rootok.so*      pam_warn.so*
+pam_elogind.so*    pam_listfile.so*   pam_securetty.so*   pam_wheel.so*
+pam_env.so*        pam_localuser.so*  pam_setquota.so*    pam_xauth.so*
+pam_exec.so*       pam_loginuid.so*   pam_shells.so*
+pam_faildelay.so*  pam_mail.so*       pam_stress.so*
+pam_faillock.so*   pam_mkhomedir.so*  pam_succeed_if.so*
+#+end_example
+
+You can check the man page of any of these modules.
+~man pam_mkhomedir~ for example.
