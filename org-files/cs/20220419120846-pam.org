@@ -8,8 +8,8 @@
 Pluggable Authentication Modules (PAM), Create by Sun in mid-90
 
 PAM is a method for making Linux security more efficient.
-As the name implies, it allows us to use some modules as plugins that we can add to services and force/allow them to follow a security policy without modifying the actual service.
-If you want to add a Biometric checking feature to your sshd service, instead of modifying the ~sshd~ service, simply add the corresponding module say it's name is ~pam_biometric.so~ modules to ~/etc/pam.d/sshd~.
+As the name implies, it allows us to use some modules as plugins that we can add to services to force/allow them to follow a security policy without modifying the actual service code.
+If you want to add a Biometric checking feature to your sshd service, instead of modifying the ~sshd~ service, simply add the corresponding module (say it's name is ~pam_biometric.so~) to ~/etc/pam.d/sshd~.
 
 all PAM modules are in ~/usr/lib64/security/~
 #+begin_src shell

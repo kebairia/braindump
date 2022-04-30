@@ -5,5 +5,6 @@
 #+title: rlogin
 #+filetags: :security:computer-science:
 rlogin (remote login) was a program that allowed users to access a computer remotely.
-First introduced in BSD Unix in the 1980s
-rlogin, like telnet, was superseded by [[id:b266a53c-5617-44e7-af30-9012c1a18197][ssh]] because and with the rise of the internet, a more secure utility to remotely use computers was required, and rlogin and telnet both sent data in clear which was inconvenient.
+First introduced in BSD Unix in the 1980s and it was part of the [[id:fac6a2a5-7cdc-451d-b5bc-570dd03dd6b9][Berkeley r-commands]] project.
+rlogin, like telnet, was superseded by [[id:b266a53c-5617-44e7-af30-9012c1a18197][ssh]].
+With the rise of the internet, a more secure utility to remotely use computers was required, and rlogin and telnet both sent data in clear text, which was inconvenient.

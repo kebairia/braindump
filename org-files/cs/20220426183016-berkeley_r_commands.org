@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       fac6a2a5-7cdc-451d-b5bc-570dd03dd6b9
+:ROAM_REFS: https://en.wikipedia.org/wiki/Berkeley_r-commands
 :END:
 #+title: Berkeley r-commands
 #+filetags: :remote:computer-science:
@@ -8,12 +9,12 @@ Is a suite of command that let users to issue various command remotely
 
 | Client  | Daemon  | Port | Transport | Use                                             |
 |---------+---------+------+-----------+-------------------------------------------------|
-| rcp     | rshd    |  514 | TCP       | cp files remotely                               |
-| rexec   | rexecd  |  512 | TCP       |                                                 |
+| rcp     | rshd    |  514 | TCP       | cp files from local host to remote ones         |
+| rexec   | rexecd  |  512 | TCP       | run commands remotely but it needs login        |
 | [[id:d16440b8-cb02-4296-8633-880e34802bf7][rlogin]]  | rlogind |  513 | TCP       |                                                 |
 | rsh     | rshd    |  514 | TCP       | run commands remotely without the need to login |
-| rstat   | rstatd  |      | UDP       |                                                 |
-| ruptime | rwhod   |  513 | UDP       |                                                 |
+| rstat   | rstatd  |      | UDP       | returns performance statistics from the kernel. |
+| ruptime | rwhod   |  513 | UDP       | uptime of remote host                           |
 | rwho    | rwhod   |      |           | The remote version of =who= command               |
 |---------+---------+------+-----------+-------------------------------------------------|
 

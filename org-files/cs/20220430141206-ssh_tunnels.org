@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       e1718b7e-31e1-46be-bcf6-f9078fd8ceb8
+:END:
+#+title: ssh tunnels
+#+filetags: :computer-science:
+
+* How to
+- Setup an [[id:b266a53c-5617-44e7-af30-9012c1a18197][ssh]] server
+** Local Port Forwarding 
+- I want to access remote resources that I can't or I don't have access to
+** Remote Port Forwarding 
+- I want to grant people access to a local resources that they can't or they don't have access to
