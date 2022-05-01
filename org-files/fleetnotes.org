@@ -192,3 +192,6 @@ This is an example of how to make ~su~ create home directories using the ~pam_mk
 - Here we can see that the need ssh started with the appear of internet (in the mid-90 -- 1995 ...>--)
 * Mon, 25 Apr 22 (22:10) : who invented ssh
 - Tatu Ylonen
+* Sun, 01 May 22 (12:34) : mit-biology #2
+- chemical binding:
+

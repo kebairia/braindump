@@ -8,5 +8,13 @@
 - Setup an [[id:b266a53c-5617-44e7-af30-9012c1a18197][ssh]] server
 ** Local Port Forwarding 
 - I want to access remote resources that I can't or I don't have access to
+  I want to connect to the web server on port 80 through the ssh server
+  the web server enables only ssh, so we can use port 22 to smuggle data and for that to port 80
+  #+begin_src sh
+    ssh -L 8888:web-server:80 user@ssh-server
+  #+end_src
+  Then visit =localhost:8888= to access the web serer
+  localhost:8888 --> ssh server <port 22> --> web server <port 80>
+  direct access to the web server is rejected due a firewall or something else.
 ** Remote Port Forwarding 
 - I want to grant people access to a local resources that they can't or they don't have access to
