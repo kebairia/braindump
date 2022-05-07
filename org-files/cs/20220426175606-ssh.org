@@ -19,8 +19,8 @@
 #+end_src
 * Basic architecture
 It's has a client-server architecture where :
-- The client if from where you connect from
-- The server if to where you will connect to
+- The client if from where you connect from.
+- The server if to where you will connect to.
 
 The package =openssh-server= is required to make your host an "ssh server"
 #+begin_src sh

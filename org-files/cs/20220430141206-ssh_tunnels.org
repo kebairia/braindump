@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       e1718b7e-31e1-46be-bcf6-f9078fd8ceb8
+:ROAM_REFS: https://robotmoon.com/ssh-tunnels/
 :END:
 #+title: ssh tunnels
 #+filetags: :computer-science:
@@ -18,3 +19,6 @@
   direct access to the web server is rejected due a firewall or something else.
 ** Remote Port Forwarding 
 - I want to grant people access to a local resources that they can't or they don't have access to
+
+* Port Forwarding
+ 127.0.0.1:5432   ssh-server   127.0.0.1:5432

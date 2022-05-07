@@ -1,0 +1,74 @@
+:PROPERTIES:
+:ID:       4c6f5ce0-5c87-43bc-9d1b-a112f1e48388
+:END:
+#+title: ssh authentication methods 
+#+filetags: :computer-science:
+
+- [[id:b266a53c-5617-44e7-af30-9012c1a18197][ssh]] has several way to authenticate the user:
+  - using a password
+  - using the public/private key method
+  - using any other mechanisim with [[id:a0f8c2eb-b324-4554-8ef2-907a8ea73a8f][PAM]]
+* Using password 
+- It's preferable to disable both the password authentication (it's enabled by default) and root login options.
+#+begin_src sh :results output
+  grep -i "#passwordauthentication" /etc/ssh/sshd_config
+#+end_src
+
+#+RESULTS:
+: #PasswordAuthentication yes
+#+begin_src sh :results output
+  sed 's/#PasswordAuthentication yes/PasswordAuthentication no/' /etc/ssh/sshd_config \
+      | grep "^PasswordAuthentication"
+#+end_src
+
+#+RESULTS:
+: PasswordAuthentication no
+
+* Public/Private key method
+- First create the public/private keys using the =ssh-keygen=, the resulting files will reside in the =.ssh= folder
+
+#+begin_src sh :results output
+  ls ~/.ssh/id*
+#+end_src
+
+#+RESULTS:
+: /home/zakaria/.ssh/id_rsa
+: /home/zakaria/.ssh/id_rsa.pub
+: --------------------
+** How to use keys
+- You can copy the content of the public key (the file ends with =.pub=) to the =username/.ssh/authorized_keys= file of the remote host,
+  where the =username= is the user we want to access the remote host with.
+#+begin_src sh :results none
+cat ~/.ssh/id_rsa.pub | ssh username@remote_host "mkdir -p ~/.ssh && touch ~/.ssh/authorized_keys && chmod -R go= ~/.ssh && cat >> ~/.ssh/authorized_keys"
+#+end_src
+- Or you can use the =copy-ssh-id= command (which do the same thing)
+*** Create special keys for special cloud providers
+#+begin_src sh :results none
+  ssh-keygen -t rsa <CR>
+  ~/zakaria/.ssh/id_rsa_aws # The name of the keys
+#+end_src
+- Now copy =id_rsa_aws.pub='s content and put it in =authorized_keys= on the AWS server.
+- Now when you try to authenticate to the server, you will get a "Permission denied (publickey)" error msg, and that because the client side(which is your laptop) uses the =id_rsa= private key (and not the =id_rsa_aws=) when it tries to authenticate, so we need to add this identity to it.
+  we will use the [[id:cb45f408-5a99-45e5-af9e-8af0f8a444b7][ssh-add]] utility for that.
+  #+begin_src sh :results none
+    ssh-add ~/.ssh/id_rsa_aws
+    #Then do `ssh root@<PUB IP>` and it will work
+  #+end_src
+
+  #+begin_example
+`id_rsa  id_rsa.pub  id_rsa_aws id_rsa_aws.pub known_hosts`
+
+QUESTION: which file contain the identities ?
+,** LOGIN IN WITH A NEW USER
+when you create a new user, and try to login in with it, you can't because the key exchange that you did, you did with the root user only on its `.ssh` folder, so when you need to access to the server using ssh with a new user you need to redo the keys exchange with it.
+This is somehow the opposite of the previous case, here the mismatch is with the public key, where in the previous case was with the private key
+,*** MANUALLY
+login as `test` user using the password authetication
+`ssh test@<PUB KEY>`
+`mkdir ~/.ssh && touch ~/.ssh/authorized_keys`.
+Copy the content of `id_rsa_aws.pub` and paste it on `/home/test/.ssh/authorized_keys` file.
+
+UNDERSTAND SSH-ADD/SSH-AGENT
+ssh-add is a command for adding "SSH private keys" into the SSH authentication agent.
+  #+end_example
+

@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       df76cc86-52bf-472a-8450-78a82d56741e
+:ROAM_REFS: https://www.afternerd.com/blog/python-http-server/ https://pythonbasics.org/webserver/
+:END:
+#+title: web server using python
+#+filetags: :web server:computer-science:
+
+Using the http.server module (the module is installed by default)
+#+begin_src sh
+  python -m http.server
+#+end_src
+This will open a web server on port =8080= (check it with =curl localhost:8080=)
+
+To start the web server on a specific =PORT= and bind it to a specific interface
+#+begin_src sh
+  python -m http.server 8888 --bind 127.0.0.1
+#+end_src
+Starting from python3, you can use =--directory= flag to serve files from a specific directory (the current directory is the default)

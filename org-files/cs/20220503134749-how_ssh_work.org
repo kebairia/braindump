@@ -1,0 +1,61 @@
+:PROPERTIES:
+:ID:       71611ee8-ce53-4dc4-96cd-79f634662e71
+:END:
+#+title: how ssh work?
+#+filetags: :security:computer-science:
+
+- [[id:b266a53c-5617-44e7-af30-9012c1a18197][ssh]] has several way to authenticate the user:
+  - using a password
+  - using the public/private key method
+  - using any other mechanisim with [[id:a0f8c2eb-b324-4554-8ef2-907a8ea73a8f][PAM]]
+* public/private key method
+#+begin_src sh :results output
+  ls ~/.ssh/id*
+#+end_src
+
+#+RESULTS:
+: /home/zakaria/.ssh/id_rsa
+: /home/zakaria/.ssh/id_rsa.pub
+: --------------------
+* How to use keys
+You can copy the content of the public key (the file ends with =.pub=) to the =username/.ssh/authorized_keys= file of the remote host,
+where the =username= is the user we want to access the remote host with.
+#+begin_src sh :results none
+cat ~/.ssh/id_rsa.pub | ssh username@remote_host "mkdir -p ~/.ssh && touch ~/.ssh/authorized_keys && chmod -R go= ~/.ssh && cat >> ~/.ssh/authorized_keys"
+#+end_src
+Or you can use the =copy-ssh-id= command (which do the same thing)
+** Create special keys for special cloud providers
+#+begin_src sh :results none
+  ssh-keygen -t rsa <CR>
+  ~/zakaria/.ssh/id_rsa_aws # The name of the keys
+#+end_src
+
+
+  #+begin_example
+,* HOW TO USE KEYS
+you can copy the public key using `ssh-copy-id` command or you can do it manually with the following command.
+`cat ~/.ssh/id_rsa.pub | ssh username@remote_host "mkdir -p ~/.ssh && touch ~/.ssh/authorized_keys && chmod -R go= ~/.ssh && cat >> ~/.ssh/authorized_keys"`
+
+,** USING SPECIAL KEYS FOR SPECIAL CLOUD PROVIDERS
+`ssh-keygen -t rsa <CR>`
+`~/zakaria/.ssh/id_rsa_aws`
+`ls .ssh <CR>`
+RESULT:
+`id_rsa  id_rsa.pub  id_rsa_aws id_rsa_aws.pub known_hosts`
+now take `id_rsa_aws.pub` and put it in `authorized_keys` on the aws server
+now when you try to autheticate to the server you will get a "Permission denied (publickey)" error, and that because the client side(which is your laptop) when it tries to autheticate, it uses the `id_rsa` private key and not the `id_rsa_aws`, so we need to add this identity to it 
+QUESTION: which file contain the identities ?
+`ssh-add ~/.ssh/id_rsa_aws` then do `ssh root@<PUB IP>` and it will work
+,** LOGIN IN WITH A NEW USER
+when you create a new user, and try to login in with it, you can't because the key exchange that you did, you did with the root user only on its `.ssh` folder, so when you need to access to the server using ssh with a new user you need to redo the keys exchange with it.
+This is somehow the opposite of the previous case, here the mismatch is with the public key, where in the previous case was with the private key
+,*** MANUALLY
+login as `test` user using the password authetication
+`ssh test@<PUB KEY>`
+`mkdir ~/.ssh && touch ~/.ssh/authorized_keys`.
+Copy the content of `id_rsa_aws.pub` and paste it on `/home/test/.ssh/authorized_keys` file.
+
+UNDERSTAND SSH-ADD/SSH-AGENT
+ssh-add is a command for adding "SSH private keys" into the SSH authentication agent.
+  #+end_example
+

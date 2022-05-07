@@ -1,0 +1,27 @@
+:PROPERTIES:
+:ID:       cb45f408-5a99-45e5-af9e-8af0f8a444b7
+:END:
+#+title: ssh-add
+#+filetags: :computer-science:
+
+=ssh-add= is a command for adding [[id:b266a53c-5617-44e7-af30-9012c1a18197][ssh]] private key into the client, specifically to the authentication agent [[id:735a84a2-7eb8-4587-b3c9-df56d8324ea3][ssh-agent]]
+it allow the user to use multiple private keys for different servers
+#+begin_src sh :results output
+  ls ~/.ssh/id*
+#+end_src
+
+#+RESULTS:
+: /home/zakaria/.ssh/id_rsa
+: /home/zakaria/.ssh/id_rsa.pub
+: /home/zakaria/.ssh/id_rsa_aws
+: /home/zakaria/.ssh/id_rsa_aws.pub
+: /home/zakaria/.ssh/id_rsa_digitalocean
+: /home/zakaria/.ssh/id_rsa_digitalocean.pub
+
+Using =ssh-add= without argument will add the default private key (=id_rsa= or =id_dsa= ...etc).
+To add specific key use the following:
+#+begin_src sh 
+  ss-add ~/.ssh/id_rsa_aws
+#+end_src
+
+

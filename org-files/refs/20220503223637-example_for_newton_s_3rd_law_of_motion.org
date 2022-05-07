@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       a1e69b25-6cf2-40d9-b7d2-755f1e2d03ea
+:END:
+#+title: example for Newton's 3rd law of motion
+
+There is a great example that demonstrate Newton's Third law of motion.
+Take 5 or 6 balls linked from above with a string, like the artifact that we usually see in offices
+move one ball and then let it hit the rest of the ball, you will see only one ball on the other side move in the same direction and return.
+then move 2 balls now, you will see 2 balls will move simultaneously on the same direction and return.
+then move 3, 4 and you realize that the same balls will move every time on the other side
+this is a great demonstration for that, the same amount of energy is moving through the balls .
+--+---+---+---+--
+  |   |   \   \
+ ( ) ( )  ( )  ( )
+* References :ignore:
+#+print_bibliography
