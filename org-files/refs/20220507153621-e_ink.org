@@ -4,12 +4,32 @@
 #+title: e-ink
 
 e-ink is a technology for creating a paper-like displays.
-The first appears of this technology was in the MIT Media Lab in 1997, and the technology commercialized after by E Ink Corporation
+The first appears of this technology was in the MIT Media Lab in 1997, and the technology commercialized after that by E Ink Corporation.
+
 The idea of this technology is the following:
-It uses micro-particles with different colors (black and white) and different charges (+positive charge white particles, negative charges for black particles)
-the particles are so tiny in the size of the width of the human hair 
-these mirco-particles are squeezed between two transparent layer, and every pixel of these layer can have a positive or a negative charge.
-so that the charge of the pixel will attract the micro-particles with the opposite charge. (positive charge of the pixel will attract the black miro-particles and vise versa)
+It uses micro-particles with different colors (black and white) and different charges (+positive charge white particles, negative charges for black particles).
+The particles are so tiny (the width of the human hair).
+These mirco-particles are squeezed between two transparent layer, and every pixel of these layers can have a positive or a negative charge.
+So the charge of the pixel will attract the micro-particles with the opposite charge.
+(positive charge of the pixel will attract the black miro-particles and vise versa)
+
+|--------+-----------------------------------|
+| Legend | Item                              |
+|--------+-----------------------------------|
+|      1 | Upper layer                       |
+|      2 | Transparent electrode layer       |
+|      3 | Transparent micro-capsules        |
+|      4 | Positively charged white pigments |
+|      5 | Negatively charged black pigments |
+|      6 | Transparent oil                   |
+|      7 | Electrode pixel layer             |
+|      8 | Bottom supporting layer           |
+|      9 | Light                             |
+|     10 | White                             |
+|     11 | Black                             |
+|--------+-----------------------------------|
+#+ATTR_ORG:  :width 40%
+[[file:~/dox/braindump/org-files/img/e-ink/e-ink-img1.png]]
 
 * References :ignore:
 #+print_bibliography

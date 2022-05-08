@@ -1,8 +1,9 @@
 :PROPERTIES:
 :ID:       848d2157-b345-40c9-adfd-000613ca7399
+:ROAM_REFS: "[cite:@oreskes-2019-why-trust-scien pp. 20]"
 :END:
 #+title: positivism
-#+filetags: :science:
+#+filetags: :philosophy:science:
 It was a Scientific movement in the 19^th century, formulated by [[id:4f2b9a47-c434-4909-a7ca-9672bd41b772][Auguste Comte]]
 It claims that: Science is the only way to gain reliable and true knowledge in which we can put our trust.
 
