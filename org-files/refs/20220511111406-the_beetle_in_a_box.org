@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       c8719068-f953-411e-a8ca-67a0f6c2b243
+:ROAM_REFS: https://existentialcomics.com/comic/7
+:END:
+#+title: The Beetle in a box
+#+filetags: :experience:language:philosophy:
+
+It's a thought experiment by Ludwig Wittgenstein:
+He said that: imagine that there are a group of persons where each one of them has a box with something in it.
+
+a guy came to them and said that what's in the box is a "beetle", but in fact everyone of them has a different object in his box.
+after that, everyone will try to explain the shape of the beetle to others, knowing that everyone is allowed to see what's inside of his box only (Similar to how each person can feel his own pain, can experiment his own experience).
+Of course everyone will said something different.
+Here Ludwig claim that this group of persons will learn the word "Beetle" from the description of others, and the same happen with language
+This group of people, according to Ludwig, will learn the word "Beetle" from each other.
+Our understanding of the world is the result of a consensus among our experiences.
+
+This is remind me by "[[id:a1d446fb-46ae-41e5-8245-66470953daca][What Is It Like to Be a Bat?]]" idea in philosophy, the idea that describes the uniqueness of self experiences
+* References :ignore:
+#+print_bibliography
