@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       aa597ced-0f1a-463a-84fc-0ff8ed39a308
+:ROAM_REFS: https://en.wikipedia.org/wiki/Koch_snowflake
+:END:
+#+title: koch snowflake
+#+filetags: :snowflake:fractals:math:
+
+Koch snowflake is a fractal curve, done by Helge von Koch
+Is considered to be one of the earliest fractal that has been described.
+It start by an equilateral triangle, and continues to divide every edge and form another equilateral triangle.
+
+[[file:~/dox/braindump/org-files/img/kochsnowflake/kochsnowflake.png]]
+* References :ignore:
+#+print_bibliography
