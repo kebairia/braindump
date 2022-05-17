@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       4e9cfc26-c653-4be0-a6a0-0390350ba831
+:ROAM_REFS: https://www.facebook.com/Mazinov.Emadovicc/posts/121236683905933?__cft__[0]=AZWpGE8NUrsRegsGyBSlDH2kMZl973foliT-LvR6F0jLfBg0PmXHvd_kA_39favXMoAM0H16Mku8iPQ6_j111wWHkEJMm2I3KiZEkrWyGylbULlXw5Za5MaLaf4cjibwQKg&__tn__=%2CO%2CP-R
+:END:
+#+title: why to spend so much time on tiktok ?
+#+filetags: :pleasure:control:tiktok:addiction:
+
+There was a study claims that, we spend to much time on tiktok and similar platforms (Youtube shorts...etc) 
+because (and according to the study):
+When people in the study took a higher number of videos sequentially, then tend to spend more time on these platform if:
+- They knew the title of the video( so they have an idea about the content of the video before)
+- Here people tend to choose similar videos, because they get pleasure watching the first videos, so they try to re-watch a sequel because
+  there is more chance to have the same pleasure again
+- If I watched a video for Bunnies, and I got pleasure doing that, I'll try to re-watch a similar video, because I create some kind of trust
+  on these kind of videos to have pleasure
+- That's why platform like Youtube and TikTok use AI to suggest "similar content", and that what create a "Rabbit hole", and make you spend hours watching them
+* References :ignore:
+#+print_bibliography
