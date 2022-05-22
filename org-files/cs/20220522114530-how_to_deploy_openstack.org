@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       1809ec2f-5410-46ce-ba16-8e6e9158b01d
+:END:
+#+title: how to deploy openstack ?
+#+filetags: :computer-science:
+
+Juju for Ubuntu
+Kola-Ansible
