@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       874346ab-d0c7-41af-b32c-00445443a8e8
+:ROAM_REFS: https://app.wakingup.com/course/C9D3BB?source=featuredContent
+:END:
+#+title: an analogy for recognizing your distinguish between self and person
+
+- I was listening for a podcast in "Waking UP" app titled "Do You Really Have a Self?",
+  and the "" gave a good analogy to realize your distinguish between the "Self" and "The person (the body)"
+- He said: 
+  #+begin_quote
+  Imagine a good body that you like, and imagine being able to take it instead of yours right now. Just thinking about it, or accepting the possibility of it, means that you are distinguishing yourself from your body; it's as if you are habituating this body, and there is another core that truly represents YOU.
+  #+end_quote
+- This analogy can used if I want to demonstrate and explain "The illusion of self" and other aspects in meditation
+* References :ignore:
+#+print_bibliography
