@@ -2,4 +2,13 @@
 :ID:       2baf229e-97fe-4acd-81eb-d7ce5c156bc3
 :END:
 #+title: Banning a book is its best publicity
+#+filetags: :taboo:science:curious:banning:book:
 
+- Banning a book is its best publicity, because in general, humans are curious creature, and always tend to know mysterious thing and the causes of things, private stuff ...etc.
+- That's why they invented science, and they like doing it.
+- an example of that, is when Morocco banned a book titled "A homosexual diaries" 
+#+name: Ahmed Aside post
+  [[file:~/dox/braindump/org-files/img/banning_books/Ahmed_aside_post.png]]
+#+name: The Cover of 'Homosexual diaries'
+#+ATTR_ORG:  :width 50%
+  [[file:~/dox/braindump/org-files/img/banning_books/homosexual_diaries.jpg]]
