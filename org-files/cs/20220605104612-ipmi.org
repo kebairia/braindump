@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       60cd1222-fad7-4d12-994d-cf7624f10d86
+:ROAM_REFS: https://en.wikipedia.org/wiki/Intelligent_Platform_Management_Interface
+:END:
+#+title: IPMI
+#+filetags: :protocol:hardware:remote:kvm:computer-science:
+
+- IPMI (Intelligent Platform Management Interface) is an low level old protocol for controlling and monitoring servers remotely, independent of the host's CPU,  firmware (BIOS/UEFI) and operating system.
+
+- For example :: we can use IPMI to managed a computer of server that may be powered off or otherwise unresponsive by using a network connection to the hardware rather than using an operating system.
+- Also we can use it to install an operating system remotely
+  The specification is led by Intel and first published in Sep 1998
+- It's supported by many vendors (Intel, Cisco, Dell, Supermicro)
+
+- This reminds me by [[id:0a9d3323-7447-4f28-818a-a93f93eddf55][PiKVM]], and How it helps us to remetely control any computer using the network.
+- You can see that PiKVM is Hardware independent, it's not a protocol, it's a RasperryPI with KVM and [[https://github.com/pikvm/pikvm][DIY]] code installed on it.
+- I saw an [[https://kaydron1000.github.io/pikvm/docs/pikvm-configuration/ipmi][article]] of using IPMI protocol to control multiple PiKVM together, and That PiKVM support IPMI.
+  But IPMI is not recommended due to security issues, and it's advised to use Redfish KVMD API
