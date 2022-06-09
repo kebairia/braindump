@@ -3,6 +3,7 @@
 :ROAM_REFS: http://www.esalq.usp.br/lepse/imgs/conteudo_thumb/What-Is-It-Like-to-Be-a-Bat-1.pdf https://www.youtube.com/watch?v=ryzrOo2reKo
 :END:
 #+title: What Is It Like to Be a Bat?
+#+filetags: :mindfulness:mind:philosophy:
 
 An idea in philosophy that describes the uniqueness of self experiences, and the importance of perspective when discussing ideas
 

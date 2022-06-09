@@ -2,6 +2,7 @@
 :ID:       719a608b-da7c-42a6-bae4-f8e107ca9616
 :END:
 #+title: e-ink
+#+filetags: :technology:writing:
 
 e-ink is a technology for creating a paper-like displays.
 The first appears of this technology was in the MIT Media Lab in 1997, and the technology commercialized after that by E Ink Corporation.

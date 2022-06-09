@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       6731e002-a2f3-4b83-bd74-48077e411b44
+:END:
+#+title: mind-body problem
+#+filetags: :philosophy:
+
+* References :ignore:
+#+print_bibliography

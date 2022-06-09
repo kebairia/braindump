@@ -3,6 +3,7 @@
 :ROAM_REFS: https://en.wikipedia.org/wiki/Carl_Linnaeus
 :END:
 #+title: the origin of the word primates
+#+filetags: :history:science:evolution:
 
 The name primates was first coined by the botanist and zoologist "Carl Linnaeus" in his first edition of Systema Naturae.
 He use that term to represent the highest order of animals, and put "Humans" in it as such.
