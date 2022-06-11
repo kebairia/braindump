@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       92e48a6b-6ac1-433f-8f24-a5805af1a60e
+:END:
+#+title: social media and the Crowd
+[[id:5b2190ca-0361-45e3-bc4b-4862c6159ced][social media]] is a virtual representation for a Crowd , the kind of crowd that [[id:4c350e66-1172-4013-aa7f-312da233e7c7][Gustave Le Bon]] described in his famous work [[id:c6b51578-b384-4a69-a371-badfd7a60f4f][The Crowd]]
+
