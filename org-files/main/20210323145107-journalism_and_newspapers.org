@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       70a7a091-1238-4e99-a9ba-0b1b1cd8b95b
+:END:
+#+title: journalism and newspapers
+#+filetags: :newspapers:journalism:domestication:influence:
+
+- It seems that the press has been a leap in the creation and development of collective awareness among
+  the public, because newspapers are considered a cheap and easy way to receive information, communicate
+  and read for thinkers; unlike books, which were costly to the public who struggle in daily basis to survive.
+- Newspapers were a revolutionary work, an inexpensive medium that created a channel of communication
+  between "intellectuals", "politicians" and the public.
+- And do not forget how this method can be used to influence public opinion, in a much better way than
+  the traditional method, which used to rely on a person giving speech in public squares, see the
+  limitations and cost of the old method and its less influence compared to newspapers.
+- Compare all of this to [[id:5b2190ca-0361-45e3-bc4b-4862c6159ced][social media]] and modern media.
+- It is very easy to be domesticated, and you can learn with the same ease, the challenge now is the
+  ongoing filtration process that you must do in order not to fall under the influence of domestication.
+- However, this filtration will result what's called "the echo chamber" effect, in which only persons and opinions that are similar to yours will be presented in your timeline, resulting in dogma.
