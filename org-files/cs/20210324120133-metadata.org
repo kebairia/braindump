@@ -2,7 +2,7 @@
 :ID:       4fb14576-0ab3-4364-84c7-86d26f0173b4
 :END:
 #+title: metadata   
-#+filetags: :metadata:computer science:
+#+filetags: :computer-science:metadata:
 
 - a set of data that describes and give information about other data.
 - data that provides information about other data.

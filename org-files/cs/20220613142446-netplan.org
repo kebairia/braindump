@@ -1,0 +1,73 @@
+:PROPERTIES:
+:ID:       3ff6226f-7a39-4fc4-b747-3e5b6c8ea64a
+:ROAM_REFS: https://netplan.io/examples/
+:END:
+#+title: netplan
+#+filetags: :ubuntu:network:computer-science:
+
+Netplan is a backend-agnostic network configuration in YAML.
+Meaning that, it's just an abstraction layer for various backends (NetworkManager, network ...etc)
+It helps the user to easily create a configuration file in =yaml=, and translate that to the chosen backend, avoiding the need to learn multiple config syntaxes for multiple backends.
+(You can specify the desired backend in the configuration file)
+
+* Configuration
+- go to =/etc/netplan= and create a configuration file with =yaml/yml= as an extension.
+
+  =vim /etc/netplan/01-my-configuration.yaml=
+  #+begin_src yaml
+  # Let NetworkManager to manage all devices on this host
+  network:
+    version: 2 # the syntax version in use
+    renderer: NetworkManager # system backend 
+    ethernets:
+      enp1s0:
+        addresses:
+          - 192.168.2.10/24
+          - 192.168.2.11/24
+        nameservers:
+          search: [mydomain, otherdoamin]
+          addresses: [8.8.8.8, 8.8.4.4]
+        #gateway4: 192.168.2.1 # here this keyword specify only the gateway, the one bellow is more general and define the whole routing table
+        routes:
+          - to: default
+            via: 192.168.2.1
+  
+
+  #+end_src
+  - Then you can use the following commands to =try= and =apply= the new configuration.
+    #+begin_src sh
+    # testing the new configuration, and roll back in the user doesn't confirm it after the timeout (by default, timeout=120s)
+    # it can be changed by ---timeout option
+    netplan try 
+    netplan apply # apply the new configuration directly
+    #+end_src
+  - =netplan generate= converts the settings in the yaml files into a configuration appropriate to the renderer specified in use, but does not apply them.
+* Configuration examples
+** DHCP
+#+begin_src yaml
+network:
+    version: 2
+    renderer: networkd
+    ethernets:
+        enp1s0:
+            dhcp4: true
+#+end_src
+** Static with NetworkManager as a renderer 
+#+begin_src yaml
+network:
+    version: 2
+    renderer: NetworkManager
+    ethernets:
+        enp1s0:
+            addresses:
+                - 10.10.10.2/24
+                - 10.10.10.3/24
+            nameservers:
+                search: [mydomain, otherdomain]
+                addresses: [8.8.8.8, 4.4.4.4]
+            routes:
+                - to: default
+                  via: 10.10.10.1
+#+end_src
+
+

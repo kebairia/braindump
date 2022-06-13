@@ -2,7 +2,8 @@
 :ID:       68168c35-a996-4625-b258-85c8cc7465aa
 :END:
 #+title: caching installed rpms
-#+filetags: :dnf:linux:redhat:
+#+filetags: :computer-science:cache:dnf:linux:redhat:
+
 #+begin_src sh
   echo "keepcache=1" >> /etc/dnf/dnf.conf
 #+end_src

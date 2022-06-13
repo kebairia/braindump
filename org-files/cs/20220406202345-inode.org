@@ -3,8 +3,8 @@
 :END:
 #+title: inode
 #+filetags: :data:filesystem:computer-science:
-The inode is a unique number that is realted to a specific file, so that the system can recognize this file and destinguish it from other files.
+The inode is a unique number that is related to a specific file, so that the system can recognize this file and destinguish it from other files.
 When you first format a partition on a disk, the filesystem you use/choose will decide the amount of inodes you can use, and that will decide the number of files you can create on this partition. 
-You can use ~man mkfs.<filesystem>~ to see all the options that are related to the inodes.
-also, you can use ~df -hi~ to see the amount of indoes you have on a particular partition.
+You can use =man mkfs.<filesystem>= to see all the options that are related to the inodes.
+also, you can use =df -hi= to see the amount of indoes you have on a particular partition.
 

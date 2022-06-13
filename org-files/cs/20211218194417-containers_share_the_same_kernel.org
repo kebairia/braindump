@@ -2,7 +2,7 @@
 :ID:       69ad4df6-a995-4008-9f1e-50c59d3203f5
 :END:
 #+title: containers share the same kernel
-#+filetags: :filesystem:linux:
+#+filetags: :computer-science:filesystem:linux:
 
 As we might know, a distribution is just the Linux kernel with a specific set of tools and packages, package manager ...etc
 

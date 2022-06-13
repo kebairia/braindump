@@ -1,4 +1,4 @@
-* Tue, 01 Feb 22 (13:23) : peer reviewed
+* DONE Tue, 01 Feb 22 (13:23) : peer reviewed
 - Peer reviewing can be done by engaging in scientific communities.
 - we can't do that because accessing to papers is restricted and hence --> expensive 
 - so it's really difficult for an independent research to do his own research, unless he engage with organized institutions
@@ -39,7 +39,7 @@ So the metaphor changed. Instead of a puzzle, being curious became more like bei
 is that, they all agree on the usefullness of science, the fact that 'science just work'
 - here, on page 93 on the book 'why trust science' [see the org-noter's note there]
 I saw latour arguing about: that science is about performances, and science was the best way to perform and know about the world.
-- througout history, scientist tried to be adherents or skeptics about science, but I see that all of them gave a common result
+- througout history, scientists tried to be adherents or skeptics about science, but I see that all of them gave a common result
   that put some faith, and trust in science, or as I said above, they all agree on the fact that 'science just work'
 * Thu, 03 Feb 22 (20:08) : how feminism affected the way east look for other ethnicity 
 * Thu, 03 Feb 22 (20:08) : How political pressure affect the way science work
@@ -66,7 +66,8 @@ read this article [[https://www.ninds.nih.gov/Disorders/Patient-Caregiver-Educat
 - search and learning about the development of the western science
   can lead me to think about a new way to doing science, investigating nature
   and also finding answers and exploring the world
-* Tue, 08 Feb 22 (08:48) : why history repeat itself?
+* DONE Tue, 08 Feb 22 (08:48) : why history repeat itself?
+CLOSED: [2022-06-13 Mon 06:13]
 History repeats itself very often because nature changes with geological time, and man is equipped to respond in humans-life time.
 - also humans are equipped with stereotyped ways in dealing with events, stereotypes for responding for things like hunger,
   danger, sex ...etc
@@ -93,7 +94,11 @@ History repeats itself very often because nature changes with geological time, a
 * Fri, 25 Feb 22 (06:54) : 
 - people have an aversion to loss.
   They fear to loose something they have, more than wanting to gain something they don't have.
-* Sun, 27 Feb 22 (13:22) : individualism and freedom
+* DONE Sun, 27 Feb 22 (13:22) : individualism and freedom
+CLOSED: [2022-06-13 Mon 06:31]
+:PROPERTIES:
+:ACTIVATED: [2022-06-13]
+:END:
 the individualism create so much freedom.
 This will cause more confusion for the individual
 Likewise, when there are more options in front of us, it becomes difficult for us to choose
@@ -140,7 +145,10 @@ having too many options might actually cause someone not to make any decision at
 - if there was too many options, we tend to not choose any, and maintain our default state.
 * Sun, 06 Mar 22 (23:38) : why Iam against using sexy positions/photo in pop-songs
 - because it target the primeval side of us, and we should use abstract endeavors for instead
-* Fri, 18 Mar 22 (15:49) : the abandance
+* NEXT Fri, 18 Mar 22 (15:49) : the abandance
+:PROPERTIES:
+:ACTIVATED: [2022-06-13]
+:END:
 - I was watching "Carol 2015" movie, and at the time: 1:07:43 
   carol said: "again" to re-hear the song again
 - At this moment I thought about the abandance that we live in nowadays; we can hear, and re-hear song to the degree that we begin to hate them.
@@ -156,7 +164,7 @@ conclusion that the earth is stationary and the stars revolve around it
   between the two subject that we try to study.
   but sometimes, some humans behavior can't be explained with this kind of approach
 - take empathy for strangers for example, may be it's the result of empathy and the strong
-  relation with whom we have blood relation, but it's nature and rocket science
+  relation with whom we have blood relation, but it's nature and not rocket science
   and the evolution of such behavior can have "taux d'erreur" which lead to strange behavior
   like sacrificing for total strangers 
 * Fri, 25 Mar 22 (20:57) : thinking about the endless of the universe
@@ -227,5 +235,7 @@ This is an example of how to make ~su~ create home directories using the ~pam_mk
 - there is this question: if the soul is immaterial, isn't this an evidance that it will survive the materialistic destruction of the body?
   - but we can go back to the relation between the mind and the body idea, the essance of the idea in the first place.
     We came from the idea that a material effect affect the immaterial soul. hence, the material destruction of the body, does it affect the immaterial soul in the same way ?
-
- 
+* Mon, 13 Jun 22 (00:00) : religion has an individualism tendency
+- a lot of religion has an individualism tendencies, and self salvation in christianity, and also in islam
+  but what I see is that, these individualism tendencies is about the after life, and anything that has relation to faith and 3i9ab
+* Mon, 13 Jun 22 (00:00) : the relation between altruism, game theory, and social contract of jan jack russeau

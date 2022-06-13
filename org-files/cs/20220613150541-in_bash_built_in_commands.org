@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       2e63036f-3e0a-4062-ada2-4b155fd9336a
+:END:
+#+title: "--" in bash-built-in commands
+#+filetags: :options:man:shell:grep:computer-science:
+=--= in used in most bash-built-in commands and other commands to signify to the end of command options, after which only positional arguments are accepted.
+#+begin_src sh
+grep -- -v file
+#+end_src
+- The example above, the =--= meant the end for =grep= to accept options, here =-v= doesn't mean the reverse matching, but rather, grep here search for =-v= word in =file=.
+- We can use this option to search for options in =man=, documentations, or files that have =-= or special characters in their names, 
+- =man bash=
+#+begin_comment
+--   A -- signals the end of options and disables further option processing. Any arguments after the -- are treated as filenames and arguments. An arguments of - is equivalent to --
+#+end_comment

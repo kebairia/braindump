@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       3913ed5c-7ed0-462a-adf0-04c8618baa27
+:END:
+#+title: peer reviews and politics 
+#+filetags: :politics:science:
+
+- Peer review can be done by engaging in scientific communities.
+- We can't do that because accessing to papers is restricted and hence, expensive,
+  so it's really difficult for an independent researcher to do his own research, unless he engage with an organized institutions.
+- These institutions are politically biased and has its own ideology, as well as being politically corrected.

@@ -3,7 +3,7 @@
 :ROAM_REFS: https://orgmode.org/manual/Structure-of-Code-Blocks.html
 :END:
 #+title: inline source blocks
-#+filetags: :emacs:org-mode:thesis:code:
+#+filetags: :computer-science:emacs:org-mode:thesis:code:
 
 we can use inline source blocks in org-mode like the following example:
 #+begin_src org

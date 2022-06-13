@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       995109be-0033-4ba8-93b7-38dacdc182b0
+:END:
+#+title: why history repeats itself?
+#+filetags: :history:
+
+- History repeats itself very often because nature changes with geological time, and man is equipped to respond in humans-life time.
+- also humans are equipped with stereotyped ways in dealing with events, stereotypes for responding for things like hunger, danger, sex ...etc
+
+- *REF*: Seeking wisdom book
+* References :ignore:
+#+print_bibliography
