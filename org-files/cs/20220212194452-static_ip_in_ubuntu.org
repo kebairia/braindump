@@ -3,7 +3,7 @@
 :ROAM_REFS: https://askubuntu.com/questions/826849/ubuntu-16-04-1-ip-address-change#826889
 :END:
 #+title: static ip in ubuntu
-#+filetags: :computer-science:
+#+filetags: :network:linux:ubuntu:computer-science:
 PS: There is a new tool called [[id:3ff6226f-7a39-4fc4-b747-3e5b6c8ea64a][netplan]] in recent version of ubuntu, the method described below is old, yet is still supported.
 - the file that contain the network interfaces configuration is =/etc/network/interfaces=
   #+begin_src sh

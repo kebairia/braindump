@@ -3,6 +3,7 @@
 :ROAM_REFS: https://app.wakingup.com/course/C9D3BB?source=featuredContent
 :END:
 #+title: an analogy for recognizing your distinguish between self and person
+#+filetags: :self:mindfulness:mind:philosophy:
 
 - I was listening for a podcast in "Waking UP" app titled "Do You Really Have a Self?",
   and the "" gave a good analogy to realize your distinguish between the "Self" and "The person (the body)"

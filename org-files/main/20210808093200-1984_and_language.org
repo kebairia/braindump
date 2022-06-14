@@ -2,6 +2,7 @@
 :ID:       a8c9814e-a304-48d8-a50b-88345482781e
 :END:
 #+title: 1984 and language
+#+filetags: :dogma:distopia:language:
 - There is this idea of 'the new language' in the 1984 novel by george orwel.
 - The idea is that, the party has invented a new language called "The New Language" with only few, specific and chosen words so that people can't express themselves or their concerns any more because they don't have the words for that.
 - The idea was that, you can control the minds by controlling the language people use, and by limiting the words people know, you are limiting their ability to describe their position, fears or hopes.
