@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       8357d42b-016c-4382-8706-d260b8863905
+:END:
+#+title: hash checksum
+#+filetags: :checksum:hash:computer-science:
+* Linux
+- As easy as possible
+  #+begin_src sh
+  md5sum file.iso
+  # -c --check
+  md5sum -c checksum_file.txt file.iso
+  #+end_src
+* Windows 
+#+begin_src sh
+C:\> certUtil -hashfile <PATH_TO_FILE> <HASH_ALGORITHM>
+C:\> certUtil -hashfile file.iso md5
+C:\> certUtil -hashfile file.iso sha256
+#+end_src
