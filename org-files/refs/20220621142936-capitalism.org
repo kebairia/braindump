@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       78983bd0-b2f9-46e1-bf70-3a7ced39a590
+:END:
+#+title: capitalism
+
+* References :ignore:
+#+print_bibliography
