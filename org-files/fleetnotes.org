@@ -239,3 +239,9 @@ This is an example of how to make ~su~ create home directories using the ~pam_mk
 - a lot of religion has an individualism tendencies, and self salvation in christianity, and also in islam
   but what I see is that, these individualism tendencies is about the after life, and anything that has relation to faith and 3i9ab
 * Mon, 13 Jun 22 (00:00) : the relation between altruism, game theory, and social contract of jan jack russeau
+* Thu, 23 Jun 22 (12:02) : symmetry and simplicity
+https://www.pnas.org/doi/epdf/10.1073/pnas.2113883119
+Why there is symmetry in biological organisms,
+because symmetrical shapes requires less information to produces compared to no-symmetrical shapes
+symmetrical shapes represent simplicity
+

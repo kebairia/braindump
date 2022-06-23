@@ -8,7 +8,7 @@
 Meaning that when we remember an event, we don't remember all the details of the event, but rather we remember our feelings and reactions to
 that particular event.
 
-This is what create problem in discussions/when arguing, we don't give the whole picture about a particular event,
-we give and only remember our side of the story without the details, only our emotions and reaction to it, which make it more difficult  to consider it accurate or objective.
+This is what create problems in discussions/when arguing, we don't give the whole picture about a particular event,
+we give and only remember our side of the story without the details, only our emotions and reaction to it, which make it more difficult to consider it accurate or objective.
 * References :ignore:
 #+print_bibliography

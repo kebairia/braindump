@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       01753e72-6975-45b2-b2fc-7633a015b1b2
+:END:
+#+title: changing ip address in linux
+#+filetags: :network:linux:computer-science:
+
+#+begin_src sh
+nmcli c mod <CONNECTION> ipv4.address 192.168.0.100/24
+ifconfig eth0 192.168.0.100 netmask 255.255.255.0
+ip addr add 192.168.0.100/24 dev eth0
+#+end_src

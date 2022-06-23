@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       473e30ef-8446-4b02-a99c-0048eb7532c8
+:END:
+#+title: reading physical books is faster
+#+filetags: :read:habit:book:
+
+I found that reading physical books is a lot faster than the reading on laptop.
+One of the reasons for me is that, with laptop, it's a lot easier to be distracted by notification, changing workspace or web browsing.
+Reading physical books create [[id:e01ef402-7211-46c3-acb9-f2bf111bdd97][natural breaks]] between tasks, reducing stress and the feeling of being overwhelmed.

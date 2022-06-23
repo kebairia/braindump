@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       e01ef402-7211-46c3-acb9-f2bf111bdd97
+:END:
+#+title: natural breaks
+#+filetags: :habit:
+
+One of the strategy I'm using and have found to be incredibly helpful is the usage of what I refer to as "natual breaks" between work or the habits I'm attempting to establish.
+Anything that causes you to experience a natural separation between two tasks is considered a natural break.
+For instance, transitioning from reading a book on my laptop into another task (even though it's different) while still using the same laptop, location, and setup doesn't feel like I changed anything; instead, it feels to my mind that I'm continuing on the same routine and task, which is overwhelming.
+Here comes the "Natural breaks": When attempting to change the task you're working on, try to change the location or physically separate the two tasks, change the medium you're using, the location you're setting...etc.
+
