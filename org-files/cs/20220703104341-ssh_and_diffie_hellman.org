@@ -1,0 +1,29 @@
+:PROPERTIES:
+:ID:       6e152849-178a-41f0-afe5-496e7ee58563
+:END:
+#+title: ssh and diffie-hellman
+#+filetags: :computer-science:
+
+On =/etc/ssh/moduli=, the system-wide configuration directory for [[id:b266a53c-5617-44e7-af30-9012c1a18197][ssh]], there is this file =/etc/ssh/moduli=
+#+begin_src sh :export both :results output
+head -n 3 /etc/ssh/moduli
+#+end_src
+
+#+RESULTS:
+: #    $OpenBSD: moduli,v 1.31 2021/09/28 11:10:05 dtucker Exp $
+: # Time Type Tests Tries Size Generator Modulus
+: 20210524220022 2 6 100 2047 2 C117F4B631CA032FD2F00AC0D9A5473D8E56DA246FC44FD594BF5657D399E453728341CC920EE9127729637683D268CA3B62F5CB61C7D4F08D3F202D67DBBBD88498043861190549649D82E7793A1874FE0E8ED0B460E3442DD4DFC2301A1B6D8FA36C7CAD084B2FFEF2205E3CE46B030E4618C7B50656BF9FB60592B1FA32E91E0D536A12E601317F0562F547FF44DF33377ABAB2A2991EC99887712BFD9C78BBAA8759B09577706493F50A416F472D6F7B9532959A8899FACEB55B012E8FE8131AA45E1851FFAA3572E489FF4AAE89ECB583C98CC29ADBB1E9677AE2517D6BC1BC13C5A18A232FAD4CDC6E580FEC730D070D49E88A23C528A4985F806ABBEB
+
+The man page =man moduli= we can see that this file contains prime numbers and generators for the Diffie-Hellman method, used by the =sshd= service
+#+begin_src sh :results output
+man moduli | grep -A 3 "DESCRIPTION"
+#+end_src
+
+#+RESULTS:
+: DESCRIPTION
+:      The /etc/ssh/moduli file contains prime numbers and generators for use by
+:      sshd(8) in the Diffie-Hellman Group Exchange key exchange method.
+: 
+
+You can see =man moduli= for more information (file structure ...etc)
+

@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       3c88f8e4-ed70-4ed6-a3dc-5cef2c15d0bc
+:END:
+#+title: erase fs,pt or raid signatures from a block
+#+filetags: :computer-science:
+
+=wipefs= is a tool that helps you to erase any filesystem, partition table or RAID signature from a given block device.
+#+begin_src sh 
+wipefs --all /dev/sdb
+#+end_src
