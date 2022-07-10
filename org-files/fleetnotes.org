@@ -244,4 +244,8 @@ https://www.pnas.org/doi/epdf/10.1073/pnas.2113883119
 Why there is symmetry in biological organisms,
 because symmetrical shapes requires less information to produces compared to no-symmetrical shapes
 symmetrical shapes represent simplicity
-
+* Sun, 10 Jul 22 (13:59) : modular arithmetic or clock arithmetic
+- we can explain modulars with clock because we used to use this concept to determine 
+  the time after 12AM(noon)
+  13 --> 13%12 = 1
+  14 --> 13%12 = 2 ...etc
