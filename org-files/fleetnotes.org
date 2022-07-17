@@ -249,3 +249,9 @@ symmetrical shapes represent simplicity
   the time after 12AM(noon)
   13 --> 13%12 = 1
   14 --> 13%12 = 2 ...etc
+* Thu, 14 Jul 22 (22:45) : How to teach
+- "The best way to communicate from one human to another is through story", Donald knuth
+- "I like the way of teaching, the same way I do, is by solving a problem"
+  Put an understandable problem at the beginning of the video, and try to solve it using coming sense" telling a story
+  student or viewer will relate to the material you're teaching, and also will grasp the idea because abstraction always hard
+- I try to win reader/viewer attention by telling a personal story, I must a least appear to be personal, it's not necessarly to be true, just to make the viewer paying attention

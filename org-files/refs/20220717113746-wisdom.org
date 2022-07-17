@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       22cc3a1e-d2c1-4803-90bd-cd04618b4b36
+:ROAM_REFS: https://www.youtube.com/watch?v=Y1f_YdLJgWI
+:END:
+#+title: wisdom
+#+filetags: :neuron:self:mindfulness:emotion:memory:wisdom:
+
+Wisdom is a memory without the emotional charge, because current memories are so diluted with emotions
+and emotions ain't a way to gain an objective view on reality, and experiences.
+
+These are the words of "Dr. Joe Disp​enza"
+* References :ignore:
+#+print_bibliography

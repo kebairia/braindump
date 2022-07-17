@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       5070789d-f3ef-4fdc-9561-60b5340f5247
+:END:
+#+title: know systemd target you are in
+#+filetags: :linux:systemd:computer-science:
+
+To know which systemd target you're in, you can use the following commands:
+#+begin_src sh
+systemctl list-units --type target --state active
+
+systemctl is-active rescue.target 
+inactive
+systemctl is-active emergency.target
+active
+#+end_src
