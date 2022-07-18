@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       08b11f4f-26b3-4c2d-97b4-0e24bb5413c1
+:END:
+#+title: true wisdom
+
+True [[id:22cc3a1e-d2c1-4803-90bd-cd04618b4b36][wisdom]] begin when we accept thing as they are
+The legend of Korra S3E1
+#+ATTR_ORG: :width 800
+[[file:~/dox/braindump/org-files/img/korra/korra_s3_e1.jpg]]jj
