@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       3a3dc310-88da-4748-83ad-b6ff4c28caf5
+:END:
+#+title: efficiency, a legacy of the Industrial Revolution
+#+filetags: :productivity:efficiency:time:
+
+Efficiency
+The concept of "I must do more things in a shorter amount of time. The concept of ultimate and ideal efficiency"
+Is one of the concepts that we took from the [[id:5cf113ed-fc28-418f-a5c0-64c9e8bced01][industrial revolution]] era, when people realized they could squeeze more output from a machine and assumed that this would also work with humans.
+* References :ignore:
+#+print_bibliography

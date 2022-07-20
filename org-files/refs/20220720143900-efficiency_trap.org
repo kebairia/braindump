@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       28d874f6-8b6f-41b9-b582-bbb7872714c5
+:ROAM_REFS: https://app.wakingup.com/life/series/time-management-for-mortals
+:END:
+#+title: efficiency trap
+#+filetags: :efficiency:time:productivity:
+- [[id:149ac765-21d4-4c74-bd9d-d21e69d1f649][efficiency]] trap 1
+  The more efficient you are, the more tasks you are assigned,
+  the more emails you respond to, the more replies you get, the busier you will become.
+  Also, your efficiency will earn you a good reputation, and more people will contact you because they guarantee your responsiveness.
+- efficiency trap 2
+  The more tasks you complete in a short period of time, the shallower these tasks are.
+  Your brain will postpone harder tasks that require more focus for later, and you will be drawn to easier tasks.
+  At the end of the day, you will realize that you only completed easy and unimportant tasks.
+* References :ignore:
+#+print_bibliography
